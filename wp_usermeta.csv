@@ -1,0 +1,22 @@
+"1","1","nickname","admin"
+"2","1","first_name",
+"3","1","last_name",
+"4","1","description",
+"5","1","rich_editing","true"
+"6","1","comment_shortcuts","false"
+"7","1","admin_color","fresh"
+"8","1","use_ssl","0"
+"9","1","show_admin_bar_front","true"
+"10","1","wp_capabilities","a:1:{s:13:""administrator"";b:1;}"
+"11","1","wp_user_level","10"
+"12","1","dismissed_wp_pointers","wp360_locks,wp390_widgets,wp410_dfw"
+"13","1","show_welcome_panel","1"
+"15","1","wp_dashboard_quick_press_last_post_id","203"
+"16","1","session_tokens","a:1:{s:64:""5119a7554e9026a434d6ab5ad85432585cefb8ca4ea706a39b9b134b7aa32cc3"";a:4:{s:10:""expiration"";i:1437576514;s:2:""ip"";s:9:""127.0.0.1"";s:2:""ua"";s:76:""Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"";s:5:""login"";i:1437403714;}}"
+"17","1","wp_user-settings","libraryContent=browse&editor=tinymce&hidetb=0&mfold=o"
+"18","1","wp_user-settings-time","1433867503"
+"19","1","closedpostboxes_post","a:0:{}"
+"20","1","metaboxhidden_post","a:7:{i:0;s:11:""postexcerpt"";i:1;s:13:""trackbacksdiv"";i:2;s:10:""postcustom"";i:3;s:16:""commentstatusdiv"";i:4;s:11:""commentsdiv"";i:5;s:7:""slugdiv"";i:6;s:9:""authordiv"";}"
+"21","1","managenav-menuscolumnshidden","a:4:{i:0;s:11:""link-target"";i:1;s:11:""css-classes"";i:2;s:3:""xfn"";i:3;s:11:""description"";}"
+"22","1","metaboxhidden_nav-menus","a:2:{i:0;s:8:""add-post"";i:1;s:12:""add-post_tag"";}"
+"23","1","nav_menu_recently_edited","74"
