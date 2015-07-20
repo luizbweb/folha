@@ -26,7 +26,7 @@
         </figure>
         
         <div class="related-post">
-            <h2 class="block-title"><span class="bordertitle-red"></span><?php echo _e( 'Related Post', 'profitmag'); ?></h2>
+            <h2 class="block-title"><span class="bordertitle-red"></span><?php echo _e( 'Postagens Relacionadas', 'profitmag'); ?></h2>
             <?php profitmag_related_post( get_the_ID() ); ?>
             <ul>
                 
@@ -40,7 +40,7 @@
         <?php the_content(); ?>
 		<?php
 			wp_link_pages( array(
-				'before' => '<div class="page-links">' . __( 'Pages:', 'profitmag' ),
+				'before' => '<div class="page-links">' . __( 'Paginas:', 'profitmag' ),
 				'after'  => '</div>',
 			) );
 		?>
@@ -54,7 +54,7 @@
 				if ( $categories_list && profitmag_categorized_blog() ) :
 			?>
 			<span class="cat-links">
-				<?php printf( __( 'Posted in %1$s', 'profitmag' ), $categories_list ); ?>
+				<?php printf( __( 'Postado in %1$s', 'profitmag' ), $categories_list ); ?>
 			</span>
 			<?php endif; // End if categories ?>
 
@@ -64,12 +64,12 @@
 				if ( $tags_list ) :
 			?>
 			<span class="tags-links">
-				<?php printf( __( 'Tagged %1$s', 'profitmag' ), $tags_list ); ?>
+				<?php printf( __( 'Etiquetado %1$s', 'profitmag' ), $tags_list ); ?>
 			</span>
 			<?php endif; // End if $tags_list ?>
 		     
 	
 
-		<?php edit_post_link( __( 'Edit', 'profitmag' ), '<span class="edit-link">', '</span>' ); ?>
+		<?php edit_post_link( __( 'Editar', 'profitmag' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->

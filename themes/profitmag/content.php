@@ -31,11 +31,11 @@
 		<?php
 			the_excerpt();            
 		?>
-		<a class="read-more" href="<?php echo get_permalink( get_the_ID() ); ?> "><?php _e('Read More', 'profitmag'); ?></a>
+		<a class="read-more" href="<?php echo get_permalink( get_the_ID() ); ?> "><?php _e('Leia Mais', 'profitmag'); ?></a>
 
 		<?php
 			wp_link_pages( array(
-				'before' => '<div class="page-links">' . __( 'Pages:', 'profitmag' ),
+				'before' => '<div class="page-links">' . __( 'Paginas:', 'profitmag' ),
 				'after'  => '</div>',
 			) );
 		?>
@@ -49,7 +49,7 @@
 				if ( $categories_list && profitmag_categorized_blog() ) :
 			?>
 			<span class="cat-links">
-				<?php printf( __( 'Posted in %1$s', 'profitmag' ), $categories_list ); ?>
+				<?php printf( __( 'Postado em %1$s', 'profitmag' ), $categories_list ); ?>
 			</span>
 			<?php endif; // End if categories ?>
 
@@ -59,15 +59,15 @@
 				if ( $tags_list ) :
 			?>
 			<span class="tags-links">
-				<?php printf( __( 'Tagged %1$s', 'profitmag' ), $tags_list ); ?>
+				<?php printf( __( 'Etiquetado %1$s', 'profitmag' ), $tags_list ); ?>
 			</span>
 			<?php endif; // End if $tags_list ?>
 		<?php endif; // End if 'post' == get_post_type() ?>
 
 		<?php if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) : ?>
-		<span class="comments-link"><?php comments_popup_link( __( 'Leave a comment', 'profitmag' ), __( '1 Comment', 'profitmag' ), __( '% Comments', 'profitmag' ) ); ?></span>
+		<span class="comments-link"><?php comments_popup_link( __( 'Deixe um comentário', 'profitmag' ), __( '1 Comentário', 'profitmag' ), __( '% Comentários', 'profitmag' ) ); ?></span>
 		<?php endif; ?>
 
-		<?php edit_post_link( __( 'Edit', 'profitmag' ), '<span class="edit-link">', '</span>' ); ?>
+		<?php edit_post_link( __( 'Editar', 'profitmag' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
