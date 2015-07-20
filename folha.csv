@@ -1,0 +1,1649 @@
+"1","siteurl","http://localhost/folha","yes"
+"2","home","http://localhost/folha","yes"
+"3","blogname","Folha da Terra","yes"
+"4","blogdescription","Só mais um site WordPress","yes"
+"5","users_can_register","0","yes"
+"6","admin_email","luizbweb@gmail.com","yes"
+"7","start_of_week","0","yes"
+"8","use_balanceTags","0","yes"
+"9","use_smilies","1","yes"
+"10","require_name_email","1","yes"
+"11","comments_notify","1","yes"
+"12","posts_per_rss","10","yes"
+"13","rss_use_excerpt","0","yes"
+"14","mailserver_url","mail.example.com","yes"
+"15","mailserver_login","login@example.com","yes"
+"16","mailserver_pass","password","yes"
+"17","mailserver_port","110","yes"
+"18","default_category","1","yes"
+"19","default_comment_status","open","yes"
+"20","default_ping_status","open","yes"
+"21","default_pingback_flag","1","yes"
+"22","posts_per_page","10","yes"
+"23","date_format","j \d\e F \d\e Y","yes"
+"24","time_format","H:i","yes"
+"25","links_updated_date_format","j \d\e F \d\e Y, H:i","yes"
+"26","comment_moderation","0","yes"
+"27","moderation_notify","1","yes"
+"28","permalink_structure","/index.php/%year%/%monthnum%/%day%/%postname%/","yes"
+"29","gzipcompression","0","yes"
+"30","hack_file","0","yes"
+"31","blog_charset","UTF-8","yes"
+"32","moderation_keys",,"no"
+"33","active_plugins","a:1:{i:0;s:19:""jetpack/jetpack.php"";}","yes"
+"34","category_base",,"yes"
+"35","ping_sites","http://rpc.pingomatic.com/","yes"
+"36","advanced_edit","0","yes"
+"37","comment_max_links","2","yes"
+"38","gmt_offset","0","yes"
+"39","default_email_category","1","yes"
+"40","recently_edited","a:4:{i:0;s:62:""/opt/lampp/htdocs/folha/wp-content/plugins/jetpack/jetpack.php"";i:1;s:62:""/opt/lampp/htdocs/folha/wp-content/plugins/akismet/akismet.php"";i:2;s:61:""/opt/lampp/htdocs/folha/wp-content/themes/profitmag/style.css"";i:3;s:0:"""";}","no"
+"41","template","profitmag","yes"
+"42","stylesheet","profitmag","yes"
+"43","comment_whitelist","1","yes"
+"44","blacklist_keys",,"no"
+"45","comment_registration","0","yes"
+"46","html_type","text/html","yes"
+"47","use_trackback","0","yes"
+"48","default_role","subscriber","yes"
+"49","db_version","31535","yes"
+"50","uploads_use_yearmonth_folders","1","yes"
+"51","upload_path",,"yes"
+"52","blog_public","1","yes"
+"53","default_link_category","2","yes"
+"54","show_on_front","posts","yes"
+"55","tag_base",,"yes"
+"56","show_avatars","1","yes"
+"57","avatar_rating","G","yes"
+"58","upload_url_path",,"yes"
+"59","thumbnail_size_w","150","yes"
+"60","thumbnail_size_h","150","yes"
+"61","thumbnail_crop","1","yes"
+"62","medium_size_w","300","yes"
+"63","medium_size_h","300","yes"
+"64","avatar_default","mystery","yes"
+"65","large_size_w","1024","yes"
+"66","large_size_h","1024","yes"
+"67","image_default_link_type","file","yes"
+"68","image_default_size",,"yes"
+"69","image_default_align",,"yes"
+"70","close_comments_for_old_posts","0","yes"
+"71","close_comments_days_old","14","yes"
+"72","thread_comments","1","yes"
+"73","thread_comments_depth","5","yes"
+"74","page_comments","0","yes"
+"75","comments_per_page","50","yes"
+"76","default_comments_page","newest","yes"
+"77","comment_order","asc","yes"
+"78","sticky_posts","a:0:{}","yes"
+"79","widget_categories","a:6:{i:2;a:4:{s:5:""title"";s:0:"""";s:5:""count"";i:0;s:12:""hierarchical"";i:0;s:8:""dropdown"";i:0;}i:5;a:0:{}i:6;a:0:{}i:7;a:0:{}i:9;a:4:{s:5:""title"";s:0:"""";s:5:""count"";i:0;s:12:""hierarchical"";i:0;s:8:""dropdown"";i:0;}s:12:""_multiwidget"";i:1;}","yes"
+"80","widget_text","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"81","widget_rss","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"82","uninstall_plugins","a:0:{}","no"
+"83","timezone_string",,"yes"
+"84","page_for_posts","2","yes"
+"85","page_on_front","9","yes"
+"86","default_post_format","0","yes"
+"87","link_manager_enabled","0","yes"
+"88","initial_db_version","31535","yes"
+"89","wp_user_roles","a:5:{s:13:""administrator"";a:2:{s:4:""name"";s:13:""Administrator"";s:12:""capabilities"";a:62:{s:13:""switch_themes"";b:1;s:11:""edit_themes"";b:1;s:16:""activate_plugins"";b:1;s:12:""edit_plugins"";b:1;s:10:""edit_users"";b:1;s:10:""edit_files"";b:1;s:14:""manage_options"";b:1;s:17:""moderate_comments"";b:1;s:17:""manage_categories"";b:1;s:12:""manage_links"";b:1;s:12:""upload_files"";b:1;s:6:""import"";b:1;s:15:""unfiltered_html"";b:1;s:10:""edit_posts"";b:1;s:17:""edit_others_posts"";b:1;s:20:""edit_published_posts"";b:1;s:13:""publish_posts"";b:1;s:10:""edit_pages"";b:1;s:4:""read"";b:1;s:8:""level_10"";b:1;s:7:""level_9"";b:1;s:7:""level_8"";b:1;s:7:""level_7"";b:1;s:7:""level_6"";b:1;s:7:""level_5"";b:1;s:7:""level_4"";b:1;s:7:""level_3"";b:1;s:7:""level_2"";b:1;s:7:""level_1"";b:1;s:7:""level_0"";b:1;s:17:""edit_others_pages"";b:1;s:20:""edit_published_pages"";b:1;s:13:""publish_pages"";b:1;s:12:""delete_pages"";b:1;s:19:""delete_others_pages"";b:1;s:22:""delete_published_pages"";b:1;s:12:""delete_posts"";b:1;s:19:""delete_others_posts"";b:1;s:22:""delete_published_posts"";b:1;s:20:""delete_private_posts"";b:1;s:18:""edit_private_posts"";b:1;s:18:""read_private_posts"";b:1;s:20:""delete_private_pages"";b:1;s:18:""edit_private_pages"";b:1;s:18:""read_private_pages"";b:1;s:12:""delete_users"";b:1;s:12:""create_users"";b:1;s:17:""unfiltered_upload"";b:1;s:14:""edit_dashboard"";b:1;s:14:""update_plugins"";b:1;s:14:""delete_plugins"";b:1;s:15:""install_plugins"";b:1;s:13:""update_themes"";b:1;s:14:""install_themes"";b:1;s:11:""update_core"";b:1;s:10:""list_users"";b:1;s:12:""remove_users"";b:1;s:9:""add_users"";b:1;s:13:""promote_users"";b:1;s:18:""edit_theme_options"";b:1;s:13:""delete_themes"";b:1;s:6:""export"";b:1;}}s:6:""editor"";a:2:{s:4:""name"";s:6:""Editor"";s:12:""capabilities"";a:34:{s:17:""moderate_comments"";b:1;s:17:""manage_categories"";b:1;s:12:""manage_links"";b:1;s:12:""upload_files"";b:1;s:15:""unfiltered_html"";b:1;s:10:""edit_posts"";b:1;s:17:""edit_others_posts"";b:1;s:20:""edit_published_posts"";b:1;s:13:""publish_posts"";b:1;s:10:""edit_pages"";b:1;s:4:""read"";b:1;s:7:""level_7"";b:1;s:7:""level_6"";b:1;s:7:""level_5"";b:1;s:7:""level_4"";b:1;s:7:""level_3"";b:1;s:7:""level_2"";b:1;s:7:""level_1"";b:1;s:7:""level_0"";b:1;s:17:""edit_others_pages"";b:1;s:20:""edit_published_pages"";b:1;s:13:""publish_pages"";b:1;s:12:""delete_pages"";b:1;s:19:""delete_others_pages"";b:1;s:22:""delete_published_pages"";b:1;s:12:""delete_posts"";b:1;s:19:""delete_others_posts"";b:1;s:22:""delete_published_posts"";b:1;s:20:""delete_private_posts"";b:1;s:18:""edit_private_posts"";b:1;s:18:""read_private_posts"";b:1;s:20:""delete_private_pages"";b:1;s:18:""edit_private_pages"";b:1;s:18:""read_private_pages"";b:1;}}s:6:""author"";a:2:{s:4:""name"";s:6:""Author"";s:12:""capabilities"";a:10:{s:12:""upload_files"";b:1;s:10:""edit_posts"";b:1;s:20:""edit_published_posts"";b:1;s:13:""publish_posts"";b:1;s:4:""read"";b:1;s:7:""level_2"";b:1;s:7:""level_1"";b:1;s:7:""level_0"";b:1;s:12:""delete_posts"";b:1;s:22:""delete_published_posts"";b:1;}}s:11:""contributor"";a:2:{s:4:""name"";s:11:""Contributor"";s:12:""capabilities"";a:5:{s:10:""edit_posts"";b:1;s:4:""read"";b:1;s:7:""level_1"";b:1;s:7:""level_0"";b:1;s:12:""delete_posts"";b:1;}}s:10:""subscriber"";a:2:{s:4:""name"";s:10:""Subscriber"";s:12:""capabilities"";a:2:{s:4:""read"";b:1;s:7:""level_0"";b:1;}}}","yes"
+"90","WPLANG","pt_BR","yes"
+"91","widget_search","a:3:{i:2;a:1:{s:5:""title"";s:0:"""";}s:12:""_multiwidget"";i:1;i:4;a:0:{}}","yes"
+"92","widget_recent-posts","a:4:{i:2;a:2:{s:5:""title"";s:0:"""";s:6:""number"";i:5;}s:12:""_multiwidget"";i:1;i:4;a:0:{}i:6;a:0:{}}","yes"
+"93","widget_recent-comments","a:2:{i:4;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"94","widget_archives","a:2:{i:4;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"95","widget_meta","a:1:{s:12:""_multiwidget"";i:1;}","yes"
+"96","sidebars_widgets","a:44:{s:19:""wp_inactive_widgets"";a:15:{i:0;s:10:""calendar-3"";i:1;s:10:""archives-4"";i:2;s:8:""search-4"";i:3;s:12:""categories-5"";i:4;s:12:""categories-6"";i:5;s:12:""categories-7"";i:6;s:12:""categories-9"";i:7;s:14:""recent-posts-4"";i:8;s:14:""recent-posts-6"";i:9;s:17:""recent-comments-4"";i:10;s:11:""tag_cloud-3"";i:11;s:11:""tag_cloud-4"";i:12;s:10:""nav_menu-3"";i:13;s:10:""nav_menu-5"";i:14;s:10:""nav_menu-7"";}s:7:""sidebar"";a:3:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:12:""categories-2"";}s:6:""home-1"";a:1:{i:0;s:15:""mh_slider_hp-10"";}s:6:""home-2"";a:2:{i:0;s:17:""mh_custom_posts-3"";i:1;s:17:""mh_custom_posts-7"";}s:6:""home-3"";a:2:{i:0;s:17:""mh_custom_posts-5"";i:1;s:17:""mh_custom_posts-6"";}s:6:""home-4"";a:1:{i:0;s:17:""mh_custom_posts-8"";}s:6:""home-5"";a:5:{i:0;s:8:""search-4"";i:1;s:14:""recent-posts-4"";i:2;s:12:""categories-7"";i:3;s:10:""archives-4"";i:4;s:13:""mh_facebook-4"";}s:7:""posts-1"";a:0:{}s:7:""posts-2"";a:0:{}s:8:""footer-1"";a:1:{i:0;s:12:""categories-9"";}s:8:""footer-2"";a:0:{}s:8:""footer-3"";a:0:{}s:8:""footer-4"";a:1:{i:0;s:11:""tag_cloud-4"";}s:18:""orphaned_widgets_1"";a:3:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:12:""categories-2"";}s:18:""orphaned_widgets_2"";a:0:{}s:18:""orphaned_widgets_3"";a:0:{}s:18:""orphaned_widgets_4"";a:0:{}s:18:""orphaned_widgets_5"";a:0:{}s:18:""orphaned_widgets_6"";a:0:{}s:18:""orphaned_widgets_7"";a:0:{}s:18:""orphaned_widgets_8"";a:0:{}s:18:""orphaned_widgets_9"";a:0:{}s:19:""orphaned_widgets_10"";a:0:{}s:19:""orphaned_widgets_11"";a:0:{}s:19:""orphaned_widgets_12"";a:0:{}s:19:""orphaned_widgets_13"";a:0:{}s:19:""orphaned_widgets_14"";a:0:{}s:19:""orphaned_widgets_15"";a:0:{}s:13:""array_version"";i:3;s:17:""right-sidebar-top"";a:3:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:12:""categories-2"";}s:20:""right-sidebar-middle"";a:0:{}s:16:""left-sidebar-top"";a:0:{}s:19:""left-sidebar-middle"";a:0:{}s:12:""home-popular"";a:0:{}s:14:""fo-top-col-one"";a:2:{i:0;s:10:""nav_menu-8"";i:1;s:11:""nav_menu-14"";}s:14:""fo-top-col-two"";a:3:{i:0;s:10:""nav_menu-9"";i:1;s:11:""nav_menu-15"";i:2;s:11:""nav_menu-17"";}s:16:""fo-top-col-three"";a:1:{i:0;s:11:""nav_menu-10"";}s:15:""fo-top-col-four"";a:2:{i:0;s:11:""nav_menu-11"";i:1;s:11:""nav_menu-16"";}s:15:""fo-top-col-five"";a:2:{i:0;s:11:""nav_menu-12"";i:1;s:11:""nav_menu-13"";}s:14:""fo-top-col-six"";a:1:{i:0;s:18:""facebook-likebox-2"";}s:17:""fo-bottom-col-one"";a:0:{}s:17:""fo-bottom-col-two"";a:0:{}s:19:""fo-bottom-col-three"";a:0:{}s:18:""fo-bottom-col-four"";a:0:{}}","yes"
+"99","cron","a:7:{i:1437097033;a:2:{s:17:""wp_update_plugins"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:10:""twicedaily"";s:4:""args"";a:0:{}s:8:""interval"";i:43200;}}s:16:""wp_update_themes"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:10:""twicedaily"";s:4:""args"";a:0:{}s:8:""interval"";i:43200;}}}i:1437116700;a:1:{s:20:""wp_maybe_auto_update"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:10:""twicedaily"";s:4:""args"";a:0:{}s:8:""interval"";i:43200;}}}i:1437140307;a:1:{s:19:""wp_scheduled_delete"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:5:""daily"";s:4:""args"";a:0:{}s:8:""interval"";i:86400;}}}i:1437155553;a:1:{s:30:""wp_scheduled_auto_draft_delete"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:5:""daily"";s:4:""args"";a:0:{}s:8:""interval"";i:86400;}}}i:1437399433;a:1:{s:16:""wp_version_check"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:10:""twicedaily"";s:4:""args"";a:0:{}s:8:""interval"";i:43200;}}}i:1437400537;a:1:{s:20:""jetpack_clean_nonces"";a:1:{s:32:""40cd750bba9870f18aada2478b24840a"";a:3:{s:8:""schedule"";s:6:""hourly"";s:4:""args"";a:0:{}s:8:""interval"";i:3600;}}}s:7:""version"";i:2;}","yes"
+"103","_site_transient_update_core","O:8:""stdClass"":3:{s:7:""updates"";a:0:{}s:15:""version_checked"";s:5:""4.2.2"";s:12:""last_checked"";i:1437398715;}","yes"
+"104","_transient_random_seed","0b1fc06b9714365eb6d843bca62c8f3c","yes"
+"105","_site_transient_update_plugins","O:8:""stdClass"":1:{s:12:""last_checked"";i:1437078010;}","yes"
+"108","_site_transient_update_themes","O:8:""stdClass"":1:{s:12:""last_checked"";i:1437077952;}","yes"
+"109","can_compress_scripts","1","yes"
+"114","theme_mods_twentyfifteen","a:1:{s:16:""sidebars_widgets"";a:2:{s:4:""time"";i:1432733913;s:4:""data"";a:2:{s:19:""wp_inactive_widgets"";a:0:{}s:9:""sidebar-1"";a:6:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:17:""recent-comments-2"";i:3;s:10:""archives-2"";i:4;s:12:""categories-2"";i:5;s:6:""meta-2"";}}}}","yes"
+"115","current_theme","ProfitMag","yes"
+"116","theme_mods_mh-magazine-lite","a:7:{i:0;b:0;s:12:""header_image"";s:73:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png"";s:17:""header_image_data"";O:8:""stdClass"":5:{s:13:""attachment_id"";i:8;s:3:""url"";s:73:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png"";s:13:""thumbnail_url"";s:73:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png"";s:6:""height"";i:109;s:5:""width"";i:274;}s:18:""nav_menu_locations"";a:1:{s:8:""main_nav"";i:3;}s:16:""background_image"";s:63:""http://localhost/folha/wp-content/uploads/2015/06/edition21.jpg"";s:17:""background_repeat"";s:9:""no-repeat"";s:16:""sidebars_widgets"";a:2:{s:4:""time"";i:1435879813;s:4:""data"";a:28:{s:19:""wp_inactive_widgets"";a:30:{i:0;s:18:""facebook-likebox-2"";i:1;s:10:""nav_menu-8"";i:2;s:10:""nav_menu-9"";i:3;s:11:""nav_menu-10"";i:4;s:11:""nav_menu-11"";i:5;s:11:""nav_menu-12"";i:6;s:11:""nav_menu-13"";i:7;s:11:""nav_menu-14"";i:8;s:11:""nav_menu-15"";i:9;s:11:""nav_menu-16"";i:10;s:11:""nav_menu-17"";i:11;s:10:""calendar-3"";i:12;s:12:""categories-5"";i:13;s:12:""categories-6"";i:14;s:14:""recent-posts-6"";i:15;s:17:""recent-comments-4"";i:16;s:11:""tag_cloud-3"";i:17;s:10:""nav_menu-5"";i:18;s:10:""nav_menu-7"";i:19;s:14:""mh_affiliate-3"";i:20;s:17:""mh_custom_posts-4"";i:21;s:18:""mh_custom_posts-10"";i:22;s:13:""mh_facebook-3"";i:23;s:14:""mh_slider_hp-3"";i:24;s:14:""mh_slider_hp-4"";i:25;s:14:""mh_slider_hp-5"";i:26;s:14:""mh_slider_hp-6"";i:27;s:14:""mh_slider_hp-7"";i:28;s:10:""nav_menu-3"";i:29;s:14:""mh_slider_hp-8"";}s:7:""sidebar"";a:3:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:12:""categories-2"";}s:6:""home-1"";a:1:{i:0;s:15:""mh_slider_hp-10"";}s:6:""home-2"";a:2:{i:0;s:17:""mh_custom_posts-3"";i:1;s:17:""mh_custom_posts-7"";}s:6:""home-3"";a:2:{i:0;s:17:""mh_custom_posts-5"";i:1;s:17:""mh_custom_posts-6"";}s:6:""home-4"";a:1:{i:0;s:17:""mh_custom_posts-8"";}s:6:""home-5"";a:5:{i:0;s:8:""search-4"";i:1;s:14:""recent-posts-4"";i:2;s:12:""categories-7"";i:3;s:10:""archives-4"";i:4;s:13:""mh_facebook-4"";}s:7:""posts-1"";a:0:{}s:7:""posts-2"";a:0:{}s:8:""footer-1"";a:1:{i:0;s:12:""categories-9"";}s:8:""footer-2"";a:0:{}s:8:""footer-3"";a:0:{}s:8:""footer-4"";a:1:{i:0;s:11:""tag_cloud-4"";}s:18:""orphaned_widgets_1"";a:3:{i:0;s:8:""search-2"";i:1;s:14:""recent-posts-2"";i:2;s:12:""categories-2"";}s:18:""orphaned_widgets_2"";a:0:{}s:18:""orphaned_widgets_3"";a:0:{}s:18:""orphaned_widgets_4"";a:0:{}s:18:""orphaned_widgets_5"";a:0:{}s:18:""orphaned_widgets_6"";a:0:{}s:18:""orphaned_widgets_7"";a:0:{}s:18:""orphaned_widgets_8"";a:0:{}s:18:""orphaned_widgets_9"";a:0:{}s:19:""orphaned_widgets_10"";a:0:{}s:19:""orphaned_widgets_11"";a:0:{}s:19:""orphaned_widgets_12"";a:0:{}s:19:""orphaned_widgets_13"";a:0:{}s:19:""orphaned_widgets_14"";a:0:{}s:19:""orphaned_widgets_15"";a:0:{}}}}","yes"
+"117","theme_switched",,"yes"
+"119","theme_mods_profitmag","a:8:{i:0;b:0;s:12:""header_image"";s:72:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag1.png"";s:17:""header_image_data"";O:8:""stdClass"":5:{s:13:""attachment_id"";i:7;s:3:""url"";s:72:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag1.png"";s:13:""thumbnail_url"";s:72:""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag1.png"";s:6:""height"";i:149;s:5:""width"";i:325;}s:18:""nav_menu_locations"";a:1:{s:7:""primary"";i:45;}s:16:""background_image"";s:63:""http://localhost/folha/wp-content/uploads/2015/06/edition21.jpg"";s:17:""background_repeat"";s:9:""no-repeat"";s:21:""background_attachment"";s:5:""fixed"";s:21:""background_position_x"";s:4:""left"";}","yes"
+"127","widget_calendar","a:3:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:0:{}}","yes"
+"128","widget_nav_menu","a:15:{i:1;a:0:{}i:3;a:0:{}i:5;a:1:{s:8:""nav_menu"";i:3;}i:7;a:0:{}i:8;a:2:{s:5:""title"";s:6:""Cidade"";s:8:""nav_menu"";i:65;}i:9;a:2:{s:5:""title"";s:7:""Cultura"";s:8:""nav_menu"";i:66;}i:10;a:2:{s:5:""title"";s:9:""Serviços"";s:8:""nav_menu"";i:67;}i:11;a:2:{s:5:""title"";s:8:""Economia"";s:8:""nav_menu"";i:68;}i:12;a:2:{s:5:""title"";s:10:""Educação"";s:8:""nav_menu"";i:69;}i:13;a:2:{s:5:""title"";s:8:""Esportes"";s:8:""nav_menu"";i:70;}i:14;a:2:{s:5:""title"";s:8:""Politica"";s:8:""nav_menu"";i:71;}i:15;a:2:{s:5:""title"";s:6:""Saúde"";s:8:""nav_menu"";i:72;}i:16;a:2:{s:5:""title"";s:15:""Sociedade Ativa"";s:8:""nav_menu"";i:73;}i:17;a:2:{s:5:""title"";s:7:""Turismo"";s:8:""nav_menu"";i:74;}s:12:""_multiwidget"";i:1;}","yes"
+"129","widget_profitmag-popular-posts","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"130","widget_profitmag-recent-posts","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"131","widget_tag_cloud","a:4:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:0:{}i:4;a:0:{}}","yes"
+"132","widget_pages","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"141","widget_mh_affiliate","a:3:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:0:{}}","yes"
+"142","widget_mh_custom_posts","a:9:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:6:{s:5:""title"";s:6:""Tipo 1"";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}i:4;a:0:{}i:5;a:6:{s:5:""title"";s:6:""Tipo 2"";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}i:6;a:6:{s:5:""title"";s:6:""Tipo 4"";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}i:7;a:6:{s:5:""title"";s:6:""Tipo 3"";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}i:8;a:6:{s:5:""title"";s:10:""Colunistas"";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}i:10;a:6:{s:5:""title"";s:0:"""";s:8:""category"";i:0;s:9:""postcount"";i:5;s:6:""offset"";i:0;s:4:""tags"";s:0:"""";s:6:""sticky"";s:0:"""";}}","yes"
+"143","widget_mh_facebook","a:4:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:8:{s:5:""title"";s:23:""Conectar com o Facebook"";s:12:""facebook_url"";s:33:""https://www.facebook.com/MHthemes"";s:5:""width"";i:300;s:6:""height"";i:240;s:5:""faces"";s:1:""1"";s:6:""stream"";s:0:"""";s:6:""header"";s:0:"""";s:6:""border"";s:0:"""";}i:4;a:8:{s:5:""title"";s:23:""Conectar com o Facebook"";s:12:""facebook_url"";s:46:""https://www.facebook.com/JornalFolhadaterranet"";s:5:""width"";i:300;s:6:""height"";i:240;s:5:""faces"";s:1:""1"";s:6:""stream"";s:0:"""";s:6:""header"";s:0:"""";s:6:""border"";s:0:"""";}}","yes"
+"144","widget_mh_slider_hp","a:9:{i:1;a:0:{}s:12:""_multiwidget"";i:1;i:3;a:0:{}i:4;a:0:{}i:5;a:0:{}i:6;a:5:{s:8:""category"";i:0;s:4:""tags"";s:0:"""";s:9:""postcount"";i:2;s:6:""offset"";i:0;s:6:""sticky"";s:0:"""";}i:7;a:0:{}i:8;a:0:{}i:10;a:0:{}}","yes"
+"167","nav_menu_options","a:2:{i:0;b:0;s:8:""auto_add"";a:1:{i:1;i:45;}}","yes"
+"223","category_children","a:0:{}","yes"
+"232","mh_options","a:1:{s:14:""excerpt_length"";s:3:""125"";}","yes"
+"252","recently_activated","a:0:{}","yes"
+"275","rewrite_rules","a:71:{s:57:""index.php/category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:52:""index.php?category_name=$matches[1]&feed=$matches[2]"";s:52:""index.php/category/(.+?)/(feed|rdf|rss|rss2|atom)/?$"";s:52:""index.php?category_name=$matches[1]&feed=$matches[2]"";s:45:""index.php/category/(.+?)/page/?([0-9]{1,})/?$"";s:53:""index.php?category_name=$matches[1]&paged=$matches[2]"";s:27:""index.php/category/(.+?)/?$"";s:35:""index.php?category_name=$matches[1]"";s:54:""index.php/tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:42:""index.php?tag=$matches[1]&feed=$matches[2]"";s:49:""index.php/tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:42:""index.php?tag=$matches[1]&feed=$matches[2]"";s:42:""index.php/tag/([^/]+)/page/?([0-9]{1,})/?$"";s:43:""index.php?tag=$matches[1]&paged=$matches[2]"";s:24:""index.php/tag/([^/]+)/?$"";s:25:""index.php?tag=$matches[1]"";s:55:""index.php/type/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:50:""index.php?post_format=$matches[1]&feed=$matches[2]"";s:50:""index.php/type/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:50:""index.php?post_format=$matches[1]&feed=$matches[2]"";s:43:""index.php/type/([^/]+)/page/?([0-9]{1,})/?$"";s:51:""index.php?post_format=$matches[1]&paged=$matches[2]"";s:25:""index.php/type/([^/]+)/?$"";s:33:""index.php?post_format=$matches[1]"";s:48:"".*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\.php$"";s:18:""index.php?feed=old"";s:20:"".*wp-app\.php(/.*)?$"";s:19:""index.php?error=403"";s:18:"".*wp-register.php$"";s:23:""index.php?register=true"";s:42:""index.php/feed/(feed|rdf|rss|rss2|atom)/?$"";s:27:""index.php?&feed=$matches[1]"";s:37:""index.php/(feed|rdf|rss|rss2|atom)/?$"";s:27:""index.php?&feed=$matches[1]"";s:30:""index.php/page/?([0-9]{1,})/?$"";s:28:""index.php?&paged=$matches[1]"";s:37:""index.php/comment-page-([0-9]{1,})/?$"";s:38:""index.php?&page_id=9&cpage=$matches[1]"";s:51:""index.php/comments/feed/(feed|rdf|rss|rss2|atom)/?$"";s:42:""index.php?&feed=$matches[1]&withcomments=1"";s:46:""index.php/comments/(feed|rdf|rss|rss2|atom)/?$"";s:42:""index.php?&feed=$matches[1]&withcomments=1"";s:54:""index.php/search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:40:""index.php?s=$matches[1]&feed=$matches[2]"";s:49:""index.php/search/(.+)/(feed|rdf|rss|rss2|atom)/?$"";s:40:""index.php?s=$matches[1]&feed=$matches[2]"";s:42:""index.php/search/(.+)/page/?([0-9]{1,})/?$"";s:41:""index.php?s=$matches[1]&paged=$matches[2]"";s:24:""index.php/search/(.+)/?$"";s:23:""index.php?s=$matches[1]"";s:57:""index.php/author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:50:""index.php?author_name=$matches[1]&feed=$matches[2]"";s:52:""index.php/author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:50:""index.php?author_name=$matches[1]&feed=$matches[2]"";s:45:""index.php/author/([^/]+)/page/?([0-9]{1,})/?$"";s:51:""index.php?author_name=$matches[1]&paged=$matches[2]"";s:27:""index.php/author/([^/]+)/?$"";s:33:""index.php?author_name=$matches[1]"";s:79:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$"";s:80:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]"";s:74:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$"";s:80:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]"";s:67:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$"";s:81:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&paged=$matches[4]"";s:49:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$"";s:63:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]"";s:66:""index.php/([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$"";s:64:""index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]"";s:61:""index.php/([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$"";s:64:""index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]"";s:54:""index.php/([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$"";s:65:""index.php?year=$matches[1]&monthnum=$matches[2]&paged=$matches[3]"";s:36:""index.php/([0-9]{4})/([0-9]{1,2})/?$"";s:47:""index.php?year=$matches[1]&monthnum=$matches[2]"";s:53:""index.php/([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$"";s:43:""index.php?year=$matches[1]&feed=$matches[2]"";s:48:""index.php/([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$"";s:43:""index.php?year=$matches[1]&feed=$matches[2]"";s:41:""index.php/([0-9]{4})/page/?([0-9]{1,})/?$"";s:44:""index.php?year=$matches[1]&paged=$matches[2]"";s:23:""index.php/([0-9]{4})/?$"";s:26:""index.php?year=$matches[1]"";s:68:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/?$"";s:32:""index.php?attachment=$matches[1]"";s:78:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/trackback/?$"";s:37:""index.php?attachment=$matches[1]&tb=1"";s:98:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:93:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:93:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$"";s:50:""index.php?attachment=$matches[1]&cpage=$matches[2]"";s:67:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/trackback/?$"";s:85:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&tb=1"";s:87:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:97:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&feed=$matches[5]"";s:82:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:97:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&feed=$matches[5]"";s:75:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/page/?([0-9]{1,})/?$"";s:98:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&paged=$matches[5]"";s:82:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/comment-page-([0-9]{1,})/?$"";s:98:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&cpage=$matches[5]"";s:67:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)(/[0-9]+)?/?$"";s:97:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&name=$matches[4]&page=$matches[5]"";s:57:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/?$"";s:32:""index.php?attachment=$matches[1]"";s:67:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/trackback/?$"";s:37:""index.php?attachment=$matches[1]&tb=1"";s:87:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:82:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:82:""index.php/[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$"";s:50:""index.php?attachment=$matches[1]&cpage=$matches[2]"";s:74:""index.php/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/comment-page-([0-9]{1,})/?$"";s:81:""index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&cpage=$matches[4]"";s:61:""index.php/([0-9]{4})/([0-9]{1,2})/comment-page-([0-9]{1,})/?$"";s:65:""index.php?year=$matches[1]&monthnum=$matches[2]&cpage=$matches[3]"";s:48:""index.php/([0-9]{4})/comment-page-([0-9]{1,})/?$"";s:44:""index.php?year=$matches[1]&cpage=$matches[2]"";s:37:""index.php/.?.+?/attachment/([^/]+)/?$"";s:32:""index.php?attachment=$matches[1]"";s:47:""index.php/.?.+?/attachment/([^/]+)/trackback/?$"";s:37:""index.php?attachment=$matches[1]&tb=1"";s:67:""index.php/.?.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:62:""index.php/.?.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$"";s:49:""index.php?attachment=$matches[1]&feed=$matches[2]"";s:62:""index.php/.?.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$"";s:50:""index.php?attachment=$matches[1]&cpage=$matches[2]"";s:30:""index.php/(.?.+?)/trackback/?$"";s:35:""index.php?pagename=$matches[1]&tb=1"";s:50:""index.php/(.?.+?)/feed/(feed|rdf|rss|rss2|atom)/?$"";s:47:""index.php?pagename=$matches[1]&feed=$matches[2]"";s:45:""index.php/(.?.+?)/(feed|rdf|rss|rss2|atom)/?$"";s:47:""index.php?pagename=$matches[1]&feed=$matches[2]"";s:38:""index.php/(.?.+?)/page/?([0-9]{1,})/?$"";s:48:""index.php?pagename=$matches[1]&paged=$matches[2]"";s:45:""index.php/(.?.+?)/comment-page-([0-9]{1,})/?$"";s:48:""index.php?pagename=$matches[1]&cpage=$matches[2]"";s:30:""index.php/(.?.+?)(/[0-9]+)?/?$"";s:47:""index.php?pagename=$matches[1]&page=$matches[2]"";}","yes"
+"283","theme_switched_via_customizer",,"yes"
+"289","jetpack_options","a:3:{s:7:""version"";s:16:""3.5.3:1433883337"";s:11:""old_version"";s:16:""3.5.3:1433883337"";s:28:""fallback_no_verify_ssl_certs"";i:0;}","yes"
+"290","jetpack_activated","1","yes"
+"291","jetpack_file_data","a:1:{s:5:""3.5.3"";a:48:{s:32:""8387f4d9286e0d75a6ffdd38ca2f3d7a"";a:13:{s:4:""name"";s:20:""Spelling and Grammar"";s:11:""description"";s:89:""Check your spelling, style, and grammar with the After the Deadline proofreading service."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""6"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""a9ba95b83c2e35efd963e726880ccaa0"";a:13:{s:4:""name"";s:8:""Carousel"";s:11:""description"";s:63:""Transform standard image galleries into full-screen slideshows."";s:14:""jumpstart_desc"";s:79:""brings your photos and images to life as full-size, easily navigable galleries."";s:4:""sort"";s:2:""22"";s:20:""recommendation_order"";s:2:""12"";s:10:""introduced"";s:3:""1.5"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:17:""Photos and Videos"";s:7:""feature"";s:9:""Jumpstart"";}s:32:""81d0234810cefb66b5b5c70f70fb911d"";a:13:{s:4:""name"";s:16:""Jetpack Comments"";s:11:""description"";s:79:""Let readers comment with WordPress.com, Twitter, Facebook, or Google+ accounts."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""20"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.4"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:6:""Social"";s:7:""feature"";s:0:"""";}s:32:""acdd0a6c403a726f94f1524f6bbe5812"";a:13:{s:4:""name"";s:12:""Contact Form"";s:11:""description"";s:44:""Insert a contact form anywhere on your site."";s:14:""jumpstart_desc"";s:111:""adds a button to your post and page editors, allowing you to build simple forms to help visitors stay in touch."";s:4:""sort"";s:2:""15"";s:20:""recommendation_order"";s:2:""14"";s:10:""introduced"";s:3:""1.3"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:5:""Other"";s:7:""feature"";s:9:""Jumpstart"";}s:32:""c2f46048b6a62c8b31a5652ffa14b309"";a:13:{s:4:""name"";s:20:""Custom Content Types"";s:11:""description"";s:92:""Organize and display different types of content on your site, separate from posts and pages."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""34"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""3.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""500333e167855040a236899eca83f47a"";a:13:{s:4:""name"";s:10:""Custom CSS"";s:11:""description"";s:57:""Customize your site’s CSS without modifying your theme."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""2"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.7"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:10:""Appearance"";s:7:""feature"";s:0:"""";}s:32:""e674d855400ff28c2e613a75af00ca83"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""386a0486b3caee2ad69aecce6d994dda"";a:13:{s:4:""name"";s:21:""Enhanced Distribution"";s:11:""description"";s:74:""Share your public posts and comments to search engines and other services."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""5"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:6:""Public"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""7a6d3773c5e50006beeded7776d6fcce"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""3911cf04f119e4071341b74b7878a9fd"";a:13:{s:4:""name"";s:19:""Gravatar Hovercards"";s:11:""description"";s:58:""Enable pop-up business cards over commenters’ Gravatars."";s:14:""jumpstart_desc"";s:131:""let commenters link their profiles to their Gravatar accounts, making it easy for your visitors to learn more about your community."";s:4:""sort"";s:2:""11"";s:20:""recommendation_order"";s:2:""13"";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:18:""Social, Appearance"";s:7:""feature"";s:9:""Jumpstart"";}s:32:""14a25cffca0dd82c97646a0226c7f10f"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:8:""2.0.3 ??"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""81f007bac52dd9137a253ef0563bbdcc"";a:13:{s:4:""name"";s:15:""Infinite Scroll"";s:11:""description"";s:46:""Add support for infinite scroll to your theme."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""26"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.0"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:10:""Appearance"";s:7:""feature"";s:0:"""";}s:32:""8278c39ec40745e2367a3e28ded8ba37"";a:13:{s:4:""name"";s:8:""JSON API"";s:11:""description"";s:69:""Allow applications to securely access your content through the cloud."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""19"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.9"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:6:""Public"";s:11:""module_tags"";s:19:""Writing, Developers"";s:7:""feature"";s:0:"""";}s:32:""fa96a2b0dab87a2a55a62afdc93a1911"";a:13:{s:4:""name"";s:14:""Beautiful Math"";s:11:""description"";s:85:""Use LaTeX markup language in posts and pages for complex equations and other geekery."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""12"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""d860241b5c926369849a35b5057e6847"";a:13:{s:4:""name"";s:5:""Likes"";s:11:""description"";s:70:""Give visitors an easy way to show their appreciation for your content."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""23"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:6:""Social"";s:7:""feature"";s:0:"""";}s:32:""1d7278ec3d62fd499216ed61e5b4ba72"";a:13:{s:4:""name"";s:6:""Manage"";s:11:""description"";s:76:""Manage all your sites from a centralized place, https://wordpress.com/sites."";s:14:""jumpstart_desc"";s:151:""helps you remotely manage plugins, turn on automated updates, and more from <a href=""https://wordpress.com/plugins/"" target=""_blank"">wordpress.com</a>."";s:4:""sort"";s:1:""1"";s:20:""recommendation_order"";s:1:""3"";s:10:""introduced"";s:3:""3.4"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:35:""Centralized Management, Recommended"";s:7:""feature"";s:22:""Recommended, Jumpstart"";}s:32:""b585bcf8354c9d72a4781795d2ce7281"";a:13:{s:4:""name"";s:8:""Markdown"";s:11:""description"";s:51:""Write posts or pages in plain-text Markdown syntax."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""31"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.8"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""73148b4ce7e56154d92d53b1ae4f2435"";a:13:{s:4:""name"";s:12:""Mobile Theme"";s:11:""description"";s:64:""Optimize your site with a mobile-friendly theme for smartphones."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""21"";s:20:""recommendation_order"";s:2:""11"";s:10:""introduced"";s:3:""1.8"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:31:""Appearance, Mobile, Recommended"";s:7:""feature"";s:11:""Recommended"";}s:32:""a893827ebf88a94dc9943e972b07e497"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""39ccdd966401a003973209f1d6ab1cad"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""d7498f6ae339d538d599000a55a97c61"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""b10a401e9803c022d7fc24207ec50e68"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""13855a1f804fd0a9f6d1ef39df97c2cd"";a:13:{s:4:""name"";s:7:""Monitor"";s:11:""description"";s:88:""Receive notifications from Jetpack if your site goes offline — and when it it returns."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""28"";s:20:""recommendation_order"";s:2:""10"";s:10:""introduced"";s:3:""2.6"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:11:""Recommended"";s:7:""feature"";s:11:""Recommended"";}s:32:""af76c43b9214b79c619741e37020371a"";a:13:{s:4:""name"";s:13:""Notifications"";s:11:""description"";s:84:""Receive notification of site activity via the admin toolbar and your Mobile devices."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""13"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.9"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:5:""Other"";s:7:""feature"";s:0:"""";}s:32:""cb3d0d12ed14dd7c821bba2b5ce6924e"";a:13:{s:4:""name"";s:10:""Omnisearch"";s:11:""description"";s:66:""Search your entire database from a single field in your Dashboard."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""16"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.3"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:10:""Developers"";s:7:""feature"";s:0:"""";}s:32:""3cbdf1586341edf7e702b2f25738b97b"";a:13:{s:4:""name"";s:6:""Photon"";s:11:""description"";s:66:""Accelerate your site by loading images from the WordPress.com CDN."";s:14:""jumpstart_desc"";s:141:""mirrors and serves your images from our free and fast image CDN, improving your site’s performance with no additional load on your servers."";s:4:""sort"";s:2:""25"";s:20:""recommendation_order"";s:1:""1"";s:10:""introduced"";s:3:""2.0"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:42:""Photos and Videos, Appearance, Recommended"";s:7:""feature"";s:22:""Recommended, Jumpstart"";}s:32:""a96137a7473ad6ec82d3259b2be36df0"";a:13:{s:4:""name"";s:13:""Post by Email"";s:11:""description"";s:58:""Publish posts by email, using any device and email client."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""14"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.0"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:7:""Writing"";s:7:""feature"";s:0:"""";}s:32:""0548b33cea255efd98e4e58a2c920e88"";a:13:{s:4:""name"";s:7:""Protect"";s:11:""description"";s:70:""Adds brute force protection to your login page. Formerly BruteProtect."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""1"";s:20:""recommendation_order"";s:1:""4"";s:10:""introduced"";s:3:""3.4"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:11:""Recommended"";s:7:""feature"";s:11:""Recommended"";}s:32:""c1d4f03694cf23b91e15f730d10572c8"";a:13:{s:4:""name"";s:9:""Publicize"";s:11:""description"";s:55:""Share new posts on social media networks automatically."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""10"";s:20:""recommendation_order"";s:1:""7"";s:10:""introduced"";s:3:""2.0"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:19:""Social, Recommended"";s:7:""feature"";s:11:""Recommended"";}s:32:""03db003dbf94e61a49fb6a9534481e0d"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""dfd9e252fd9cb95712834288d05f3240"";a:13:{s:4:""name"";s:13:""Related Posts"";s:11:""description"";s:60:""Display links to your related content under posts and pages."";s:14:""jumpstart_desc"";s:113:""keep visitors engaged on your blog by highlighting relevant and new content at the bottom of each published post."";s:4:""sort"";s:2:""29"";s:20:""recommendation_order"";s:1:""9"";s:10:""introduced"";s:3:""2.9"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:11:""Recommended"";s:7:""feature"";s:22:""Recommended, Jumpstart"";}s:32:""8f80216ce9d3368ffb74e88972bf89a1"";a:13:{s:4:""name"";s:7:""Sharing"";s:11:""description"";s:81:""Allow visitors to share your content on Facebook, Twitter, and more with a click."";s:14:""jumpstart_desc"";s:116:""Twitter, Facebook and Google+ buttons at the bottom of each post, making it easy for visitors to share your content."";s:4:""sort"";s:1:""7"";s:20:""recommendation_order"";s:1:""6"";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:3:""1.2"";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:19:""Social, Recommended"";s:7:""feature"";s:22:""Recommended, Jumpstart"";}s:32:""cca45a0ee995008c67156bdaa8a4c865"";a:13:{s:4:""name"";s:16:""Shortcode Embeds"";s:11:""description"";s:77:""Embed content from YouTube, Vimeo, SlideShare, and more, no coding necessary."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""3"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:3:""1.2"";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:46:""Photos and Videos, Social, Writing, Appearance"";s:7:""feature"";s:0:"""";}s:32:""1c0eff6c2559a3ec7d82962178c27539"";a:13:{s:4:""name"";s:16:""WP.me Shortlinks"";s:11:""description"";s:56:""Enable WP.me-powered shortlinks for all posts and pages."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""8"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:6:""Social"";s:7:""feature"";s:0:"""";}s:32:""09603fe6fdaf3da972570fb1d0789237"";a:13:{s:4:""name"";s:9:""Site Icon"";s:11:""description"";s:29:""Add a site icon to your site."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""22"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""3.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:5:""Other"";s:7:""feature"";s:0:"""";}s:32:""60b0acbe717774416fd990d05454f22b"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""9580defb77f5df6a1a050ace7d98cff8"";a:13:{s:4:""name"";s:22:""Jetpack Single Sign On"";s:11:""description"";s:62:""Allow your users to log in using their WordPress.com accounts."";s:14:""jumpstart_desc"";s:97:""lets you login to all your Jetpack-enabled sites with one click using your WordPress.com account."";s:4:""sort"";s:2:""30"";s:20:""recommendation_order"";s:1:""5"";s:10:""introduced"";s:3:""2.6"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:10:""Developers"";s:7:""feature"";s:9:""Jumpstart"";}s:32:""a936591ad3db046b30d3d758885b1279"";a:13:{s:4:""name"";s:19:""WordPress.com Stats"";s:11:""description"";s:85:""Monitor your stats with clear, concise reports and no additional load on your server."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""1"";s:20:""recommendation_order"";s:1:""2"";s:10:""introduced"";s:3:""1.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:32:""WordPress.com Stats, Recommended"";s:7:""feature"";s:11:""Recommended"";}s:32:""a1d30cd4ea994bd26e46d7c16757a10f"";a:13:{s:4:""name"";s:13:""Subscriptions"";s:11:""description"";s:88:""Allow users to subscribe to your posts and comments and receive notifications via email."";s:14:""jumpstart_desc"";s:126:""give visitors two easy subscription options — while commenting, or via a separate email subscription widget you can display."";s:4:""sort"";s:1:""9"";s:20:""recommendation_order"";s:1:""8"";s:10:""introduced"";s:3:""1.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:6:""Social"";s:7:""feature"";s:9:""Jumpstart"";}s:32:""2880351ec7b16c5235a2490f16e566fa"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""4c32e716be11619c81597b4cf429508f"";a:13:{s:4:""name"";s:15:""Tiled Galleries"";s:11:""description"";s:73:""Display your image galleries in a variety of sleek, graphic arrangements."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""24"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.1"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:2:""No"";s:11:""module_tags"";s:17:""Photos and Videos"";s:7:""feature"";s:0:"""";}s:32:""32f4e5f770fe285a6fce2365f6412263"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""c63e6c72bac0a1729888414cdf1ef743"";a:13:{s:4:""name"";s:10:""VaultPress"";s:11:""description"";s:85:""Protect your site with automatic backups and security scans. (Subscription required.)"";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""32"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:5:""0:1.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:5:""false"";s:4:""free"";s:5:""false"";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""ebf645f8fdb24958d2eaffed4d8284d9"";a:13:{s:4:""name"";s:17:""Site Verification"";s:11:""description"";s:78:""Verify your site or domain with Google Webmaster Tools, Pinterest, and others."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""33"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""3.0"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}s:32:""e5b794d0be554b62cea1ce3987b46df0"";a:13:{s:4:""name"";s:10:""VideoPress"";s:11:""description"";s:68:""Upload and embed videos right on your site. (Subscription required.)"";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""27"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.5"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:5:""false"";s:19:""requires_connection"";s:3:""Yes"";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:17:""Photos and Videos"";s:7:""feature"";s:0:"""";}s:32:""d15f6c2fa4a443cd0349c8793d39a6dd"";a:13:{s:4:""name"";s:21:""Extra Sidebar Widgets"";s:11:""description"";s:79:""Add images, Twitter streams, your site’s RSS links, and more to your sidebar."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:1:""4"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""1.2"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:18:""Social, Appearance"";s:7:""feature"";s:0:"""";}s:32:""ba03cd41bdf21146377f690956968c65"";a:13:{s:4:""name"";s:17:""Widget Visibility"";s:11:""description"";s:57:""Specify which widgets appear on which pages of your site."";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:2:""17"";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:3:""2.4"";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:2:""No"";s:13:""auto_activate"";s:3:""Yes"";s:11:""module_tags"";s:10:""Appearance"";s:7:""feature"";s:0:"""";}s:32:""39cef9d943625c4c1cb1d4ce8097681a"";a:13:{s:4:""name"";s:0:"""";s:11:""description"";s:0:"""";s:14:""jumpstart_desc"";s:0:"""";s:4:""sort"";s:0:"""";s:20:""recommendation_order"";s:0:"""";s:10:""introduced"";s:0:"""";s:7:""changed"";s:0:"""";s:10:""deactivate"";s:0:"""";s:4:""free"";s:0:"""";s:19:""requires_connection"";s:0:"""";s:13:""auto_activate"";s:0:"""";s:11:""module_tags"";s:0:"""";s:7:""feature"";s:0:"""";}}}","yes"
+"292","jetpack_available_modules","a:1:{s:5:""3.5.3"";a:36:{s:18:""after-the-deadline"";s:3:""1.1"";s:8:""carousel"";s:3:""1.5"";s:8:""comments"";s:3:""1.4"";s:12:""contact-form"";s:3:""1.3"";s:20:""custom-content-types"";s:3:""3.1"";s:10:""custom-css"";s:3:""1.7"";s:21:""enhanced-distribution"";s:3:""1.2"";s:19:""gravatar-hovercards"";s:3:""1.1"";s:15:""infinite-scroll"";s:3:""2.0"";s:8:""json-api"";s:3:""1.9"";s:5:""latex"";s:3:""1.1"";s:5:""likes"";s:3:""2.2"";s:6:""manage"";s:3:""3.4"";s:8:""markdown"";s:3:""2.8"";s:9:""minileven"";s:3:""1.8"";s:7:""monitor"";s:3:""2.6"";s:5:""notes"";s:3:""1.9"";s:10:""omnisearch"";s:3:""2.3"";s:6:""photon"";s:3:""2.0"";s:13:""post-by-email"";s:3:""2.0"";s:7:""protect"";s:3:""3.4"";s:9:""publicize"";s:3:""2.0"";s:13:""related-posts"";s:3:""2.9"";s:10:""sharedaddy"";s:3:""1.1"";s:10:""shortcodes"";s:3:""1.1"";s:10:""shortlinks"";s:3:""1.1"";s:9:""site-icon"";s:3:""3.2"";s:3:""sso"";s:3:""2.6"";s:5:""stats"";s:3:""1.1"";s:13:""subscriptions"";s:3:""1.2"";s:13:""tiled-gallery"";s:3:""2.1"";s:10:""vaultpress"";s:5:""0:1.2"";s:18:""verification-tools"";s:3:""3.0"";s:10:""videopress"";s:3:""2.5"";s:7:""widgets"";s:3:""1.2"";s:17:""widget-visibility"";s:3:""2.4"";}}","yes"
+"294","jetpack_security_report","a:0:{}","yes"
+"297","_transient_timeout_jetpack_https_test","1433969745","no"
+"298","_transient_jetpack_https_test","0","no"
+"301","jetpack_updates","a:7:{s:7:""plugins"";i:0;s:6:""themes"";i:0;s:9:""wordpress"";i:0;s:12:""translations"";i:0;s:5:""total"";i:0;s:10:""wp_version"";s:5:""4.2.2"";s:26:""site_is_version_controlled"";b:0;}","yes"
+"304","jetpack_log","a:2:{i:0;a:5:{s:4:""time"";i:1433883926;s:7:""user_id"";i:1;s:7:""blog_id"";b:0;s:4:""code"";s:8:""activate"";s:4:""data"";s:10:""sharedaddy"";}i:1;a:5:{s:4:""time"";i:1433883968;s:7:""user_id"";i:1;s:7:""blog_id"";b:0;s:4:""code"";s:8:""activate"";s:4:""data"";s:7:""widgets"";}}","no"
+"305","jetpack_active_modules","a:2:{i:0;s:10:""sharedaddy"";i:1;s:7:""widgets"";}","yes"
+"306","sharing-options","a:1:{s:6:""global"";a:5:{s:12:""button_style"";s:4:""icon"";s:13:""sharing_label"";s:17:""Compartilhe isso:"";s:10:""open_links"";s:4:""same"";s:4:""show"";a:0:{}s:6:""custom"";a:0:{}}}","yes"
+"307","widget_facebook-likebox","a:2:{i:2;a:2:{s:5:""title"";s:8:""Facebook"";s:9:""like_args"";a:9:{s:4:""href"";s:46:""https://www.facebook.com/JornalFolhadaterranet"";s:5:""width"";i:189;s:6:""height"";i:310;s:11:""colorscheme"";s:5:""light"";s:10:""show_faces"";b:1;s:6:""stream"";b:0;s:11:""show_border"";b:1;s:6:""header"";b:0;s:10:""force_wall"";b:0;}}s:12:""_multiwidget"";i:1;}","yes"
+"310","widget_wpcom-goodreads","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"311","widget_image","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"312","widget_widget_contact_info","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"313","widget_rss_links","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"314","widget_jetpack_display_posts_widget","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"315","widget_grofile","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"316","widget_twitter_timeline","a:2:{i:1;a:0:{}s:12:""_multiwidget"";i:1;}","yes"
+"318","profitmag_options","a:65:{s:14:""webpage_layout"";s:9:""Fullwidth"";s:11:""show_search"";i:1;s:14:""menu_alignment"";s:4:""Left"";s:12:""media_upload"";s:0:"""";s:16:""footer_copyright"";s:14:""Folha da Terra"";s:9:""read_more"";s:0:"""";s:21:""featured_block_beside"";s:2:""23"";s:18:""featured_block_one"";s:2:""23"";s:15:""no_of_block_one"";i:6;s:18:""featured_block_two"";s:2:""23"";s:15:""no_of_block_two"";i:6;s:20:""featured_block_three"";s:2:""42"";s:17:""no_of_block_three"";i:10;s:19:""featured_block_four"";s:2:""38"";s:16:""no_of_block_four"";i:7;s:19:""featured_block_left"";s:2:""38"";s:16:""no_of_block_left"";s:1:""3"";s:20:""featured_block_right"";s:1:""5"";s:17:""no_of_block_right"";i:3;s:14:""slider_options"";s:18:""single_post_slider"";s:7:""slider1"";s:1:""0"";s:7:""slider2"";s:1:""0"";s:7:""slider3"";s:1:""0"";s:7:""slider4"";s:1:""0"";s:10:""slider_cat"";s:1:""0"";s:20:""slider_show_controls"";s:3:""yes"";s:11:""slider_auto"";s:3:""yes"";s:12:""slider_speed"";i:2000;s:14:""sidebar_layout"";s:13:""right_sidebar"";s:17:""left_cat_post_one"";s:1:""0"";s:23:""left_no_of_cat_post_one"";i:3;s:23:""left_sidebar_middle_ads"";s:0:"""";s:17:""left_cat_post_two"";s:1:""0"";s:23:""left_no_of_cat_post_two"";i:3;s:27:""left_sidebar_bottom_ads_one"";s:0:"""";s:27:""left_sidebar_bottom_ads_two"";s:0:"""";s:18:""right_cat_post_one"";s:1:""0"";s:24:""right_no_of_cat_post_one"";i:3;s:24:""right_sidebar_middle_ads"";s:0:"""";s:18:""right_cat_post_two"";s:1:""0"";s:24:""right_no_of_cat_post_two"";i:3;s:28:""right_sidebar_bottom_ads_one"";s:0:"""";s:28:""right_sidebar_bottom_ads_two"";s:0:"""";s:10:""header_ads"";s:0:"""";s:15:""mid_section_ads"";s:0:"""";s:8:""facebook"";s:0:"""";s:7:""twitter"";s:0:"""";s:5:""gplus"";s:0:"""";s:7:""youtube"";s:0:"""";s:9:""pinterest"";s:0:"""";s:6:""flickr"";s:0:"""";s:5:""vimeo"";s:0:"""";s:11:""stumbleupon"";s:0:"""";s:7:""dribble"";s:0:"""";s:6:""tumblr"";s:0:"""";s:8:""linkedin"";s:0:"""";s:11:""sound_cloud"";s:0:"""";s:5:""skype"";s:0:"""";s:3:""rss"";s:0:"""";s:10:""custom_css"";s:0:"""";s:11:""custom_code"";s:0:"""";s:17:""responsive_design"";i:0;s:11:""tc_activate"";i:0;s:9:""hide_date"";i:0;s:18:""show_social_header"";i:0;}","yes"
+"319","_transient_timeout_settings_errors","1434051259","no"
+"320","_transient_settings_errors","a:1:{i:0;a:4:{s:7:""setting"";s:7:""general"";s:4:""code"";s:16:""settings_updated"";s:7:""message"";s:23:""Configurações salvas."";s:4:""type"";s:7:""updated"";}}","no"
+"348","_transient_profitmag_categories","1","yes"
+"362","_transient_timeout_plugin_slugs","1435964782","no"
+"363","_transient_plugin_slugs","a:3:{i:0;s:19:""akismet/akismet.php"";i:1;s:9:""hello.php"";i:2;s:19:""jetpack/jetpack.php"";}","no"
+"364","_transient_timeout_dash_4077549d03da2e451c8b5f002294ff51","1435921582","no"
+"365","_transient_dash_4077549d03da2e451c8b5f002294ff51","<div class=""rss-widget""><p><strong>Erro de RSS</strong>: WP HTTP Error: Failed connect to wordpress.org:80; Operation now in progress</p></div><div class=""rss-widget""><p><strong>Erro de RSS</strong>: WP HTTP Error: Failed connect to planet.wordpress.org:443; Operation now in progress</p></div><div class=""rss-widget""><ul></ul></div>","no"
+"367","_site_transient_timeout_security_report_performed_recently","1435880664","yes"
+"368","_site_transient_security_report_performed_recently","1","yes"
+"369","_transient_is_multi_author","0","yes"
+"373","_site_transient_timeout_theme_roots","1437079519","yes"
+"374","_site_transient_theme_roots","a:5:{s:16:""mh-magazine-lite"";s:7:""/themes"";s:9:""profitmag"";s:7:""/themes"";s:13:""twentyfifteen"";s:7:""/themes"";s:14:""twentyfourteen"";s:7:""/themes"";s:14:""twentythirteen"";s:7:""/themes"";}","yes"
+"375","_transient_doing_cron","1437398715.2963290214538574218750","yes"
+"376","_transient_timeout_jetpack_site_is_vcs","1437485115","no"
+"377","_transient_jetpack_site_is_vcs","0","no"
+"1","2","_wp_page_template","default"
+"2","4","_wp_attached_file","2015/05/profitmag.png"
+"3","4","_wp_attachment_metadata","a:5:{s:5:""width"";i:274;s:6:""height"";i:104;s:4:""file"";s:21:""2015/05/profitmag.png"";s:5:""sizes"";a:13:{s:9:""thumbnail"";a:4:{s:4:""file"";s:21:""profitmag-150x104.png"";s:5:""width"";i:150;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:13:""slider-beside"";a:4:{s:4:""file"";s:21:""profitmag-240x104.png"";s:5:""width"";i:240;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:15:""three-col-thumb"";a:4:{s:4:""file"";s:21:""profitmag-265x104.png"";s:5:""width"";i:265;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:14:""five-col-thumb"";a:4:{s:4:""file"";s:20:""profitmag-148x85.png"";s:5:""width"";i:148;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:17:""block4-post-thumb"";a:4:{s:4:""file"";s:20:""profitmag-100x85.png"";s:5:""width"";i:100;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:16:""block-left-right"";a:4:{s:4:""file"";s:21:""profitmag-174x104.png"";s:5:""width"";i:174;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:13:""popular-thumb"";a:4:{s:4:""file"";s:21:""profitmag-193x104.png"";s:5:""width"";i:193;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:13:""gallery-thumb"";a:4:{s:4:""file"";s:19:""profitmag-71x40.png"";s:5:""width"";i:71;s:6:""height"";i:40;s:9:""mime-type"";s:9:""image/png"";}s:12:""recent-thumb"";a:4:{s:4:""file"";s:19:""profitmag-95x62.png"";s:5:""width"";i:95;s:6:""height"";i:62;s:9:""mime-type"";s:9:""image/png"";}s:14:""sidebar-medium"";a:4:{s:4:""file"";s:21:""profitmag-272x104.png"";s:5:""width"";i:272;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}s:15:""sidebar-gallery"";a:4:{s:4:""file"";s:19:""profitmag-83x83.png"";s:5:""width"";i:83;s:6:""height"";i:83;s:9:""mime-type"";s:9:""image/png"";}s:13:""comment-thumb"";a:4:{s:4:""file"";s:20:""profitmag-117x91.png"";s:5:""width"";i:117;s:6:""height"";i:91;s:9:""mime-type"";s:9:""image/png"";}s:13:""archive-thumb"";a:4:{s:4:""file"";s:21:""profitmag-200x104.png"";s:5:""width"";i:200;s:6:""height"";i:104;s:9:""mime-type"";s:9:""image/png"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"4","5","_wp_attached_file","2015/05/cropped-profitmag.png"
+"5","5","_wp_attachment_context","custom-header"
+"6","5","_wp_attachment_metadata","a:5:{s:5:""width"";i:325;s:6:""height"";i:150;s:4:""file"";s:29:""2015/05/cropped-profitmag.png"";s:5:""sizes"";a:14:{s:9:""thumbnail"";a:4:{s:4:""file"";s:29:""cropped-profitmag-150x150.png"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:9:""image/png"";}s:6:""medium"";a:4:{s:4:""file"";s:29:""cropped-profitmag-300x138.png"";s:5:""width"";i:300;s:6:""height"";i:138;s:9:""mime-type"";s:9:""image/png"";}s:13:""slider-beside"";a:4:{s:4:""file"";s:29:""cropped-profitmag-240x150.png"";s:5:""width"";i:240;s:6:""height"";i:150;s:9:""mime-type"";s:9:""image/png"";}s:15:""three-col-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag-265x150.png"";s:5:""width"";i:265;s:6:""height"";i:150;s:9:""mime-type"";s:9:""image/png"";}s:14:""five-col-thumb"";a:4:{s:4:""file"";s:28:""cropped-profitmag-148x85.png"";s:5:""width"";i:148;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:17:""block4-post-thumb"";a:4:{s:4:""file"";s:28:""cropped-profitmag-100x85.png"";s:5:""width"";i:100;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:16:""block-left-right"";a:4:{s:4:""file"";s:29:""cropped-profitmag-174x111.png"";s:5:""width"";i:174;s:6:""height"";i:111;s:9:""mime-type"";s:9:""image/png"";}s:13:""popular-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag-193x112.png"";s:5:""width"";i:193;s:6:""height"";i:112;s:9:""mime-type"";s:9:""image/png"";}s:13:""gallery-thumb"";a:4:{s:4:""file"";s:27:""cropped-profitmag-71x40.png"";s:5:""width"";i:71;s:6:""height"";i:40;s:9:""mime-type"";s:9:""image/png"";}s:12:""recent-thumb"";a:4:{s:4:""file"";s:27:""cropped-profitmag-95x62.png"";s:5:""width"";i:95;s:6:""height"";i:62;s:9:""mime-type"";s:9:""image/png"";}s:14:""sidebar-medium"";a:4:{s:4:""file"";s:29:""cropped-profitmag-272x137.png"";s:5:""width"";i:272;s:6:""height"";i:137;s:9:""mime-type"";s:9:""image/png"";}s:15:""sidebar-gallery"";a:4:{s:4:""file"";s:27:""cropped-profitmag-83x83.png"";s:5:""width"";i:83;s:6:""height"";i:83;s:9:""mime-type"";s:9:""image/png"";}s:13:""comment-thumb"";a:4:{s:4:""file"";s:28:""cropped-profitmag-117x91.png"";s:5:""width"";i:117;s:6:""height"";i:91;s:9:""mime-type"";s:9:""image/png"";}s:13:""archive-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag-200x140.png"";s:5:""width"";i:200;s:6:""height"";i:140;s:9:""mime-type"";s:9:""image/png"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"7","5","_wp_attachment_custom_header_last_used_profitmag","1432835539"
+"8","5","_wp_attachment_is_custom_header","profitmag"
+"9","6","_wp_attached_file","2015/05/profitmag1.png"
+"10","6","_wp_attachment_metadata","a:5:{s:5:""width"";i:274;s:6:""height"";i:127;s:4:""file"";s:22:""2015/05/profitmag1.png"";s:5:""sizes"";a:13:{s:9:""thumbnail"";a:4:{s:4:""file"";s:22:""profitmag1-150x127.png"";s:5:""width"";i:150;s:6:""height"";i:127;s:9:""mime-type"";s:9:""image/png"";}s:13:""slider-beside"";a:4:{s:4:""file"";s:22:""profitmag1-240x127.png"";s:5:""width"";i:240;s:6:""height"";i:127;s:9:""mime-type"";s:9:""image/png"";}s:15:""three-col-thumb"";a:4:{s:4:""file"";s:22:""profitmag1-265x127.png"";s:5:""width"";i:265;s:6:""height"";i:127;s:9:""mime-type"";s:9:""image/png"";}s:14:""five-col-thumb"";a:4:{s:4:""file"";s:21:""profitmag1-148x85.png"";s:5:""width"";i:148;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:17:""block4-post-thumb"";a:4:{s:4:""file"";s:21:""profitmag1-100x85.png"";s:5:""width"";i:100;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:16:""block-left-right"";a:4:{s:4:""file"";s:22:""profitmag1-174x111.png"";s:5:""width"";i:174;s:6:""height"";i:111;s:9:""mime-type"";s:9:""image/png"";}s:13:""popular-thumb"";a:4:{s:4:""file"";s:22:""profitmag1-193x112.png"";s:5:""width"";i:193;s:6:""height"";i:112;s:9:""mime-type"";s:9:""image/png"";}s:13:""gallery-thumb"";a:4:{s:4:""file"";s:20:""profitmag1-71x40.png"";s:5:""width"";i:71;s:6:""height"";i:40;s:9:""mime-type"";s:9:""image/png"";}s:12:""recent-thumb"";a:4:{s:4:""file"";s:20:""profitmag1-95x62.png"";s:5:""width"";i:95;s:6:""height"";i:62;s:9:""mime-type"";s:9:""image/png"";}s:14:""sidebar-medium"";a:4:{s:4:""file"";s:22:""profitmag1-272x127.png"";s:5:""width"";i:272;s:6:""height"";i:127;s:9:""mime-type"";s:9:""image/png"";}s:15:""sidebar-gallery"";a:4:{s:4:""file"";s:20:""profitmag1-83x83.png"";s:5:""width"";i:83;s:6:""height"";i:83;s:9:""mime-type"";s:9:""image/png"";}s:13:""comment-thumb"";a:4:{s:4:""file"";s:21:""profitmag1-117x91.png"";s:5:""width"";i:117;s:6:""height"";i:91;s:9:""mime-type"";s:9:""image/png"";}s:13:""archive-thumb"";a:4:{s:4:""file"";s:22:""profitmag1-200x127.png"";s:5:""width"";i:200;s:6:""height"";i:127;s:9:""mime-type"";s:9:""image/png"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"11","7","_wp_attached_file","2015/05/cropped-profitmag1.png"
+"12","7","_wp_attachment_context","custom-header"
+"13","7","_wp_attachment_metadata","a:5:{s:5:""width"";i:325;s:6:""height"";i:149;s:4:""file"";s:30:""2015/05/cropped-profitmag1.png"";s:5:""sizes"";a:14:{s:9:""thumbnail"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-150x149.png"";s:5:""width"";i:150;s:6:""height"";i:149;s:9:""mime-type"";s:9:""image/png"";}s:6:""medium"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-300x138.png"";s:5:""width"";i:300;s:6:""height"";i:138;s:9:""mime-type"";s:9:""image/png"";}s:13:""slider-beside"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-240x149.png"";s:5:""width"";i:240;s:6:""height"";i:149;s:9:""mime-type"";s:9:""image/png"";}s:15:""three-col-thumb"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-265x149.png"";s:5:""width"";i:265;s:6:""height"";i:149;s:9:""mime-type"";s:9:""image/png"";}s:14:""five-col-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag1-148x85.png"";s:5:""width"";i:148;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:17:""block4-post-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag1-100x85.png"";s:5:""width"";i:100;s:6:""height"";i:85;s:9:""mime-type"";s:9:""image/png"";}s:16:""block-left-right"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-174x111.png"";s:5:""width"";i:174;s:6:""height"";i:111;s:9:""mime-type"";s:9:""image/png"";}s:13:""popular-thumb"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-193x112.png"";s:5:""width"";i:193;s:6:""height"";i:112;s:9:""mime-type"";s:9:""image/png"";}s:13:""gallery-thumb"";a:4:{s:4:""file"";s:28:""cropped-profitmag1-71x40.png"";s:5:""width"";i:71;s:6:""height"";i:40;s:9:""mime-type"";s:9:""image/png"";}s:12:""recent-thumb"";a:4:{s:4:""file"";s:28:""cropped-profitmag1-95x62.png"";s:5:""width"";i:95;s:6:""height"";i:62;s:9:""mime-type"";s:9:""image/png"";}s:14:""sidebar-medium"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-272x137.png"";s:5:""width"";i:272;s:6:""height"";i:137;s:9:""mime-type"";s:9:""image/png"";}s:15:""sidebar-gallery"";a:4:{s:4:""file"";s:28:""cropped-profitmag1-83x83.png"";s:5:""width"";i:83;s:6:""height"";i:83;s:9:""mime-type"";s:9:""image/png"";}s:13:""comment-thumb"";a:4:{s:4:""file"";s:29:""cropped-profitmag1-117x91.png"";s:5:""width"";i:117;s:6:""height"";i:91;s:9:""mime-type"";s:9:""image/png"";}s:13:""archive-thumb"";a:4:{s:4:""file"";s:30:""cropped-profitmag1-200x140.png"";s:5:""width"";i:200;s:6:""height"";i:140;s:9:""mime-type"";s:9:""image/png"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"14","7","_wp_attachment_custom_header_last_used_profitmag","1432836131"
+"15","7","_wp_attachment_is_custom_header","profitmag"
+"16","8","_wp_attached_file","2015/05/cropped-profitmag11.png"
+"17","8","_wp_attachment_context","custom-header"
+"18","8","_wp_attachment_metadata","a:5:{s:5:""width"";i:274;s:6:""height"";i:109;s:4:""file"";s:31:""2015/05/cropped-profitmag11.png"";s:5:""sizes"";a:3:{s:9:""thumbnail"";a:4:{s:4:""file"";s:31:""cropped-profitmag11-150x109.png"";s:5:""width"";i:150;s:6:""height"";i:109;s:9:""mime-type"";s:9:""image/png"";}s:4:""loop"";a:4:{s:4:""file"";s:31:""cropped-profitmag11-174x109.png"";s:5:""width"";i:174;s:6:""height"";i:109;s:9:""mime-type"";s:9:""image/png"";}s:8:""cp_small"";a:4:{s:4:""file"";s:29:""cropped-profitmag11-70x53.png"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:9:""image/png"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"19","8","_wp_attachment_custom_header_last_used_mh-magazine-lite","1432837313"
+"20","8","_wp_attachment_is_custom_header","mh-magazine-lite"
+"21","9","_edit_last","1"
+"22","9","_edit_lock","1433869891:1"
+"23","9","_thumbnail_id","4"
+"24","9","_wp_page_template","homepage.php"
+"25","12","_edit_last","1"
+"26","12","_edit_lock","1433885660:1"
+"31","14","_edit_last","1"
+"32","14","_edit_lock","1433885691:1"
+"37","2","_edit_lock","1433787381:1"
+"38","2","_edit_last","1"
+"48","20","_menu_item_type","post_type"
+"49","20","_menu_item_menu_item_parent","0"
+"50","20","_menu_item_object_id","9"
+"51","20","_menu_item_object","page"
+"52","20","_menu_item_target",
+"53","20","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"54","20","_menu_item_xfn",
+"55","20","_menu_item_url",
+"56","20","_menu_item_orphaned","1433788421"
+"57","21","_menu_item_type","post_type"
+"58","21","_menu_item_menu_item_parent","0"
+"59","21","_menu_item_object_id","9"
+"60","21","_menu_item_object","page"
+"61","21","_menu_item_target",
+"62","21","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"63","21","_menu_item_xfn",
+"64","21","_menu_item_url",
+"65","21","_menu_item_orphaned","1433788421"
+"66","22","_menu_item_type","post_type"
+"67","22","_menu_item_menu_item_parent","0"
+"68","22","_menu_item_object_id","2"
+"69","22","_menu_item_object","page"
+"70","22","_menu_item_target",
+"71","22","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"72","22","_menu_item_xfn",
+"73","22","_menu_item_url",
+"74","22","_menu_item_orphaned","1433788422"
+"75","6","_wp_attachment_is_custom_background","mh-magazine-lite"
+"238","41","_menu_item_type","taxonomy"
+"239","41","_menu_item_menu_item_parent","0"
+"240","41","_menu_item_object_id","4"
+"241","41","_menu_item_object","category"
+"242","41","_menu_item_target",
+"243","41","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"244","41","_menu_item_xfn",
+"245","41","_menu_item_url",
+"246","41","_menu_item_orphaned","1433793763"
+"274","45","_menu_item_type","taxonomy"
+"275","45","_menu_item_menu_item_parent","0"
+"276","45","_menu_item_object_id","5"
+"277","45","_menu_item_object","category"
+"278","45","_menu_item_target",
+"279","45","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"280","45","_menu_item_xfn",
+"281","45","_menu_item_url",
+"282","45","_menu_item_orphaned","1433793764"
+"292","47","_menu_item_type","taxonomy"
+"293","47","_menu_item_menu_item_parent","0"
+"294","47","_menu_item_object_id","7"
+"295","47","_menu_item_object","category"
+"296","47","_menu_item_target",
+"297","47","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"298","47","_menu_item_xfn",
+"299","47","_menu_item_url",
+"300","47","_menu_item_orphaned","1433793766"
+"400","59","_menu_item_type","taxonomy"
+"401","59","_menu_item_menu_item_parent","0"
+"402","59","_menu_item_object_id","10"
+"403","59","_menu_item_object","category"
+"404","59","_menu_item_target",
+"405","59","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"406","59","_menu_item_xfn",
+"407","59","_menu_item_url",
+"408","59","_menu_item_orphaned","1433793771"
+"409","60","_menu_item_type","taxonomy"
+"410","60","_menu_item_menu_item_parent","0"
+"411","60","_menu_item_object_id","12"
+"412","60","_menu_item_object","category"
+"413","60","_menu_item_target",
+"414","60","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"415","60","_menu_item_xfn",
+"416","60","_menu_item_url",
+"417","60","_menu_item_orphaned","1433793771"
+"418","61","_menu_item_type","taxonomy"
+"419","61","_menu_item_menu_item_parent","0"
+"420","61","_menu_item_object_id","1"
+"421","61","_menu_item_object","category"
+"422","61","_menu_item_target",
+"423","61","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"424","61","_menu_item_xfn",
+"425","61","_menu_item_url",
+"426","61","_menu_item_orphaned","1433793772"
+"436","63","_menu_item_type","taxonomy"
+"437","63","_menu_item_menu_item_parent","0"
+"438","63","_menu_item_object_id","13"
+"439","63","_menu_item_object","category"
+"440","63","_menu_item_target",
+"441","63","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"442","63","_menu_item_xfn",
+"443","63","_menu_item_url",
+"444","63","_menu_item_orphaned","1433793772"
+"583","80","_wp_attached_file","2015/06/CcsDepPampolhacapajpgjpg.jpeg"
+"584","80","_wp_attachment_metadata","a:5:{s:5:""width"";i:610;s:6:""height"";i:291;s:4:""file"";s:37:""2015/06/CcsDepPampolhacapajpgjpg.jpeg"";s:5:""sizes"";a:5:{s:9:""thumbnail"";a:4:{s:4:""file"";s:37:""CcsDepPampolhacapajpgjpg-150x150.jpeg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:37:""CcsDepPampolhacapajpgjpg-300x143.jpeg"";s:5:""width"";i:300;s:6:""height"";i:143;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:37:""CcsDepPampolhacapajpgjpg-610x264.jpeg"";s:5:""width"";i:610;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:37:""CcsDepPampolhacapajpgjpg-174x131.jpeg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:35:""CcsDepPampolhacapajpgjpg-70x53.jpeg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";d:2.399999999999999911182158029987476766109466552734375;s:6:""credit"";s:0:"""";s:6:""camera"";s:4:""iPad"";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:1432722766;s:9:""copyright"";s:0:"""";s:12:""focal_length"";s:4:""4.28"";s:3:""iso"";s:2:""50"";s:13:""shutter_speed"";s:17:""0.058823529411765"";s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"585","81","_wp_attached_file","2015/06/FeiraMixxRafaeljpg.jpeg"
+"586","81","_wp_attachment_metadata","a:5:{s:5:""width"";i:610;s:6:""height"";i:291;s:4:""file"";s:31:""2015/06/FeiraMixxRafaeljpg.jpeg"";s:5:""sizes"";a:5:{s:9:""thumbnail"";a:4:{s:4:""file"";s:31:""FeiraMixxRafaeljpg-150x150.jpeg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:31:""FeiraMixxRafaeljpg-300x143.jpeg"";s:5:""width"";i:300;s:6:""height"";i:143;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:31:""FeiraMixxRafaeljpg-610x264.jpeg"";s:5:""width"";i:610;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:31:""FeiraMixxRafaeljpg-174x131.jpeg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:29:""FeiraMixxRafaeljpg-70x53.jpeg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"587","82","_wp_attached_file","2015/06/gfmrmanoelgoleiro0106capajpgjpg.jpeg"
+"588","82","_wp_attachment_metadata","a:5:{s:5:""width"";i:610;s:6:""height"";i:291;s:4:""file"";s:44:""2015/06/gfmrmanoelgoleiro0106capajpgjpg.jpeg"";s:5:""sizes"";a:5:{s:9:""thumbnail"";a:4:{s:4:""file"";s:44:""gfmrmanoelgoleiro0106capajpgjpg-150x150.jpeg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:44:""gfmrmanoelgoleiro0106capajpgjpg-300x143.jpeg"";s:5:""width"";i:300;s:6:""height"";i:143;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:44:""gfmrmanoelgoleiro0106capajpgjpg-610x264.jpeg"";s:5:""width"";i:610;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:44:""gfmrmanoelgoleiro0106capajpgjpg-174x131.jpeg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:42:""gfmrmanoelgoleiro0106capajpgjpg-70x53.jpeg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";d:2.399999999999999911182158029987476766109466552734375;s:6:""credit"";s:0:"""";s:6:""camera"";s:4:""iPad"";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:1433522891;s:9:""copyright"";s:0:"""";s:12:""focal_length"";s:4:""4.28"";s:3:""iso"";s:2:""80"";s:13:""shutter_speed"";s:18:""0.0083333333333333"";s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"589","83","_wp_attached_file","2015/06/trocandoosp_oscapajpg.jpeg"
+"590","83","_wp_attachment_metadata","a:5:{s:5:""width"";i:610;s:6:""height"";i:291;s:4:""file"";s:34:""2015/06/trocandoosp_oscapajpg.jpeg"";s:5:""sizes"";a:5:{s:9:""thumbnail"";a:4:{s:4:""file"";s:34:""trocandoosp_oscapajpg-150x150.jpeg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:34:""trocandoosp_oscapajpg-300x143.jpeg"";s:5:""width"";i:300;s:6:""height"";i:143;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:34:""trocandoosp_oscapajpg-610x264.jpeg"";s:5:""width"";i:610;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:34:""trocandoosp_oscapajpg-174x131.jpeg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:32:""trocandoosp_oscapajpg-70x53.jpeg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"592","14","_thumbnail_id","82"
+"596","84","_edit_last","1"
+"597","84","_edit_lock","1433885845:1"
+"598","84","_thumbnail_id","81"
+"602","86","_edit_last","1"
+"603","86","_edit_lock","1433885641:1"
+"604","86","_thumbnail_id","80"
+"610","86","mh-subheading","Loren ipsun scelerisque pulvinar."
+"615","12","mh-subheading","habitasse platea dictumst. Vivamus eget dui at nulla condimentum placerat sagittis tempus ipsum. Nulla facilisi. Vivamus at turpis a velit "
+"618","12","_thumbnail_id","83"
+"621","88","_wp_attached_file","2015/06/edition.jpg"
+"622","88","_wp_attachment_metadata","a:5:{s:5:""width"";i:1306;s:6:""height"";i:740;s:4:""file"";s:19:""2015/06/edition.jpg"";s:5:""sizes"";a:6:{s:9:""thumbnail"";a:4:{s:4:""file"";s:19:""edition-150x150.jpg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:19:""edition-300x170.jpg"";s:5:""width"";i:300;s:6:""height"";i:170;s:9:""mime-type"";s:10:""image/jpeg"";}s:5:""large"";a:4:{s:4:""file"";s:20:""edition-1024x580.jpg"";s:5:""width"";i:1024;s:6:""height"";i:580;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:19:""edition-620x264.jpg"";s:5:""width"";i:620;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:19:""edition-174x131.jpg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:17:""edition-70x53.jpg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";i:0;s:6:""credit"";s:0:"""";s:6:""camera"";s:0:"""";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:0;s:9:""copyright"";s:0:"""";s:12:""focal_length"";i:0;s:3:""iso"";i:0;s:13:""shutter_speed"";i:0;s:5:""title"";s:0:"""";s:11:""orientation"";i:0;}}"
+"623","88","_wp_attachment_is_custom_background","mh-magazine-lite"
+"624","89","_wp_attached_file","2015/06/edition2.jpg"
+"625","89","_wp_attachment_metadata","a:5:{s:5:""width"";i:3264;s:6:""height"";i:2448;s:4:""file"";s:20:""2015/06/edition2.jpg"";s:5:""sizes"";a:6:{s:9:""thumbnail"";a:4:{s:4:""file"";s:20:""edition2-150x150.jpg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:20:""edition2-300x225.jpg"";s:5:""width"";i:300;s:6:""height"";i:225;s:9:""mime-type"";s:10:""image/jpeg"";}s:5:""large"";a:4:{s:4:""file"";s:21:""edition2-1024x768.jpg"";s:5:""width"";i:1024;s:6:""height"";i:768;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:20:""edition2-620x264.jpg"";s:5:""width"";i:620;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:20:""edition2-174x131.jpg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:18:""edition2-70x53.jpg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";d:5.20000000000000017763568394002504646778106689453125;s:6:""credit"";s:0:"""";s:6:""camera"";s:8:""DSC-W100"";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:1249140653;s:9:""copyright"";s:0:"""";s:12:""focal_length"";s:4:""23.7"";s:3:""iso"";s:3:""125"";s:13:""shutter_speed"";s:6:""0.0025"";s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"626","89","_wp_attachment_is_custom_background","profitmag"
+"627","90","_wp_attached_file","2015/06/edition21.jpg"
+"628","90","_wp_attachment_metadata","a:5:{s:5:""width"";i:2392;s:6:""height"";i:1972;s:4:""file"";s:21:""2015/06/edition21.jpg"";s:5:""sizes"";a:6:{s:9:""thumbnail"";a:4:{s:4:""file"";s:21:""edition21-150x150.jpg"";s:5:""width"";i:150;s:6:""height"";i:150;s:9:""mime-type"";s:10:""image/jpeg"";}s:6:""medium"";a:4:{s:4:""file"";s:21:""edition21-300x247.jpg"";s:5:""width"";i:300;s:6:""height"";i:247;s:9:""mime-type"";s:10:""image/jpeg"";}s:5:""large"";a:4:{s:4:""file"";s:22:""edition21-1024x844.jpg"";s:5:""width"";i:1024;s:6:""height"";i:844;s:9:""mime-type"";s:10:""image/jpeg"";}s:7:""content"";a:4:{s:4:""file"";s:21:""edition21-620x264.jpg"";s:5:""width"";i:620;s:6:""height"";i:264;s:9:""mime-type"";s:10:""image/jpeg"";}s:4:""loop"";a:4:{s:4:""file"";s:21:""edition21-174x131.jpg"";s:5:""width"";i:174;s:6:""height"";i:131;s:9:""mime-type"";s:10:""image/jpeg"";}s:8:""cp_small"";a:4:{s:4:""file"";s:19:""edition21-70x53.jpg"";s:5:""width"";i:70;s:6:""height"";i:53;s:9:""mime-type"";s:10:""image/jpeg"";}}s:10:""image_meta"";a:11:{s:8:""aperture"";d:5.20000000000000017763568394002504646778106689453125;s:6:""credit"";s:0:"""";s:6:""camera"";s:8:""DSC-W100"";s:7:""caption"";s:0:"""";s:17:""created_timestamp"";i:1249140653;s:9:""copyright"";s:0:"""";s:12:""focal_length"";s:4:""23.7"";s:3:""iso"";s:3:""125"";s:13:""shutter_speed"";s:6:""0.0025"";s:5:""title"";s:0:"""";s:11:""orientation"";i:1;}}"
+"629","90","_wp_attachment_is_custom_background","profitmag"
+"630","91","_menu_item_type","taxonomy"
+"631","91","_menu_item_menu_item_parent","0"
+"632","91","_menu_item_object_id","23"
+"633","91","_menu_item_object","category"
+"634","91","_menu_item_target",
+"635","91","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"636","91","_menu_item_xfn",
+"637","91","_menu_item_url",
+"638","91","_menu_item_orphaned","1433866396"
+"639","92","_menu_item_type","taxonomy"
+"640","92","_menu_item_menu_item_parent","0"
+"641","92","_menu_item_object_id","38"
+"642","92","_menu_item_object","category"
+"643","92","_menu_item_target",
+"644","92","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"645","92","_menu_item_xfn",
+"646","92","_menu_item_url",
+"647","92","_menu_item_orphaned","1433866396"
+"648","93","_menu_item_type","taxonomy"
+"649","93","_menu_item_menu_item_parent","0"
+"650","93","_menu_item_object_id","34"
+"651","93","_menu_item_object","category"
+"652","93","_menu_item_target",
+"653","93","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"654","93","_menu_item_xfn",
+"655","93","_menu_item_url",
+"656","93","_menu_item_orphaned","1433866397"
+"657","94","_menu_item_type","taxonomy"
+"658","94","_menu_item_menu_item_parent","0"
+"659","94","_menu_item_object_id","42"
+"660","94","_menu_item_object","category"
+"661","94","_menu_item_target",
+"662","94","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"663","94","_menu_item_xfn",
+"664","94","_menu_item_url",
+"665","94","_menu_item_orphaned","1433866397"
+"666","95","_menu_item_type","taxonomy"
+"667","95","_menu_item_menu_item_parent","0"
+"668","95","_menu_item_object_id","37"
+"669","95","_menu_item_object","category"
+"670","95","_menu_item_target",
+"671","95","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"672","95","_menu_item_xfn",
+"673","95","_menu_item_url",
+"674","95","_menu_item_orphaned","1433866397"
+"675","96","_menu_item_type","taxonomy"
+"676","96","_menu_item_menu_item_parent","0"
+"677","96","_menu_item_object_id","35"
+"678","96","_menu_item_object","category"
+"679","96","_menu_item_target",
+"680","96","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"681","96","_menu_item_xfn",
+"682","96","_menu_item_url",
+"683","96","_menu_item_orphaned","1433866398"
+"684","97","_menu_item_type","taxonomy"
+"685","97","_menu_item_menu_item_parent","0"
+"686","97","_menu_item_object_id","4"
+"687","97","_menu_item_object","category"
+"688","97","_menu_item_target",
+"689","97","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"690","97","_menu_item_xfn",
+"691","97","_menu_item_url",
+"692","97","_menu_item_orphaned","1433866399"
+"693","98","_menu_item_type","taxonomy"
+"694","98","_menu_item_menu_item_parent","0"
+"695","98","_menu_item_object_id","32"
+"696","98","_menu_item_object","category"
+"697","98","_menu_item_target",
+"698","98","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"699","98","_menu_item_xfn",
+"700","98","_menu_item_url",
+"701","98","_menu_item_orphaned","1433866399"
+"702","99","_menu_item_type","taxonomy"
+"703","99","_menu_item_menu_item_parent","0"
+"704","99","_menu_item_object_id","27"
+"705","99","_menu_item_object","category"
+"706","99","_menu_item_target",
+"707","99","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"708","99","_menu_item_xfn",
+"709","99","_menu_item_url",
+"710","99","_menu_item_orphaned","1433866400"
+"711","100","_menu_item_type","taxonomy"
+"712","100","_menu_item_menu_item_parent","0"
+"713","100","_menu_item_object_id","29"
+"714","100","_menu_item_object","category"
+"715","100","_menu_item_target",
+"716","100","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"717","100","_menu_item_xfn",
+"718","100","_menu_item_url",
+"719","100","_menu_item_orphaned","1433866400"
+"720","101","_menu_item_type","taxonomy"
+"721","101","_menu_item_menu_item_parent","0"
+"722","101","_menu_item_object_id","44"
+"723","101","_menu_item_object","category"
+"724","101","_menu_item_target",
+"725","101","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"726","101","_menu_item_xfn",
+"727","101","_menu_item_url",
+"728","101","_menu_item_orphaned","1433866401"
+"729","102","_menu_item_type","taxonomy"
+"730","102","_menu_item_menu_item_parent","0"
+"731","102","_menu_item_object_id","43"
+"732","102","_menu_item_object","category"
+"733","102","_menu_item_target",
+"734","102","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"735","102","_menu_item_xfn",
+"736","102","_menu_item_url",
+"737","102","_menu_item_orphaned","1433866401"
+"738","103","_menu_item_type","taxonomy"
+"739","103","_menu_item_menu_item_parent","0"
+"740","103","_menu_item_object_id","36"
+"741","103","_menu_item_object","category"
+"742","103","_menu_item_target",
+"743","103","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"744","103","_menu_item_xfn",
+"745","103","_menu_item_url",
+"746","103","_menu_item_orphaned","1433866401"
+"747","104","_menu_item_type","taxonomy"
+"748","104","_menu_item_menu_item_parent","0"
+"749","104","_menu_item_object_id","5"
+"750","104","_menu_item_object","category"
+"751","104","_menu_item_target",
+"752","104","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"753","104","_menu_item_xfn",
+"754","104","_menu_item_url",
+"755","104","_menu_item_orphaned","1433866402"
+"756","105","_menu_item_type","taxonomy"
+"757","105","_menu_item_menu_item_parent","0"
+"758","105","_menu_item_object_id","24"
+"759","105","_menu_item_object","category"
+"760","105","_menu_item_target",
+"761","105","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"762","105","_menu_item_xfn",
+"763","105","_menu_item_url",
+"764","105","_menu_item_orphaned","1433866402"
+"765","106","_menu_item_type","taxonomy"
+"766","106","_menu_item_menu_item_parent","0"
+"767","106","_menu_item_object_id","7"
+"768","106","_menu_item_object","category"
+"769","106","_menu_item_target",
+"770","106","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"771","106","_menu_item_xfn",
+"772","106","_menu_item_url",
+"773","106","_menu_item_orphaned","1433866403"
+"774","107","_menu_item_type","taxonomy"
+"775","107","_menu_item_menu_item_parent","0"
+"776","107","_menu_item_object_id","30"
+"777","107","_menu_item_object","category"
+"778","107","_menu_item_target",
+"779","107","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"780","107","_menu_item_xfn",
+"781","107","_menu_item_url",
+"782","107","_menu_item_orphaned","1433866403"
+"783","108","_menu_item_type","taxonomy"
+"784","108","_menu_item_menu_item_parent","0"
+"785","108","_menu_item_object_id","16"
+"786","108","_menu_item_object","category"
+"787","108","_menu_item_target",
+"788","108","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"789","108","_menu_item_xfn",
+"790","108","_menu_item_url",
+"791","108","_menu_item_orphaned","1433866404"
+"792","109","_menu_item_type","taxonomy"
+"793","109","_menu_item_menu_item_parent","0"
+"794","109","_menu_item_object_id","39"
+"795","109","_menu_item_object","category"
+"796","109","_menu_item_target",
+"797","109","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"798","109","_menu_item_xfn",
+"799","109","_menu_item_url",
+"800","109","_menu_item_orphaned","1433866404"
+"801","110","_menu_item_type","taxonomy"
+"802","110","_menu_item_menu_item_parent","0"
+"803","110","_menu_item_object_id","28"
+"804","110","_menu_item_object","category"
+"805","110","_menu_item_target",
+"806","110","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"807","110","_menu_item_xfn",
+"808","110","_menu_item_url",
+"809","110","_menu_item_orphaned","1433866405"
+"810","111","_menu_item_type","taxonomy"
+"811","111","_menu_item_menu_item_parent","0"
+"812","111","_menu_item_object_id","9"
+"813","111","_menu_item_object","category"
+"814","111","_menu_item_target",
+"815","111","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"816","111","_menu_item_xfn",
+"817","111","_menu_item_url",
+"818","111","_menu_item_orphaned","1433866405"
+"819","112","_menu_item_type","taxonomy"
+"820","112","_menu_item_menu_item_parent","0"
+"821","112","_menu_item_object_id","20"
+"822","112","_menu_item_object","category"
+"823","112","_menu_item_target",
+"824","112","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"825","112","_menu_item_xfn",
+"826","112","_menu_item_url",
+"827","112","_menu_item_orphaned","1433866406"
+"828","113","_menu_item_type","taxonomy"
+"829","113","_menu_item_menu_item_parent","0"
+"830","113","_menu_item_object_id","25"
+"831","113","_menu_item_object","category"
+"832","113","_menu_item_target",
+"833","113","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"834","113","_menu_item_xfn",
+"835","113","_menu_item_url",
+"836","113","_menu_item_orphaned","1433866407"
+"837","114","_menu_item_type","taxonomy"
+"838","114","_menu_item_menu_item_parent","0"
+"839","114","_menu_item_object_id","31"
+"840","114","_menu_item_object","category"
+"841","114","_menu_item_target",
+"842","114","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"843","114","_menu_item_xfn",
+"844","114","_menu_item_url",
+"845","114","_menu_item_orphaned","1433866407"
+"846","115","_menu_item_type","taxonomy"
+"847","115","_menu_item_menu_item_parent","0"
+"848","115","_menu_item_object_id","21"
+"849","115","_menu_item_object","category"
+"850","115","_menu_item_target",
+"851","115","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"852","115","_menu_item_xfn",
+"853","115","_menu_item_url",
+"854","115","_menu_item_orphaned","1433866407"
+"855","116","_menu_item_type","taxonomy"
+"856","116","_menu_item_menu_item_parent","0"
+"857","116","_menu_item_object_id","17"
+"858","116","_menu_item_object","category"
+"859","116","_menu_item_target",
+"860","116","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"861","116","_menu_item_xfn",
+"862","116","_menu_item_url",
+"863","116","_menu_item_orphaned","1433866408"
+"864","117","_menu_item_type","taxonomy"
+"865","117","_menu_item_menu_item_parent","0"
+"866","117","_menu_item_object_id","22"
+"867","117","_menu_item_object","category"
+"868","117","_menu_item_target",
+"869","117","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"870","117","_menu_item_xfn",
+"871","117","_menu_item_url",
+"872","117","_menu_item_orphaned","1433866408"
+"873","118","_menu_item_type","taxonomy"
+"874","118","_menu_item_menu_item_parent","0"
+"875","118","_menu_item_object_id","18"
+"876","118","_menu_item_object","category"
+"877","118","_menu_item_target",
+"878","118","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"879","118","_menu_item_xfn",
+"880","118","_menu_item_url",
+"881","118","_menu_item_orphaned","1433866409"
+"882","119","_menu_item_type","taxonomy"
+"883","119","_menu_item_menu_item_parent","0"
+"884","119","_menu_item_object_id","10"
+"885","119","_menu_item_object","category"
+"886","119","_menu_item_target",
+"887","119","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"888","119","_menu_item_xfn",
+"889","119","_menu_item_url",
+"890","119","_menu_item_orphaned","1433866409"
+"891","120","_menu_item_type","taxonomy"
+"892","120","_menu_item_menu_item_parent","0"
+"893","120","_menu_item_object_id","40"
+"894","120","_menu_item_object","category"
+"895","120","_menu_item_target",
+"896","120","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"897","120","_menu_item_xfn",
+"898","120","_menu_item_url",
+"899","120","_menu_item_orphaned","1433866410"
+"900","121","_menu_item_type","taxonomy"
+"901","121","_menu_item_menu_item_parent","0"
+"902","121","_menu_item_object_id","12"
+"903","121","_menu_item_object","category"
+"904","121","_menu_item_target",
+"905","121","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"906","121","_menu_item_xfn",
+"907","121","_menu_item_url",
+"908","121","_menu_item_orphaned","1433866410"
+"909","122","_menu_item_type","taxonomy"
+"910","122","_menu_item_menu_item_parent","0"
+"911","122","_menu_item_object_id","41"
+"912","122","_menu_item_object","category"
+"913","122","_menu_item_target",
+"914","122","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"915","122","_menu_item_xfn",
+"916","122","_menu_item_url",
+"917","122","_menu_item_orphaned","1433866411"
+"918","123","_menu_item_type","taxonomy"
+"919","123","_menu_item_menu_item_parent","0"
+"920","123","_menu_item_object_id","1"
+"921","123","_menu_item_object","category"
+"922","123","_menu_item_target",
+"923","123","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"924","123","_menu_item_xfn",
+"925","123","_menu_item_url",
+"926","123","_menu_item_orphaned","1433866411"
+"927","124","_menu_item_type","taxonomy"
+"928","124","_menu_item_menu_item_parent","0"
+"929","124","_menu_item_object_id","15"
+"930","124","_menu_item_object","category"
+"931","124","_menu_item_target",
+"932","124","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"933","124","_menu_item_xfn",
+"934","124","_menu_item_url",
+"935","124","_menu_item_orphaned","1433866411"
+"936","125","_menu_item_type","taxonomy"
+"937","125","_menu_item_menu_item_parent","0"
+"938","125","_menu_item_object_id","13"
+"939","125","_menu_item_object","category"
+"940","125","_menu_item_target",
+"941","125","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"942","125","_menu_item_xfn",
+"943","125","_menu_item_url",
+"944","125","_menu_item_orphaned","1433866412"
+"945","126","_menu_item_type","taxonomy"
+"946","126","_menu_item_menu_item_parent","0"
+"947","126","_menu_item_object_id","26"
+"948","126","_menu_item_object","category"
+"949","126","_menu_item_target",
+"950","126","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"951","126","_menu_item_xfn",
+"952","126","_menu_item_url",
+"953","126","_menu_item_orphaned","1433866412"
+"954","127","_menu_item_type","taxonomy"
+"955","127","_menu_item_menu_item_parent","0"
+"956","127","_menu_item_object_id","33"
+"957","127","_menu_item_object","category"
+"958","127","_menu_item_target",
+"959","127","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"960","127","_menu_item_xfn",
+"961","127","_menu_item_url",
+"962","127","_menu_item_orphaned","1433866412"
+"963","128","_menu_item_type","taxonomy"
+"964","128","_menu_item_menu_item_parent","0"
+"965","128","_menu_item_object_id","19"
+"966","128","_menu_item_object","category"
+"967","128","_menu_item_target",
+"968","128","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"969","128","_menu_item_xfn",
+"970","128","_menu_item_url",
+"971","128","_menu_item_orphaned","1433866413"
+"972","129","_menu_item_type","taxonomy"
+"973","129","_menu_item_menu_item_parent","0"
+"974","129","_menu_item_object_id","14"
+"975","129","_menu_item_object","category"
+"976","129","_menu_item_target",
+"977","129","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"978","129","_menu_item_xfn",
+"979","129","_menu_item_url",
+"980","129","_menu_item_orphaned","1433866414"
+"981","14","post_views_count","6"
+"991","86","post_views_count","11"
+"992","132","_menu_item_type","taxonomy"
+"993","132","_menu_item_menu_item_parent","164"
+"994","132","_menu_item_object_id","23"
+"995","132","_menu_item_object","category"
+"996","132","_menu_item_target",
+"997","132","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"998","132","_menu_item_xfn",
+"999","132","_menu_item_url",
+"1001","133","_menu_item_type","taxonomy"
+"1002","133","_menu_item_menu_item_parent","160"
+"1003","133","_menu_item_object_id","38"
+"1004","133","_menu_item_object","category"
+"1005","133","_menu_item_target",
+"1006","133","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1007","133","_menu_item_xfn",
+"1008","133","_menu_item_url",
+"1010","134","_menu_item_type","taxonomy"
+"1011","134","_menu_item_menu_item_parent","152"
+"1012","134","_menu_item_object_id","34"
+"1013","134","_menu_item_object","category"
+"1014","134","_menu_item_target",
+"1015","134","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1016","134","_menu_item_xfn",
+"1017","134","_menu_item_url",
+"1019","135","_menu_item_type","taxonomy"
+"1020","135","_menu_item_menu_item_parent","166"
+"1021","135","_menu_item_object_id","42"
+"1022","135","_menu_item_object","category"
+"1023","135","_menu_item_target",
+"1024","135","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1025","135","_menu_item_xfn",
+"1026","135","_menu_item_url",
+"1028","136","_menu_item_type","taxonomy"
+"1029","136","_menu_item_menu_item_parent","160"
+"1030","136","_menu_item_object_id","37"
+"1031","136","_menu_item_object","category"
+"1032","136","_menu_item_target",
+"1033","136","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1034","136","_menu_item_xfn",
+"1035","136","_menu_item_url",
+"1037","137","_menu_item_type","taxonomy"
+"1038","137","_menu_item_menu_item_parent","152"
+"1039","137","_menu_item_object_id","35"
+"1040","137","_menu_item_object","category"
+"1041","137","_menu_item_target",
+"1042","137","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1043","137","_menu_item_xfn",
+"1044","137","_menu_item_url",
+"1046","138","_menu_item_type","taxonomy"
+"1047","138","_menu_item_menu_item_parent","0"
+"1048","138","_menu_item_object_id","4"
+"1049","138","_menu_item_object","category"
+"1050","138","_menu_item_target",
+"1051","138","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1052","138","_menu_item_xfn",
+"1053","138","_menu_item_url",
+"1055","139","_menu_item_type","taxonomy"
+"1056","139","_menu_item_menu_item_parent","149"
+"1057","139","_menu_item_object_id","32"
+"1058","139","_menu_item_object","category"
+"1059","139","_menu_item_target",
+"1060","139","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1061","139","_menu_item_xfn",
+"1062","139","_menu_item_url",
+"1064","140","_menu_item_type","taxonomy"
+"1065","140","_menu_item_menu_item_parent","164"
+"1066","140","_menu_item_object_id","27"
+"1067","140","_menu_item_object","category"
+"1068","140","_menu_item_target",
+"1069","140","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1070","140","_menu_item_xfn",
+"1071","140","_menu_item_url",
+"1073","141","_menu_item_type","taxonomy"
+"1074","141","_menu_item_menu_item_parent","147"
+"1075","141","_menu_item_object_id","29"
+"1076","141","_menu_item_object","category"
+"1077","141","_menu_item_target",
+"1078","141","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1079","141","_menu_item_xfn",
+"1080","141","_menu_item_url",
+"1082","142","_menu_item_type","taxonomy"
+"1083","142","_menu_item_menu_item_parent","166"
+"1084","142","_menu_item_object_id","44"
+"1085","142","_menu_item_object","category"
+"1086","142","_menu_item_target",
+"1087","142","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1088","142","_menu_item_xfn",
+"1089","142","_menu_item_url",
+"1091","143","_menu_item_type","taxonomy"
+"1092","143","_menu_item_menu_item_parent","166"
+"1093","143","_menu_item_object_id","43"
+"1094","143","_menu_item_object","category"
+"1095","143","_menu_item_target",
+"1096","143","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1097","143","_menu_item_xfn",
+"1098","143","_menu_item_url",
+"1100","144","_menu_item_type","taxonomy"
+"1101","144","_menu_item_menu_item_parent","152"
+"1102","144","_menu_item_object_id","36"
+"1103","144","_menu_item_object","category"
+"1104","144","_menu_item_target",
+"1105","144","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1106","144","_menu_item_xfn",
+"1107","144","_menu_item_url",
+"1109","145","_menu_item_type","taxonomy"
+"1110","145","_menu_item_menu_item_parent","0"
+"1111","145","_menu_item_object_id","5"
+"1112","145","_menu_item_object","category"
+"1113","145","_menu_item_target",
+"1114","145","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1115","145","_menu_item_xfn",
+"1116","145","_menu_item_url",
+"1118","146","_menu_item_type","taxonomy"
+"1119","146","_menu_item_menu_item_parent","164"
+"1120","146","_menu_item_object_id","24"
+"1121","146","_menu_item_object","category"
+"1122","146","_menu_item_target",
+"1123","146","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1124","146","_menu_item_xfn",
+"1125","146","_menu_item_url",
+"1127","147","_menu_item_type","taxonomy"
+"1128","147","_menu_item_menu_item_parent","0"
+"1129","147","_menu_item_object_id","7"
+"1130","147","_menu_item_object","category"
+"1131","147","_menu_item_target",
+"1132","147","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1133","147","_menu_item_xfn",
+"1134","147","_menu_item_url",
+"1136","148","_menu_item_type","taxonomy"
+"1137","148","_menu_item_menu_item_parent","147"
+"1138","148","_menu_item_object_id","30"
+"1139","148","_menu_item_object","category"
+"1140","148","_menu_item_target",
+"1141","148","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1142","148","_menu_item_xfn",
+"1143","148","_menu_item_url",
+"1145","149","_menu_item_type","taxonomy"
+"1146","149","_menu_item_menu_item_parent","0"
+"1147","149","_menu_item_object_id","16"
+"1148","149","_menu_item_object","category"
+"1149","149","_menu_item_target",
+"1150","149","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1151","149","_menu_item_xfn",
+"1152","149","_menu_item_url",
+"1154","150","_menu_item_type","taxonomy"
+"1155","150","_menu_item_menu_item_parent","160"
+"1156","150","_menu_item_object_id","39"
+"1157","150","_menu_item_object","category"
+"1158","150","_menu_item_target",
+"1159","150","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1160","150","_menu_item_xfn",
+"1161","150","_menu_item_url",
+"1163","151","_menu_item_type","taxonomy"
+"1164","151","_menu_item_menu_item_parent","164"
+"1165","151","_menu_item_object_id","28"
+"1166","151","_menu_item_object","category"
+"1167","151","_menu_item_target",
+"1168","151","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1169","151","_menu_item_xfn",
+"1170","151","_menu_item_url",
+"1172","152","_menu_item_type","taxonomy"
+"1173","152","_menu_item_menu_item_parent","0"
+"1174","152","_menu_item_object_id","9"
+"1175","152","_menu_item_object","category"
+"1176","152","_menu_item_target",
+"1177","152","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1178","152","_menu_item_xfn",
+"1179","152","_menu_item_url",
+"1181","153","_menu_item_type","taxonomy"
+"1182","153","_menu_item_menu_item_parent","145"
+"1183","153","_menu_item_object_id","20"
+"1184","153","_menu_item_object","category"
+"1185","153","_menu_item_target",
+"1186","153","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1187","153","_menu_item_xfn",
+"1188","153","_menu_item_url",
+"1190","154","_menu_item_type","taxonomy"
+"1191","154","_menu_item_menu_item_parent","164"
+"1192","154","_menu_item_object_id","25"
+"1193","154","_menu_item_object","category"
+"1194","154","_menu_item_target",
+"1195","154","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1196","154","_menu_item_xfn",
+"1197","154","_menu_item_url",
+"1199","155","_menu_item_type","taxonomy"
+"1200","155","_menu_item_menu_item_parent","147"
+"1201","155","_menu_item_object_id","31"
+"1202","155","_menu_item_object","category"
+"1203","155","_menu_item_target",
+"1204","155","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1205","155","_menu_item_xfn",
+"1206","155","_menu_item_url",
+"1208","156","_menu_item_type","taxonomy"
+"1209","156","_menu_item_menu_item_parent","145"
+"1210","156","_menu_item_object_id","21"
+"1211","156","_menu_item_object","category"
+"1212","156","_menu_item_target",
+"1213","156","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1214","156","_menu_item_xfn",
+"1215","156","_menu_item_url",
+"1217","157","_menu_item_type","taxonomy"
+"1218","157","_menu_item_menu_item_parent","138"
+"1219","157","_menu_item_object_id","17"
+"1220","157","_menu_item_object","category"
+"1221","157","_menu_item_target",
+"1222","157","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1223","157","_menu_item_xfn",
+"1224","157","_menu_item_url",
+"1226","158","_menu_item_type","taxonomy"
+"1227","158","_menu_item_menu_item_parent","145"
+"1228","158","_menu_item_object_id","22"
+"1229","158","_menu_item_object","category"
+"1230","158","_menu_item_target",
+"1231","158","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1232","158","_menu_item_xfn",
+"1233","158","_menu_item_url",
+"1235","159","_menu_item_type","taxonomy"
+"1236","159","_menu_item_menu_item_parent","138"
+"1237","159","_menu_item_object_id","18"
+"1238","159","_menu_item_object","category"
+"1239","159","_menu_item_target",
+"1240","159","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1241","159","_menu_item_xfn",
+"1242","159","_menu_item_url",
+"1244","160","_menu_item_type","taxonomy"
+"1245","160","_menu_item_menu_item_parent","0"
+"1246","160","_menu_item_object_id","10"
+"1247","160","_menu_item_object","category"
+"1248","160","_menu_item_target",
+"1249","160","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1250","160","_menu_item_xfn",
+"1251","160","_menu_item_url",
+"1253","161","_menu_item_type","taxonomy"
+"1254","161","_menu_item_menu_item_parent","160"
+"1255","161","_menu_item_object_id","40"
+"1256","161","_menu_item_object","category"
+"1257","161","_menu_item_target",
+"1258","161","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1259","161","_menu_item_xfn",
+"1260","161","_menu_item_url",
+"1262","162","_menu_item_type","taxonomy"
+"1263","162","_menu_item_menu_item_parent","0"
+"1264","162","_menu_item_object_id","12"
+"1265","162","_menu_item_object","category"
+"1266","162","_menu_item_target",
+"1267","162","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1268","162","_menu_item_xfn",
+"1269","162","_menu_item_url",
+"1271","163","_menu_item_type","taxonomy"
+"1272","163","_menu_item_menu_item_parent","162"
+"1273","163","_menu_item_object_id","41"
+"1274","163","_menu_item_object","category"
+"1275","163","_menu_item_target",
+"1276","163","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1277","163","_menu_item_xfn",
+"1278","163","_menu_item_url",
+"1280","164","_menu_item_type","taxonomy"
+"1281","164","_menu_item_menu_item_parent","0"
+"1282","164","_menu_item_object_id","1"
+"1283","164","_menu_item_object","category"
+"1284","164","_menu_item_target",
+"1285","164","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1286","164","_menu_item_xfn",
+"1287","164","_menu_item_url",
+"1289","165","_menu_item_type","taxonomy"
+"1290","165","_menu_item_menu_item_parent","138"
+"1291","165","_menu_item_object_id","15"
+"1292","165","_menu_item_object","category"
+"1293","165","_menu_item_target",
+"1294","165","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1295","165","_menu_item_xfn",
+"1296","165","_menu_item_url",
+"1298","166","_menu_item_type","taxonomy"
+"1299","166","_menu_item_menu_item_parent","0"
+"1300","166","_menu_item_object_id","13"
+"1301","166","_menu_item_object","category"
+"1302","166","_menu_item_target",
+"1303","166","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1304","166","_menu_item_xfn",
+"1305","166","_menu_item_url",
+"1307","167","_menu_item_type","taxonomy"
+"1308","167","_menu_item_menu_item_parent","164"
+"1309","167","_menu_item_object_id","26"
+"1310","167","_menu_item_object","category"
+"1311","167","_menu_item_target",
+"1312","167","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1313","167","_menu_item_xfn",
+"1314","167","_menu_item_url",
+"1316","168","_menu_item_type","taxonomy"
+"1317","168","_menu_item_menu_item_parent","149"
+"1318","168","_menu_item_object_id","33"
+"1319","168","_menu_item_object","category"
+"1320","168","_menu_item_target",
+"1321","168","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1322","168","_menu_item_xfn",
+"1323","168","_menu_item_url",
+"1325","169","_menu_item_type","taxonomy"
+"1326","169","_menu_item_menu_item_parent","138"
+"1327","169","_menu_item_object_id","19"
+"1328","169","_menu_item_object","category"
+"1329","169","_menu_item_target",
+"1330","169","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1331","169","_menu_item_xfn",
+"1332","169","_menu_item_url",
+"1334","170","_menu_item_type","taxonomy"
+"1335","170","_menu_item_menu_item_parent","0"
+"1336","170","_menu_item_object_id","14"
+"1337","170","_menu_item_object","category"
+"1338","170","_menu_item_target",
+"1339","170","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1340","170","_menu_item_xfn",
+"1341","170","_menu_item_url",
+"1343","84","post_views_count","3"
+"1344","12","post_views_count","2"
+"1345","174","_menu_item_type","taxonomy"
+"1346","174","_menu_item_menu_item_parent","0"
+"1347","174","_menu_item_object_id","17"
+"1348","174","_menu_item_object","category"
+"1349","174","_menu_item_target",
+"1350","174","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1351","174","_menu_item_xfn",
+"1352","174","_menu_item_url",
+"1354","175","_menu_item_type","taxonomy"
+"1355","175","_menu_item_menu_item_parent","0"
+"1356","175","_menu_item_object_id","18"
+"1357","175","_menu_item_object","category"
+"1358","175","_menu_item_target",
+"1359","175","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1360","175","_menu_item_xfn",
+"1361","175","_menu_item_url",
+"1363","176","_menu_item_type","taxonomy"
+"1364","176","_menu_item_menu_item_parent","0"
+"1365","176","_menu_item_object_id","15"
+"1366","176","_menu_item_object","category"
+"1367","176","_menu_item_target",
+"1368","176","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1369","176","_menu_item_xfn",
+"1370","176","_menu_item_url",
+"1372","177","_menu_item_type","taxonomy"
+"1373","177","_menu_item_menu_item_parent","0"
+"1374","177","_menu_item_object_id","19"
+"1375","177","_menu_item_object","category"
+"1376","177","_menu_item_target",
+"1377","177","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1378","177","_menu_item_xfn",
+"1379","177","_menu_item_url",
+"1381","178","_menu_item_type","taxonomy"
+"1382","178","_menu_item_menu_item_parent","0"
+"1383","178","_menu_item_object_id","20"
+"1384","178","_menu_item_object","category"
+"1385","178","_menu_item_target",
+"1386","178","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1387","178","_menu_item_xfn",
+"1388","178","_menu_item_url",
+"1390","179","_menu_item_type","taxonomy"
+"1391","179","_menu_item_menu_item_parent","0"
+"1392","179","_menu_item_object_id","21"
+"1393","179","_menu_item_object","category"
+"1394","179","_menu_item_target",
+"1395","179","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1396","179","_menu_item_xfn",
+"1397","179","_menu_item_url",
+"1399","180","_menu_item_type","taxonomy"
+"1400","180","_menu_item_menu_item_parent","0"
+"1401","180","_menu_item_object_id","22"
+"1402","180","_menu_item_object","category"
+"1403","180","_menu_item_target",
+"1404","180","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1405","180","_menu_item_xfn",
+"1406","180","_menu_item_url",
+"1408","181","_menu_item_type","taxonomy"
+"1409","181","_menu_item_menu_item_parent","0"
+"1410","181","_menu_item_object_id","23"
+"1411","181","_menu_item_object","category"
+"1412","181","_menu_item_target",
+"1413","181","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1414","181","_menu_item_xfn",
+"1415","181","_menu_item_url",
+"1417","182","_menu_item_type","taxonomy"
+"1418","182","_menu_item_menu_item_parent","0"
+"1419","182","_menu_item_object_id","27"
+"1420","182","_menu_item_object","category"
+"1421","182","_menu_item_target",
+"1422","182","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1423","182","_menu_item_xfn",
+"1424","182","_menu_item_url",
+"1426","183","_menu_item_type","taxonomy"
+"1427","183","_menu_item_menu_item_parent","0"
+"1428","183","_menu_item_object_id","24"
+"1429","183","_menu_item_object","category"
+"1430","183","_menu_item_target",
+"1431","183","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1432","183","_menu_item_xfn",
+"1433","183","_menu_item_url",
+"1435","184","_menu_item_type","taxonomy"
+"1436","184","_menu_item_menu_item_parent","0"
+"1437","184","_menu_item_object_id","28"
+"1438","184","_menu_item_object","category"
+"1439","184","_menu_item_target",
+"1440","184","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1441","184","_menu_item_xfn",
+"1442","184","_menu_item_url",
+"1444","185","_menu_item_type","taxonomy"
+"1445","185","_menu_item_menu_item_parent","0"
+"1446","185","_menu_item_object_id","25"
+"1447","185","_menu_item_object","category"
+"1448","185","_menu_item_target",
+"1449","185","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1450","185","_menu_item_xfn",
+"1451","185","_menu_item_url",
+"1453","186","_menu_item_type","taxonomy"
+"1454","186","_menu_item_menu_item_parent","0"
+"1455","186","_menu_item_object_id","26"
+"1456","186","_menu_item_object","category"
+"1457","186","_menu_item_target",
+"1458","186","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1459","186","_menu_item_xfn",
+"1460","186","_menu_item_url",
+"1462","187","_menu_item_type","taxonomy"
+"1463","187","_menu_item_menu_item_parent","0"
+"1464","187","_menu_item_object_id","29"
+"1465","187","_menu_item_object","category"
+"1466","187","_menu_item_target",
+"1467","187","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1468","187","_menu_item_xfn",
+"1469","187","_menu_item_url",
+"1471","188","_menu_item_type","taxonomy"
+"1472","188","_menu_item_menu_item_parent","0"
+"1473","188","_menu_item_object_id","30"
+"1474","188","_menu_item_object","category"
+"1475","188","_menu_item_target",
+"1476","188","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1477","188","_menu_item_xfn",
+"1478","188","_menu_item_url",
+"1480","189","_menu_item_type","taxonomy"
+"1481","189","_menu_item_menu_item_parent","0"
+"1482","189","_menu_item_object_id","31"
+"1483","189","_menu_item_object","category"
+"1484","189","_menu_item_target",
+"1485","189","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1486","189","_menu_item_xfn",
+"1487","189","_menu_item_url",
+"1489","190","_menu_item_type","taxonomy"
+"1490","190","_menu_item_menu_item_parent","0"
+"1491","190","_menu_item_object_id","32"
+"1492","190","_menu_item_object","category"
+"1493","190","_menu_item_target",
+"1494","190","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1495","190","_menu_item_xfn",
+"1496","190","_menu_item_url",
+"1498","191","_menu_item_type","taxonomy"
+"1499","191","_menu_item_menu_item_parent","0"
+"1500","191","_menu_item_object_id","33"
+"1501","191","_menu_item_object","category"
+"1502","191","_menu_item_target",
+"1503","191","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1504","191","_menu_item_xfn",
+"1505","191","_menu_item_url",
+"1507","192","_menu_item_type","taxonomy"
+"1508","192","_menu_item_menu_item_parent","0"
+"1509","192","_menu_item_object_id","34"
+"1510","192","_menu_item_object","category"
+"1511","192","_menu_item_target",
+"1512","192","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1513","192","_menu_item_xfn",
+"1514","192","_menu_item_url",
+"1516","193","_menu_item_type","taxonomy"
+"1517","193","_menu_item_menu_item_parent","0"
+"1518","193","_menu_item_object_id","35"
+"1519","193","_menu_item_object","category"
+"1520","193","_menu_item_target",
+"1521","193","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1522","193","_menu_item_xfn",
+"1523","193","_menu_item_url",
+"1525","194","_menu_item_type","taxonomy"
+"1526","194","_menu_item_menu_item_parent","0"
+"1527","194","_menu_item_object_id","36"
+"1528","194","_menu_item_object","category"
+"1529","194","_menu_item_target",
+"1530","194","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1531","194","_menu_item_xfn",
+"1532","194","_menu_item_url",
+"1534","195","_menu_item_type","taxonomy"
+"1535","195","_menu_item_menu_item_parent","0"
+"1536","195","_menu_item_object_id","38"
+"1537","195","_menu_item_object","category"
+"1538","195","_menu_item_target",
+"1539","195","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1540","195","_menu_item_xfn",
+"1541","195","_menu_item_url",
+"1543","196","_menu_item_type","taxonomy"
+"1544","196","_menu_item_menu_item_parent","0"
+"1545","196","_menu_item_object_id","37"
+"1546","196","_menu_item_object","category"
+"1547","196","_menu_item_target",
+"1548","196","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1549","196","_menu_item_xfn",
+"1550","196","_menu_item_url",
+"1552","197","_menu_item_type","taxonomy"
+"1553","197","_menu_item_menu_item_parent","0"
+"1554","197","_menu_item_object_id","39"
+"1555","197","_menu_item_object","category"
+"1556","197","_menu_item_target",
+"1557","197","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1558","197","_menu_item_xfn",
+"1559","197","_menu_item_url",
+"1561","198","_menu_item_type","taxonomy"
+"1562","198","_menu_item_menu_item_parent","0"
+"1563","198","_menu_item_object_id","40"
+"1564","198","_menu_item_object","category"
+"1565","198","_menu_item_target",
+"1566","198","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1567","198","_menu_item_xfn",
+"1568","198","_menu_item_url",
+"1570","199","_menu_item_type","taxonomy"
+"1571","199","_menu_item_menu_item_parent","0"
+"1572","199","_menu_item_object_id","41"
+"1573","199","_menu_item_object","category"
+"1574","199","_menu_item_target",
+"1575","199","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1576","199","_menu_item_xfn",
+"1577","199","_menu_item_url",
+"1579","200","_menu_item_type","taxonomy"
+"1580","200","_menu_item_menu_item_parent","0"
+"1581","200","_menu_item_object_id","42"
+"1582","200","_menu_item_object","category"
+"1583","200","_menu_item_target",
+"1584","200","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1585","200","_menu_item_xfn",
+"1586","200","_menu_item_url",
+"1588","201","_menu_item_type","taxonomy"
+"1589","201","_menu_item_menu_item_parent","0"
+"1590","201","_menu_item_object_id","44"
+"1591","201","_menu_item_object","category"
+"1592","201","_menu_item_target",
+"1593","201","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1594","201","_menu_item_xfn",
+"1595","201","_menu_item_url",
+"1597","202","_menu_item_type","taxonomy"
+"1598","202","_menu_item_menu_item_parent","0"
+"1599","202","_menu_item_object_id","43"
+"1600","202","_menu_item_object","category"
+"1601","202","_menu_item_target",
+"1602","202","_menu_item_classes","a:1:{i:0;s:0:"""";}"
+"1603","202","_menu_item_xfn",
+"1604","202","_menu_item_url",
+"2","1","2015-05-27 13:37:12","2015-05-27 13:37:12","Esta é uma página de exemplo. É diferente de um post porque ela ficará em um local e será exibida na navegação do seu site (na maioria dos temas). A maioria das pessoas começa com uma página de introdução aos potenciais visitantes do site. Ela pode ser assim:
+<blockquote>Olá! Eu sou um bike courrier de dia, ator amador à noite e este é meu blog. Eu moro em São Paulo, tenho um cachorro chamado Tonico e eu gosto de caipirinhas. (E de ser pego pela chuva.)</blockquote>
+ou assim:
+<blockquote>A XYZ foi fundada em 1971 e desde então vem proporcionando produtos de qualidade a seus clientes. Localizada em Valinhos, XYZ emprega mais de 2.000 pessoas e faz várias contribuições para a comunidade local.</blockquote>
+Como um novo usuário do WordPress, você deve ir até o <a href=""http://localhost/folha/wp-admin/"">seu painel</a> para excluir essa página e criar novas páginas com seu próprio conteúdo. Divirta-se!","Página de Exemplo",,"publish","open","open",,"pagina-exemplo",,,"2015-06-08 18:11:13","2015-06-08 18:11:13",,"0","http://localhost/folha/?page_id=2","0","page",,"0"
+"4","1","2015-05-28 17:51:19","2015-05-28 17:51:19",,"profitmag",,"inherit","open","open",,"profitmag",,,"2015-05-28 17:51:19","2015-05-28 17:51:19",,"0","http://localhost/folha/wp-content/uploads/2015/05/profitmag.png","0","attachment","image/png","0"
+"5","1","2015-05-28 17:52:12","2015-05-28 17:52:12","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag.png","cropped-profitmag.png",,"inherit","open","open",,"cropped-profitmag-png",,,"2015-05-28 17:52:12","2015-05-28 17:52:12",,"0","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag.png","0","attachment","image/png","0"
+"6","1","2015-05-28 18:01:56","2015-05-28 18:01:56",,"profitmag1",,"inherit","open","open",,"profitmag1",,,"2015-05-28 18:01:56","2015-05-28 18:01:56",,"0","http://localhost/folha/wp-content/uploads/2015/05/profitmag1.png","0","attachment","image/png","0"
+"7","1","2015-05-28 18:02:04","2015-05-28 18:02:04","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag1.png","cropped-profitmag1.png",,"inherit","open","open",,"cropped-profitmag1-png",,,"2015-05-28 18:02:04","2015-05-28 18:02:04",,"0","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag1.png","0","attachment","image/png","0"
+"8","1","2015-05-28 18:21:38","2015-05-28 18:21:38","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png","cropped-profitmag11.png",,"inherit","open","open",,"cropped-profitmag11-png",,,"2015-06-08 18:20:10","2015-06-08 18:20:10",,"12","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png","0","attachment","image/png","0"
+"9","1","2015-06-08 17:52:56","2015-06-08 17:52:56",,"Home",,"publish","open","open",,"home",,,"2015-06-08 17:52:56","2015-06-08 17:52:56",,"0","http://localhost/folha/?page_id=9","0","page",,"0"
+"10","1","2015-06-08 17:52:56","2015-06-08 17:52:56",,"Home",,"inherit","open","open",,"9-revision-v1",,,"2015-06-08 17:52:56","2015-06-08 17:52:56",,"9","http://localhost/folha/index.php/2015/06/08/9-revision-v1/","0","revision",,"0"
+"12","1","2015-06-08 17:57:06","2015-06-08 17:57:06","Nulla luctus nibh id blandit malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut orci lacus, semper vitae leo ut, dignissim tincidunt nisl. Sed neque nisi, maximus vel odio vel, fringilla laoreet nunc. Nulla facilisi. Maecenas in ante ut ante suscipit dapibus. Donec vitae nisi efficitur, consequat nibh non, ullamcorper turpis. Fusce lorem est, iaculis vel mattis vitae, faucibus imperdiet sapien. Maecenas quis pretium eros. In sollicitudin nibh eu congue feugiat. Maecenas sed libero sed diam pulvinar consequat. Morbi bibendum et risus dapibus viverra. Sed quis imperdiet libero, vitae lacinia nulla. Donec facilisis eu nulla nec sodales. Nullam aliquam iaculis scelerisque.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus et turpis pretium, varius eros in, lacinia elit. Maecenas condimentum sagittis volutpat. Donec orci mi, lobortis a suscipit at, efficitur a justo. Quisque elit justo, tempor nec fermentum eget, dignissim et enim. Pellentesque et velit leo. Maecenas congue dapibus mauris finibus posuere. In nunc diam, porttitor et tincidunt vitae, pharetra sit amet diam. Proin iaculis non erat ut sodales. Sed malesuada sapien ante, at sollicitudin ipsum maximus ut.
+
+Curabitur massa leo, laoreet ut interdum ut, iaculis ac eros. Nulla ac eros ultricies elit semper interdum. Sed sodales risus enim, vel pharetra mauris pretium aliquet. Nam quis pulvinar metus. In hac habitasse platea dictumst. Sed ac malesuada neque, ac aliquet est. Aenean nec feugiat elit, a rutrum ex. In mauris diam, mattis lobortis metus eget, molestie interdum est. Etiam varius iaculis magna sit amet consequat. Pellentesque odio nulla, pharetra et auctor vel, pharetra ac nisi. Sed eleifend aliquet vehicula. Phasellus tincidunt nunc a lacus tempus, id gravida dui sodales. Duis vel condimentum eros. Ut pharetra, diam eu efficitur bibendum, leo risus pharetra massa, ut ultrices urna leo at dui. Sed volutpat neque id quam auctor convallis.
+
+Integer rutrum dignissim mi, vitae laoreet turpis. Ut lobortis diam ut pretium consequat. Vivamus feugiat vitae dolor sit amet commodo. Maecenas semper sollicitudin mi. Vivamus tempus, sapien eu dignissim gravida, justo odio luctus sem, at malesuada eros tortor nec ipsum. In hac habitasse platea dictumst. Vivamus eget dui at nulla condimentum placerat sagittis tempus ipsum. Nulla facilisi. Vivamus at turpis a velit gravida volutpat. Fusce augue leo, sagittis sollicitudin scelerisque eget, dapibus quis ipsum. Cras tempor sodales tellus non rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum lectus mauris, aliquam quis aliquam non, blandit et lectus. Fusce dapibus lectus non vulputate feugiat. Quisque tempus ante eget ante facilisis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.","Postagem 1",,"publish","open","open",,"postagem-1",,,"2015-06-09 21:36:34","2015-06-09 21:36:34",,"0","http://localhost/folha/?p=12","0","post",,"0"
+"13","1","2015-06-08 17:57:06","2015-06-08 17:57:06","Nulla luctus nibh id blandit malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut orci lacus, semper vitae leo ut, dignissim tincidunt nisl. Sed neque nisi, maximus vel odio vel, fringilla laoreet nunc. Nulla facilisi. Maecenas in ante ut ante suscipit dapibus. Donec vitae nisi efficitur, consequat nibh non, ullamcorper turpis. Fusce lorem est, iaculis vel mattis vitae, faucibus imperdiet sapien. Maecenas quis pretium eros. In sollicitudin nibh eu congue feugiat. Maecenas sed libero sed diam pulvinar consequat. Morbi bibendum et risus dapibus viverra. Sed quis imperdiet libero, vitae lacinia nulla. Donec facilisis eu nulla nec sodales. Nullam aliquam iaculis scelerisque.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus et turpis pretium, varius eros in, lacinia elit. Maecenas condimentum sagittis volutpat. Donec orci mi, lobortis a suscipit at, efficitur a justo. Quisque elit justo, tempor nec fermentum eget, dignissim et enim. Pellentesque et velit leo. Maecenas congue dapibus mauris finibus posuere. In nunc diam, porttitor et tincidunt vitae, pharetra sit amet diam. Proin iaculis non erat ut sodales. Sed malesuada sapien ante, at sollicitudin ipsum maximus ut.
+
+Curabitur massa leo, laoreet ut interdum ut, iaculis ac eros. Nulla ac eros ultricies elit semper interdum. Sed sodales risus enim, vel pharetra mauris pretium aliquet. Nam quis pulvinar metus. In hac habitasse platea dictumst. Sed ac malesuada neque, ac aliquet est. Aenean nec feugiat elit, a rutrum ex. In mauris diam, mattis lobortis metus eget, molestie interdum est. Etiam varius iaculis magna sit amet consequat. Pellentesque odio nulla, pharetra et auctor vel, pharetra ac nisi. Sed eleifend aliquet vehicula. Phasellus tincidunt nunc a lacus tempus, id gravida dui sodales. Duis vel condimentum eros. Ut pharetra, diam eu efficitur bibendum, leo risus pharetra massa, ut ultrices urna leo at dui. Sed volutpat neque id quam auctor convallis.
+
+Integer rutrum dignissim mi, vitae laoreet turpis. Ut lobortis diam ut pretium consequat. Vivamus feugiat vitae dolor sit amet commodo. Maecenas semper sollicitudin mi. Vivamus tempus, sapien eu dignissim gravida, justo odio luctus sem, at malesuada eros tortor nec ipsum. In hac habitasse platea dictumst. Vivamus eget dui at nulla condimentum placerat sagittis tempus ipsum. Nulla facilisi. Vivamus at turpis a velit gravida volutpat. Fusce augue leo, sagittis sollicitudin scelerisque eget, dapibus quis ipsum. Cras tempor sodales tellus non rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum lectus mauris, aliquam quis aliquam non, blandit et lectus. Fusce dapibus lectus non vulputate feugiat. Quisque tempus ante eget ante facilisis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.","Postagem 1",,"inherit","open","open",,"12-revision-v1",,,"2015-06-08 17:57:06","2015-06-08 17:57:06",,"12","http://localhost/folha/index.php/2015/06/08/12-revision-v1/","0","revision",,"0"
+"14","1","2015-06-08 17:58:05","2015-06-08 17:58:05","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue euismod turpis, nec dignissim purus venenatis eget. Fusce vel odio massa. Integer aliquam interdum libero vel varius. Quisque sollicitudin vitae dolor at cursus. Nullam tempor semper ornare. Etiam pharetra pretium iaculis. Cras eget dictum nunc, vitae dapibus leo. Aenean consectetur, mauris a sollicitudin efficitur, orci ante rhoncus justo, vel interdum urna sem non nunc.
+
+Mauris interdum a eros sit amet ultrices. Morbi accumsan metus sed dui imperdiet pulvinar. Nulla gravida lorem enim, vitae commodo tortor bibendum a. Donec tincidunt nulla leo. Suspendisse ut sapien at enim luctus varius lacinia nec diam. Nam mollis tristique maximus. Quisque sollicitudin, arcu et finibus maximus, tellus lectus fermentum eros, ac tempor mi risus nec lacus. Nam et lacus in ante malesuada imperdiet. Aliquam fringilla nisi leo, nec vestibulum nisi suscipit a. Praesent suscipit arcu neque, non tempor justo tincidunt id. Donec vitae pellentesque est. Nunc euismod nisl id porta convallis. Phasellus ex tortor, rutrum eu arcu eget, congue rhoncus sem.
+
+Etiam ornare libero in erat rutrum, id condimentum lacus hendrerit. Maecenas augue ligula, fringilla vitae maximus in, aliquam non orci. Vestibulum scelerisque arcu sit amet arcu tristique porttitor. Curabitur tincidunt finibus enim sed maximus. Integer iaculis ante et turpis laoreet sodales. Aenean pellentesque mi in ipsum viverra, eget volutpat orci vehicula. Etiam in quam eros.
+
+Quisque facilisis, orci ut aliquet blandit, nunc purus facilisis mi, id efficitur sapien nisl blandit libero. Nulla non leo quam. Maecenas quis orci mollis, tempor felis at, vulputate tortor. Suspendisse semper, mi eget ultricies facilisis, sem est tempor metus, eget malesuada neque mauris eu erat. Integer cursus dignissim hendrerit. Aenean vitae ex eu tellus facilisis rhoncus pretium sed magna. Duis at est faucibus, iaculis magna eu, faucibus diam. In id hendrerit nibh, eu facilisis nunc. Suspendisse neque erat, congue sodales semper vel, interdum id orci. Quisque laoreet semper ligula.
+
+Praesent lobortis, orci a viverra porttitor, magna dolor ullamcorper ligula, a ornare arcu lorem in nibh. Integer hendrerit blandit sagittis. Nunc sit amet nulla nec ex finibus porta nec ut velit. Nam ac varius metus, in pellentesque velit. Duis at felis fermentum, varius massa sed, fringilla lacus. Donec mattis massa sit amet tempor aliquam. In id urna nisl. Etiam mauris lectus, vestibulum ut felis in, ullamcorper elementum orci. Quisque quis tempus erat, eu volutpat augue.
+
+</div>","Postagem 2",,"publish","open","open",,"postagem-2",,,"2015-06-09 21:36:53","2015-06-09 21:36:53",,"0","http://localhost/folha/?p=14","0","post",,"0"
+"15","1","2015-06-08 17:58:05","2015-06-08 17:58:05","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue euismod turpis, nec dignissim purus venenatis eget. Fusce vel odio massa. Integer aliquam interdum libero vel varius. Quisque sollicitudin vitae dolor at cursus. Nullam tempor semper ornare. Etiam pharetra pretium iaculis. Cras eget dictum nunc, vitae dapibus leo. Aenean consectetur, mauris a sollicitudin efficitur, orci ante rhoncus justo, vel interdum urna sem non nunc.
+
+Mauris interdum a eros sit amet ultrices. Morbi accumsan metus sed dui imperdiet pulvinar. Nulla gravida lorem enim, vitae commodo tortor bibendum a. Donec tincidunt nulla leo. Suspendisse ut sapien at enim luctus varius lacinia nec diam. Nam mollis tristique maximus. Quisque sollicitudin, arcu et finibus maximus, tellus lectus fermentum eros, ac tempor mi risus nec lacus. Nam et lacus in ante malesuada imperdiet. Aliquam fringilla nisi leo, nec vestibulum nisi suscipit a. Praesent suscipit arcu neque, non tempor justo tincidunt id. Donec vitae pellentesque est. Nunc euismod nisl id porta convallis. Phasellus ex tortor, rutrum eu arcu eget, congue rhoncus sem.
+
+Etiam ornare libero in erat rutrum, id condimentum lacus hendrerit. Maecenas augue ligula, fringilla vitae maximus in, aliquam non orci. Vestibulum scelerisque arcu sit amet arcu tristique porttitor. Curabitur tincidunt finibus enim sed maximus. Integer iaculis ante et turpis laoreet sodales. Aenean pellentesque mi in ipsum viverra, eget volutpat orci vehicula. Etiam in quam eros.
+
+Quisque facilisis, orci ut aliquet blandit, nunc purus facilisis mi, id efficitur sapien nisl blandit libero. Nulla non leo quam. Maecenas quis orci mollis, tempor felis at, vulputate tortor. Suspendisse semper, mi eget ultricies facilisis, sem est tempor metus, eget malesuada neque mauris eu erat. Integer cursus dignissim hendrerit. Aenean vitae ex eu tellus facilisis rhoncus pretium sed magna. Duis at est faucibus, iaculis magna eu, faucibus diam. In id hendrerit nibh, eu facilisis nunc. Suspendisse neque erat, congue sodales semper vel, interdum id orci. Quisque laoreet semper ligula.
+
+Praesent lobortis, orci a viverra porttitor, magna dolor ullamcorper ligula, a ornare arcu lorem in nibh. Integer hendrerit blandit sagittis. Nunc sit amet nulla nec ex finibus porta nec ut velit. Nam ac varius metus, in pellentesque velit. Duis at felis fermentum, varius massa sed, fringilla lacus. Donec mattis massa sit amet tempor aliquam. In id urna nisl. Etiam mauris lectus, vestibulum ut felis in, ullamcorper elementum orci. Quisque quis tempus erat, eu volutpat augue.
+
+</div>","Postagem 2",,"inherit","open","open",,"14-revision-v1",,,"2015-06-08 17:58:05","2015-06-08 17:58:05",,"14","http://localhost/folha/index.php/2015/06/08/14-revision-v1/","0","revision",,"0"
+"16","1","2015-06-08 18:01:34","2015-06-08 18:01:34","Esta é uma página de exemplo. É diferente de um post porque ela ficará em um local e será exibida na navegação do seu site (na maioria dos temas). A maioria das pessoas começa com uma página de introdução aos potenciais visitantes do site. Ela pode ser assim:
+<blockquote>Olá! Eu sou um bike courrier de dia, ator amador à noite e este é meu blog. Eu moro em São Paulo, tenho um cachorro chamado Tonico e eu gosto de caipirinhas. (E de ser pego pela chuva.)</blockquote>
+ou assim:
+<blockquote>A XYZ foi fundada em 1971 e desde então vem proporcionando produtos de qualidade a seus clientes. Localizada em Valinhos, XYZ emprega mais de 2.000 pessoas e faz várias contribuições para a comunidade local.</blockquote>
+Como um novo usuário do WordPress, você deve ir até o <a href=""http://localhost/folha/wp-admin/"">seu painel</a> para excluir essa página e criar novas páginas com seu próprio conteúdo. Divirta-se!","Página de Exemplo",,"inherit","open","open",,"2-revision-v1",,,"2015-06-08 18:01:34","2015-06-08 18:01:34",,"2","http://localhost/folha/index.php/2015/06/08/2-revision-v1/","0","revision",,"0"
+"18","1","2015-06-08 18:20:16","2015-06-08 18:20:16","<a href=""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png""><img class=""alignnone size-full wp-image-8"" src=""http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag11.png"" alt=""cropped-profitmag11.png"" width=""274"" height=""109"" /></a>Nulla luctus nibh id blandit malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut orci lacus, semper vitae leo ut, dignissim tincidunt nisl. Sed neque nisi, maximus vel odio vel, fringilla laoreet nunc. Nulla facilisi. Maecenas in ante ut ante suscipit dapibus. Donec vitae nisi efficitur, consequat nibh non, ullamcorper turpis. Fusce lorem est, iaculis vel mattis vitae, faucibus imperdiet sapien. Maecenas quis pretium eros. In sollicitudin nibh eu congue feugiat. Maecenas sed libero sed diam pulvinar consequat. Morbi bibendum et risus dapibus viverra. Sed quis imperdiet libero, vitae lacinia nulla. Donec facilisis eu nulla nec sodales. Nullam aliquam iaculis scelerisque.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus et turpis pretium, varius eros in, lacinia elit. Maecenas condimentum sagittis volutpat. Donec orci mi, lobortis a suscipit at, efficitur a justo. Quisque elit justo, tempor nec fermentum eget, dignissim et enim. Pellentesque et velit leo. Maecenas congue dapibus mauris finibus posuere. In nunc diam, porttitor et tincidunt vitae, pharetra sit amet diam. Proin iaculis non erat ut sodales. Sed malesuada sapien ante, at sollicitudin ipsum maximus ut.
+
+Curabitur massa leo, laoreet ut interdum ut, iaculis ac eros. Nulla ac eros ultricies elit semper interdum. Sed sodales risus enim, vel pharetra mauris pretium aliquet. Nam quis pulvinar metus. In hac habitasse platea dictumst. Sed ac malesuada neque, ac aliquet est. Aenean nec feugiat elit, a rutrum ex. In mauris diam, mattis lobortis metus eget, molestie interdum est. Etiam varius iaculis magna sit amet consequat. Pellentesque odio nulla, pharetra et auctor vel, pharetra ac nisi. Sed eleifend aliquet vehicula. Phasellus tincidunt nunc a lacus tempus, id gravida dui sodales. Duis vel condimentum eros. Ut pharetra, diam eu efficitur bibendum, leo risus pharetra massa, ut ultrices urna leo at dui. Sed volutpat neque id quam auctor convallis.
+
+Integer rutrum dignissim mi, vitae laoreet turpis. Ut lobortis diam ut pretium consequat. Vivamus feugiat vitae dolor sit amet commodo. Maecenas semper sollicitudin mi. Vivamus tempus, sapien eu dignissim gravida, justo odio luctus sem, at malesuada eros tortor nec ipsum. In hac habitasse platea dictumst. Vivamus eget dui at nulla condimentum placerat sagittis tempus ipsum. Nulla facilisi. Vivamus at turpis a velit gravida volutpat. Fusce augue leo, sagittis sollicitudin scelerisque eget, dapibus quis ipsum. Cras tempor sodales tellus non rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum lectus mauris, aliquam quis aliquam non, blandit et lectus. Fusce dapibus lectus non vulputate feugiat. Quisque tempus ante eget ante facilisis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.","Postagem 1",,"inherit","open","open",,"12-revision-v1",,,"2015-06-08 18:20:16","2015-06-08 18:20:16",,"12","http://localhost/folha/index.php/2015/06/08/12-revision-v1/","0","revision",,"0"
+"19","1","2015-06-08 18:21:13","2015-06-08 18:21:13","Nulla luctus nibh id blandit malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut orci lacus, semper vitae leo ut, dignissim tincidunt nisl. Sed neque nisi, maximus vel odio vel, fringilla laoreet nunc. Nulla facilisi. Maecenas in ante ut ante suscipit dapibus. Donec vitae nisi efficitur, consequat nibh non, ullamcorper turpis. Fusce lorem est, iaculis vel mattis vitae, faucibus imperdiet sapien. Maecenas quis pretium eros. In sollicitudin nibh eu congue feugiat. Maecenas sed libero sed diam pulvinar consequat. Morbi bibendum et risus dapibus viverra. Sed quis imperdiet libero, vitae lacinia nulla. Donec facilisis eu nulla nec sodales. Nullam aliquam iaculis scelerisque.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus et turpis pretium, varius eros in, lacinia elit. Maecenas condimentum sagittis volutpat. Donec orci mi, lobortis a suscipit at, efficitur a justo. Quisque elit justo, tempor nec fermentum eget, dignissim et enim. Pellentesque et velit leo. Maecenas congue dapibus mauris finibus posuere. In nunc diam, porttitor et tincidunt vitae, pharetra sit amet diam. Proin iaculis non erat ut sodales. Sed malesuada sapien ante, at sollicitudin ipsum maximus ut.
+
+Curabitur massa leo, laoreet ut interdum ut, iaculis ac eros. Nulla ac eros ultricies elit semper interdum. Sed sodales risus enim, vel pharetra mauris pretium aliquet. Nam quis pulvinar metus. In hac habitasse platea dictumst. Sed ac malesuada neque, ac aliquet est. Aenean nec feugiat elit, a rutrum ex. In mauris diam, mattis lobortis metus eget, molestie interdum est. Etiam varius iaculis magna sit amet consequat. Pellentesque odio nulla, pharetra et auctor vel, pharetra ac nisi. Sed eleifend aliquet vehicula. Phasellus tincidunt nunc a lacus tempus, id gravida dui sodales. Duis vel condimentum eros. Ut pharetra, diam eu efficitur bibendum, leo risus pharetra massa, ut ultrices urna leo at dui. Sed volutpat neque id quam auctor convallis.
+
+Integer rutrum dignissim mi, vitae laoreet turpis. Ut lobortis diam ut pretium consequat. Vivamus feugiat vitae dolor sit amet commodo. Maecenas semper sollicitudin mi. Vivamus tempus, sapien eu dignissim gravida, justo odio luctus sem, at malesuada eros tortor nec ipsum. In hac habitasse platea dictumst. Vivamus eget dui at nulla condimentum placerat sagittis tempus ipsum. Nulla facilisi. Vivamus at turpis a velit gravida volutpat. Fusce augue leo, sagittis sollicitudin scelerisque eget, dapibus quis ipsum. Cras tempor sodales tellus non rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum lectus mauris, aliquam quis aliquam non, blandit et lectus. Fusce dapibus lectus non vulputate feugiat. Quisque tempus ante eget ante facilisis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.","Postagem 1",,"inherit","open","open",,"12-revision-v1",,,"2015-06-08 18:21:13","2015-06-08 18:21:13",,"12","http://localhost/folha/index.php/2015/06/08/12-revision-v1/","0","revision",,"0"
+"20","1","2015-06-08 18:33:40","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 18:33:40","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=20","1","nav_menu_item",,"0"
+"21","1","2015-06-08 18:33:41","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 18:33:41","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=21","1","nav_menu_item",,"0"
+"22","1","2015-06-08 18:33:41","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 18:33:41","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=22","1","nav_menu_item",,"0"
+"41","1","2015-06-08 20:02:42","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:42","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=41","1","nav_menu_item",,"0"
+"45","1","2015-06-08 20:02:44","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:44","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=45","1","nav_menu_item",,"0"
+"47","1","2015-06-08 20:02:45","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:45","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=47","1","nav_menu_item",,"0"
+"59","1","2015-06-08 20:02:50","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:50","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=59","1","nav_menu_item",,"0"
+"60","1","2015-06-08 20:02:51","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:51","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=60","1","nav_menu_item",,"0"
+"61","1","2015-06-08 20:02:51","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:51","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=61","1","nav_menu_item",,"0"
+"63","1","2015-06-08 20:02:52","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-08 20:02:52","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=63","1","nav_menu_item",,"0"
+"80","1","2015-06-08 20:27:22","2015-06-08 20:27:22",,"CcsDepPampolhacapajpgjpg",,"inherit","open","open",,"ccsdeppampolhacapajpgjpg",,,"2015-06-08 20:27:22","2015-06-08 20:27:22",,"12","http://localhost/folha/wp-content/uploads/2015/06/CcsDepPampolhacapajpgjpg.jpeg","0","attachment","image/jpeg","0"
+"81","1","2015-06-08 20:27:22","2015-06-08 20:27:22",,"FeiraMixxRafaeljpg",,"inherit","open","open",,"feiramixxrafaeljpg",,,"2015-06-08 20:27:22","2015-06-08 20:27:22",,"12","http://localhost/folha/wp-content/uploads/2015/06/FeiraMixxRafaeljpg.jpeg","0","attachment","image/jpeg","0"
+"82","1","2015-06-08 20:27:22","2015-06-08 20:27:22",,"gfmrmanoelgoleiro0106capajpgjpg",,"inherit","open","open",,"gfmrmanoelgoleiro0106capajpgjpg",,,"2015-06-08 20:27:22","2015-06-08 20:27:22",,"12","http://localhost/folha/wp-content/uploads/2015/06/gfmrmanoelgoleiro0106capajpgjpg.jpeg","0","attachment","image/jpeg","0"
+"83","1","2015-06-08 20:27:23","2015-06-08 20:27:23",,"trocandoosp_oscapajpg",,"inherit","open","open",,"trocandoosp_oscapajpg",,,"2015-06-08 20:27:23","2015-06-08 20:27:23",,"12","http://localhost/folha/wp-content/uploads/2015/06/trocandoosp_oscapajpg.jpeg","0","attachment","image/jpeg","0"
+"84","1","2015-06-08 20:29:12","2015-06-08 20:29:12","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit, tellus ut ornare elementum, odio orci suscipit quam, a varius libero dui eu est. Praesent at turpis non lacus gravida fermentum. In risus ipsum, mollis ac aliquet at, accumsan sit amet enim. Pellentesque finibus dictum metus, eu efficitur mauris pretium id. Vestibulum sed arcu vehicula, ultrices magna a, sollicitudin neque. Morbi et odio eget massa dictum suscipit. Aenean ac commodo justo. Fusce auctor euismod libero sed blandit. In varius imperdiet ultricies. Sed suscipit vel ipsum vitae vehicula. Sed pharetra id arcu a ultrices. Mauris porttitor tortor sed tellus ullamcorper, ac gravida justo molestie. In ac porta quam. Sed quis dui sed odio auctor sollicitudin. Donec elementum consectetur porttitor. Nulla eu ante vitae erat luctus molestie.
+
+Morbi gravida, nulla id tempor faucibus, felis massa lacinia felis, ac porta nulla massa ut velit. Curabitur mauris augue, bibendum finibus turpis at, interdum pretium massa. Vivamus auctor libero eros. Nullam id vehicula dolor. Duis bibendum tristique volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur viverra, metus vel iaculis cursus, ex diam tristique sem, non pretium nisl sem non lectus. Ut volutpat hendrerit magna, porttitor varius ex tincidunt ac. In sagittis eu massa in efficitur. Phasellus dui augue, ultricies sit amet fringilla nec, varius eu risus. Aenean sit amet pellentesque lorem. Nam nec fringilla urna. Duis porta tempus luctus.
+
+Nam pulvinar ligula in euismod rutrum. Sed sed urna malesuada, scelerisque nisi eget, placerat nisl. Ut et arcu rhoncus, commodo mauris non, condimentum tellus. Nullam placerat, nulla vitae maximus fringilla, massa magna blandit lectus, quis dapibus turpis lorem non nulla. Mauris bibendum sapien ligula, consequat interdum lectus ultrices at. Mauris sagittis sit amet nibh quis iaculis. Aenean mollis a metus quis tempor. Duis elit nulla, lobortis nec pharetra vel, pellentesque in arcu. Pellentesque sit amet aliquam nibh, at efficitur turpis. Donec accumsan ornare leo vitae iaculis. Praesent iaculis ex in massa vulputate, iaculis volutpat purus mattis. Morbi ipsum ante, scelerisque sit amet dictum sit amet, varius et enim. Integer ac turpis vitae purus aliquam fermentum. Vestibulum eget augue dignissim, suscipit enim eu, rhoncus est.
+
+Fusce quis eleifend nisl. Maecenas eu magna hendrerit nulla efficitur placerat. Proin posuere sapien eu arcu volutpat vehicula. Pellentesque eget odio arcu. Quisque nec fringilla ipsum, et porta sapien. Sed eget nulla quis eros accumsan consectetur a a sem. Cras a elit magna. Maecenas nec urna vel nisi consequat sollicitudin ut quis metus. Maecenas placerat bibendum nisi vel suscipit. Suspendisse egestas urna lacinia pretium rhoncus. Phasellus ipsum ex, accumsan vitae ipsum sit amet, maximus fermentum odio.
+
+Maecenas auctor vestibulum ligula non pellentesque. Phasellus sed tristique ligula. Proin et efficitur ante. Nullam posuere hendrerit velit, quis faucibus mi auctor nec. Duis molestie ligula in lectus congue, eu convallis mauris placerat. Vestibulum et ex in odio aliquet convallis. Morbi fermentum vestibulum nibh vitae ullamcorper. Nunc pellentesque massa in porttitor porttitor. Nunc vitae lacus sapien. Duis non odio pellentesque, suscipit elit sit amet, mollis libero. Vestibulum viverra eleifend lobortis. Morbi auctor eros sed leo posuere, at porttitor tortor lacinia. In hac habitasse platea dictumst. Phasellus vestibulum venenatis urna, vitae eleifend libero.
+
+</div>
+<div id=""generated""></div>","Postagem 3",,"publish","open","open",,"postagem-3",,,"2015-06-09 21:37:24","2015-06-09 21:37:24",,"0","http://localhost/folha/?p=84","0","post",,"0"
+"85","1","2015-06-08 20:29:12","2015-06-08 20:29:12","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit, tellus ut ornare elementum, odio orci suscipit quam, a varius libero dui eu est. Praesent at turpis non lacus gravida fermentum. In risus ipsum, mollis ac aliquet at, accumsan sit amet enim. Pellentesque finibus dictum metus, eu efficitur mauris pretium id. Vestibulum sed arcu vehicula, ultrices magna a, sollicitudin neque. Morbi et odio eget massa dictum suscipit. Aenean ac commodo justo. Fusce auctor euismod libero sed blandit. In varius imperdiet ultricies. Sed suscipit vel ipsum vitae vehicula. Sed pharetra id arcu a ultrices. Mauris porttitor tortor sed tellus ullamcorper, ac gravida justo molestie. In ac porta quam. Sed quis dui sed odio auctor sollicitudin. Donec elementum consectetur porttitor. Nulla eu ante vitae erat luctus molestie.
+
+Morbi gravida, nulla id tempor faucibus, felis massa lacinia felis, ac porta nulla massa ut velit. Curabitur mauris augue, bibendum finibus turpis at, interdum pretium massa. Vivamus auctor libero eros. Nullam id vehicula dolor. Duis bibendum tristique volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur viverra, metus vel iaculis cursus, ex diam tristique sem, non pretium nisl sem non lectus. Ut volutpat hendrerit magna, porttitor varius ex tincidunt ac. In sagittis eu massa in efficitur. Phasellus dui augue, ultricies sit amet fringilla nec, varius eu risus. Aenean sit amet pellentesque lorem. Nam nec fringilla urna. Duis porta tempus luctus.
+
+Nam pulvinar ligula in euismod rutrum. Sed sed urna malesuada, scelerisque nisi eget, placerat nisl. Ut et arcu rhoncus, commodo mauris non, condimentum tellus. Nullam placerat, nulla vitae maximus fringilla, massa magna blandit lectus, quis dapibus turpis lorem non nulla. Mauris bibendum sapien ligula, consequat interdum lectus ultrices at. Mauris sagittis sit amet nibh quis iaculis. Aenean mollis a metus quis tempor. Duis elit nulla, lobortis nec pharetra vel, pellentesque in arcu. Pellentesque sit amet aliquam nibh, at efficitur turpis. Donec accumsan ornare leo vitae iaculis. Praesent iaculis ex in massa vulputate, iaculis volutpat purus mattis. Morbi ipsum ante, scelerisque sit amet dictum sit amet, varius et enim. Integer ac turpis vitae purus aliquam fermentum. Vestibulum eget augue dignissim, suscipit enim eu, rhoncus est.
+
+Fusce quis eleifend nisl. Maecenas eu magna hendrerit nulla efficitur placerat. Proin posuere sapien eu arcu volutpat vehicula. Pellentesque eget odio arcu. Quisque nec fringilla ipsum, et porta sapien. Sed eget nulla quis eros accumsan consectetur a a sem. Cras a elit magna. Maecenas nec urna vel nisi consequat sollicitudin ut quis metus. Maecenas placerat bibendum nisi vel suscipit. Suspendisse egestas urna lacinia pretium rhoncus. Phasellus ipsum ex, accumsan vitae ipsum sit amet, maximus fermentum odio.
+
+Maecenas auctor vestibulum ligula non pellentesque. Phasellus sed tristique ligula. Proin et efficitur ante. Nullam posuere hendrerit velit, quis faucibus mi auctor nec. Duis molestie ligula in lectus congue, eu convallis mauris placerat. Vestibulum et ex in odio aliquet convallis. Morbi fermentum vestibulum nibh vitae ullamcorper. Nunc pellentesque massa in porttitor porttitor. Nunc vitae lacus sapien. Duis non odio pellentesque, suscipit elit sit amet, mollis libero. Vestibulum viverra eleifend lobortis. Morbi auctor eros sed leo posuere, at porttitor tortor lacinia. In hac habitasse platea dictumst. Phasellus vestibulum venenatis urna, vitae eleifend libero.
+
+</div>
+<div id=""generated""></div>","Postagem 3",,"inherit","open","open",,"84-revision-v1",,,"2015-06-08 20:29:12","2015-06-08 20:29:12",,"84","http://localhost/folha/index.php/2015/06/08/84-revision-v1/","0","revision",,"0"
+"86","1","2015-06-08 20:29:55","2015-06-08 20:29:55","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at condimentum lectus. Proin mauris tortor, bibendum vel mi aliquam, ultricies rutrum tellus. Nunc eu suscipit eros, commodo vehicula purus. Cras sit amet lobortis diam. Aenean condimentum lectus eget nibh aliquam consequat. Mauris finibus ex a purus consectetur, id sollicitudin nisl venenatis. Vivamus fermentum lorem dui, et porttitor ex pretium id. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ac nibh et tellus rutrum consequat mattis et tellus. Phasellus sed ultricies ligula, vitae pharetra neque. Maecenas dignissim mi ut quam facilisis dictum. Donec rhoncus tincidunt tempus. Phasellus vitae neque vel libero dictum tincidunt.
+
+Quisque tincidunt mi elit, a ultricies eros malesuada nec. Fusce ac massa vel erat congue ultrices in a nulla. Curabitur sed sapien hendrerit, elementum nulla ac, ornare odio. Vivamus diam nisi, malesuada id diam eget, ultricies molestie nisl. Cras semper magna vel sapien sollicitudin dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit ut nibh sed interdum. Phasellus lobortis ante non mauris pretium placerat. Praesent vitae eleifend nisi, vel suscipit massa. Duis ut viverra libero, ultrices ornare urna. Aenean vel urna vel odio mollis tempus at in velit. Maecenas quis est id quam fringilla sollicitudin. Maecenas sodales turpis nec sagittis consectetur. Phasellus quis dictum mi.
+
+Cras turpis tortor, malesuada sit amet consequat nec, viverra vitae arcu. In hac habitasse platea dictumst. Nunc in elit eget tortor sollicitudin varius. Suspendisse sed vehicula risus. Fusce vitae mauris nisl. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique eget urna ac congue. Donec varius ornare urna, non ultrices ante rhoncus non. In a aliquet ante. Nunc iaculis fermentum rhoncus. Proin pulvinar nunc leo, et elementum enim lacinia non. Vivamus a tempor lectus, sed lacinia lectus. Praesent vel magna nisi. Etiam quis sapien vitae diam ornare faucibus nec nec leo. Vestibulum suscipit lorem dolor.
+
+In nulla justo, posuere at mi eu, tristique posuere felis. Quisque odio sapien, pulvinar at libero ac, tristique mollis lacus. Curabitur malesuada ex vitae mauris semper fermentum. Morbi porta turpis eu porta egestas. Proin urna enim, dapibus vestibulum augue id, laoreet luctus sem. Donec euismod orci risus, maximus interdum turpis ullamcorper et. In hac habitasse platea dictumst. Pellentesque rhoncus mattis diam eget efficitur. Praesent lobortis, lorem vitae maximus varius, nibh ipsum gravida nisi, sed eleifend enim nunc quis enim. Nulla volutpat, lectus eget laoreet tempor, nisl odio maximus tortor, at placerat tortor urna in tellus. Vivamus placerat, enim in varius porttitor, sapien magna aliquet massa, eu sagittis metus ligula vitae diam.
+
+Duis at tortor accumsan, varius nisi ut, imperdiet velit. In tempus, sem sed lobortis efficitur, massa massa volutpat ligula, nec finibus dolor massa nec nunc. Quisque ac mauris et risus convallis tempor. Vestibulum sed mauris vel massa luctus venenatis sit amet ut ante. Pellentesque varius massa aliquet, aliquet sapien non, luctus neque. Etiam eget ligula consequat, fringilla felis vel, placerat mauris. Aliquam sollicitudin mauris ipsum, imperdiet rhoncus ligula aliquam rutrum. Quisque non turpis vel dui rutrum mattis. Fusce imperdiet facilisis dapibus. Praesent in ex augue. Proin blandit ornare massa a faucibus. Nulla blandit odio sed lorem scelerisque pulvinar. Morbi tellus ipsum, eleifend ac nisl bibendum, laoreet finibus lectus.
+
+</div>","Postagem 4",,"publish","open","open",,"postagem-4",,,"2015-06-09 21:24:39","2015-06-09 21:24:39",,"0","http://localhost/folha/?p=86","0","post",,"0"
+"87","1","2015-06-08 20:29:55","2015-06-08 20:29:55","<div id=""lipsum"">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at condimentum lectus. Proin mauris tortor, bibendum vel mi aliquam, ultricies rutrum tellus. Nunc eu suscipit eros, commodo vehicula purus. Cras sit amet lobortis diam. Aenean condimentum lectus eget nibh aliquam consequat. Mauris finibus ex a purus consectetur, id sollicitudin nisl venenatis. Vivamus fermentum lorem dui, et porttitor ex pretium id. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ac nibh et tellus rutrum consequat mattis et tellus. Phasellus sed ultricies ligula, vitae pharetra neque. Maecenas dignissim mi ut quam facilisis dictum. Donec rhoncus tincidunt tempus. Phasellus vitae neque vel libero dictum tincidunt.
+
+Quisque tincidunt mi elit, a ultricies eros malesuada nec. Fusce ac massa vel erat congue ultrices in a nulla. Curabitur sed sapien hendrerit, elementum nulla ac, ornare odio. Vivamus diam nisi, malesuada id diam eget, ultricies molestie nisl. Cras semper magna vel sapien sollicitudin dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit ut nibh sed interdum. Phasellus lobortis ante non mauris pretium placerat. Praesent vitae eleifend nisi, vel suscipit massa. Duis ut viverra libero, ultrices ornare urna. Aenean vel urna vel odio mollis tempus at in velit. Maecenas quis est id quam fringilla sollicitudin. Maecenas sodales turpis nec sagittis consectetur. Phasellus quis dictum mi.
+
+Cras turpis tortor, malesuada sit amet consequat nec, viverra vitae arcu. In hac habitasse platea dictumst. Nunc in elit eget tortor sollicitudin varius. Suspendisse sed vehicula risus. Fusce vitae mauris nisl. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique eget urna ac congue. Donec varius ornare urna, non ultrices ante rhoncus non. In a aliquet ante. Nunc iaculis fermentum rhoncus. Proin pulvinar nunc leo, et elementum enim lacinia non. Vivamus a tempor lectus, sed lacinia lectus. Praesent vel magna nisi. Etiam quis sapien vitae diam ornare faucibus nec nec leo. Vestibulum suscipit lorem dolor.
+
+In nulla justo, posuere at mi eu, tristique posuere felis. Quisque odio sapien, pulvinar at libero ac, tristique mollis lacus. Curabitur malesuada ex vitae mauris semper fermentum. Morbi porta turpis eu porta egestas. Proin urna enim, dapibus vestibulum augue id, laoreet luctus sem. Donec euismod orci risus, maximus interdum turpis ullamcorper et. In hac habitasse platea dictumst. Pellentesque rhoncus mattis diam eget efficitur. Praesent lobortis, lorem vitae maximus varius, nibh ipsum gravida nisi, sed eleifend enim nunc quis enim. Nulla volutpat, lectus eget laoreet tempor, nisl odio maximus tortor, at placerat tortor urna in tellus. Vivamus placerat, enim in varius porttitor, sapien magna aliquet massa, eu sagittis metus ligula vitae diam.
+
+Duis at tortor accumsan, varius nisi ut, imperdiet velit. In tempus, sem sed lobortis efficitur, massa massa volutpat ligula, nec finibus dolor massa nec nunc. Quisque ac mauris et risus convallis tempor. Vestibulum sed mauris vel massa luctus venenatis sit amet ut ante. Pellentesque varius massa aliquet, aliquet sapien non, luctus neque. Etiam eget ligula consequat, fringilla felis vel, placerat mauris. Aliquam sollicitudin mauris ipsum, imperdiet rhoncus ligula aliquam rutrum. Quisque non turpis vel dui rutrum mattis. Fusce imperdiet facilisis dapibus. Praesent in ex augue. Proin blandit ornare massa a faucibus. Nulla blandit odio sed lorem scelerisque pulvinar. Morbi tellus ipsum, eleifend ac nisl bibendum, laoreet finibus lectus.
+
+</div>","Postagem 4",,"inherit","open","open",,"86-revision-v1",,,"2015-06-08 20:29:55","2015-06-08 20:29:55",,"86","http://localhost/folha/index.php/2015/06/08/86-revision-v1/","0","revision",,"0"
+"88","1","2015-06-08 21:20:44","2015-06-08 21:20:44",,"edition",,"inherit","open","open",,"edition",,,"2015-06-08 21:20:44","2015-06-08 21:20:44",,"0","http://localhost/folha/wp-content/uploads/2015/06/edition.jpg","0","attachment","image/jpeg","0"
+"89","1","2015-06-08 21:24:32","2015-06-08 21:24:32",,"edition2",,"inherit","open","open",,"edition2",,,"2015-06-08 21:24:32","2015-06-08 21:24:32",,"0","http://localhost/folha/wp-content/uploads/2015/06/edition2.jpg","0","attachment","image/jpeg","0"
+"90","1","2015-06-08 21:55:16","2015-06-08 21:55:16",,"edition2",,"inherit","open","open",,"edition2-2",,,"2015-06-08 21:55:16","2015-06-08 21:55:16",,"0","http://localhost/folha/wp-content/uploads/2015/06/edition21.jpg","0","attachment","image/jpeg","0"
+"91","1","2015-06-09 16:13:16","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:16","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=91","1","nav_menu_item",,"0"
+"92","1","2015-06-09 16:13:16","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:16","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=92","1","nav_menu_item",,"0"
+"93","1","2015-06-09 16:13:16","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:16","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=93","1","nav_menu_item",,"0"
+"94","1","2015-06-09 16:13:17","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:17","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=94","1","nav_menu_item",,"0"
+"95","1","2015-06-09 16:13:17","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:17","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=95","1","nav_menu_item",,"0"
+"96","1","2015-06-09 16:13:17","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:17","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=96","1","nav_menu_item",,"0"
+"97","1","2015-06-09 16:13:18","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:18","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=97","1","nav_menu_item",,"0"
+"98","1","2015-06-09 16:13:19","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:19","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=98","1","nav_menu_item",,"0"
+"99","1","2015-06-09 16:13:19","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:19","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=99","1","nav_menu_item",,"0"
+"100","1","2015-06-09 16:13:20","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:20","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=100","1","nav_menu_item",,"0"
+"101","1","2015-06-09 16:13:20","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:20","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=101","1","nav_menu_item",,"0"
+"102","1","2015-06-09 16:13:21","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:21","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=102","1","nav_menu_item",,"0"
+"103","1","2015-06-09 16:13:21","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:21","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=103","1","nav_menu_item",,"0"
+"104","1","2015-06-09 16:13:22","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:22","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=104","1","nav_menu_item",,"0"
+"105","1","2015-06-09 16:13:22","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:22","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=105","1","nav_menu_item",,"0"
+"106","1","2015-06-09 16:13:22","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:22","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=106","1","nav_menu_item",,"0"
+"107","1","2015-06-09 16:13:23","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:23","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=107","1","nav_menu_item",,"0"
+"108","1","2015-06-09 16:13:23","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:23","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=108","1","nav_menu_item",,"0"
+"109","1","2015-06-09 16:13:24","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:24","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=109","1","nav_menu_item",,"0"
+"110","1","2015-06-09 16:13:24","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:24","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=110","1","nav_menu_item",,"0"
+"111","1","2015-06-09 16:13:25","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:25","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=111","1","nav_menu_item",,"0"
+"112","1","2015-06-09 16:13:25","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:25","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=112","1","nav_menu_item",,"0"
+"113","1","2015-06-09 16:13:26","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:26","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=113","1","nav_menu_item",,"0"
+"114","1","2015-06-09 16:13:27","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:27","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=114","1","nav_menu_item",,"0"
+"115","1","2015-06-09 16:13:27","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:27","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=115","1","nav_menu_item",,"0"
+"116","1","2015-06-09 16:13:28","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:28","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=116","1","nav_menu_item",,"0"
+"117","1","2015-06-09 16:13:28","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:28","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=117","1","nav_menu_item",,"0"
+"118","1","2015-06-09 16:13:29","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:29","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=118","1","nav_menu_item",,"0"
+"119","1","2015-06-09 16:13:29","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:29","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=119","1","nav_menu_item",,"0"
+"120","1","2015-06-09 16:13:29","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:29","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=120","1","nav_menu_item",,"0"
+"121","1","2015-06-09 16:13:30","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:30","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=121","1","nav_menu_item",,"0"
+"122","1","2015-06-09 16:13:30","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:30","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=122","1","nav_menu_item",,"0"
+"123","1","2015-06-09 16:13:31","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:31","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=123","1","nav_menu_item",,"0"
+"124","1","2015-06-09 16:13:31","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:31","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=124","1","nav_menu_item",,"0"
+"125","1","2015-06-09 16:13:31","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:31","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=125","1","nav_menu_item",,"0"
+"126","1","2015-06-09 16:13:32","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:32","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=126","1","nav_menu_item",,"0"
+"127","1","2015-06-09 16:13:32","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:32","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=127","1","nav_menu_item",,"0"
+"128","1","2015-06-09 16:13:32","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:32","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=128","1","nav_menu_item",,"0"
+"129","1","2015-06-09 16:13:33","0000-00-00 00:00:00"," ",,,"draft","open","open",,,,,"2015-06-09 16:13:33","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=129","1","nav_menu_item",,"0"
+"132","1","2015-06-09 17:19:44","2015-06-09 17:19:44"," ",,,"publish","open","open",,"132",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=132","11","nav_menu_item",,"0"
+"133","1","2015-06-09 17:19:44","2015-06-09 17:19:44"," ",,,"publish","open","open",,"133",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=133","30","nav_menu_item",,"0"
+"134","1","2015-06-09 17:19:44","2015-06-09 17:19:44"," ",,,"publish","open","open",,"134",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=134","25","nav_menu_item",,"0"
+"135","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"135",,,"2015-06-09 17:51:07","2015-06-09 17:51:07",,"0","http://localhost/folha/?p=135","36","nav_menu_item",,"0"
+"136","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"136",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=136","29","nav_menu_item",,"0"
+"137","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"137",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=137","26","nav_menu_item",,"0"
+"138","1","2015-06-09 17:19:44","2015-06-09 17:19:44"," ",,,"publish","open","open",,"138",,,"2015-06-09 17:51:04","2015-06-09 17:51:04",,"0","http://localhost/folha/?p=138","1","nav_menu_item",,"0"
+"139","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"139",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=139","22","nav_menu_item",,"0"
+"140","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"140",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=140","15","nav_menu_item",,"0"
+"141","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"141",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=141","18","nav_menu_item",,"0"
+"142","1","2015-06-09 17:19:45","2015-06-09 17:19:45"," ",,,"publish","open","open",,"142",,,"2015-06-09 17:51:07","2015-06-09 17:51:07",,"0","http://localhost/folha/?p=142","38","nav_menu_item",,"0"
+"143","1","2015-06-09 17:19:46","2015-06-09 17:19:46"," ",,,"publish","open","open",,"143",,,"2015-06-09 17:51:07","2015-06-09 17:51:07",,"0","http://localhost/folha/?p=143","37","nav_menu_item",,"0"
+"144","1","2015-06-09 17:19:46","2015-06-09 17:19:46"," ",,,"publish","open","open",,"144",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=144","27","nav_menu_item",,"0"
+"145","1","2015-06-09 17:19:46","2015-06-09 17:19:46"," ",,,"publish","open","open",,"145",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=145","6","nav_menu_item",,"0"
+"146","1","2015-06-09 17:19:46","2015-06-09 17:19:46"," ",,,"publish","open","open",,"146",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=146","12","nav_menu_item",,"0"
+"147","1","2015-06-09 17:19:46","2015-06-09 17:19:46"," ",,,"publish","open","open",,"147",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=147","17","nav_menu_item",,"0"
+"148","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"148",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=148","19","nav_menu_item",,"0"
+"149","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"149",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=149","21","nav_menu_item",,"0"
+"150","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"150",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=150","31","nav_menu_item",,"0"
+"151","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"151",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=151","16","nav_menu_item",,"0"
+"152","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"152",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=152","24","nav_menu_item",,"0"
+"153","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"153",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=153","7","nav_menu_item",,"0"
+"154","1","2015-06-09 17:19:47","2015-06-09 17:19:47"," ",,,"publish","open","open",,"154",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=154","13","nav_menu_item",,"0"
+"155","1","2015-06-09 17:19:48","2015-06-09 17:19:48"," ",,,"publish","open","open",,"155",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=155","20","nav_menu_item",,"0"
+"156","1","2015-06-09 17:19:48","2015-06-09 17:19:48"," ",,,"publish","open","open",,"156",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=156","8","nav_menu_item",,"0"
+"157","1","2015-06-09 17:19:48","2015-06-09 17:19:48"," ",,,"publish","open","open",,"157",,,"2015-06-09 17:51:04","2015-06-09 17:51:04",,"0","http://localhost/folha/?p=157","2","nav_menu_item",,"0"
+"158","1","2015-06-09 17:19:49","2015-06-09 17:19:49"," ",,,"publish","open","open",,"158",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=158","9","nav_menu_item",,"0"
+"159","1","2015-06-09 17:19:49","2015-06-09 17:19:49"," ",,,"publish","open","open",,"159",,,"2015-06-09 17:51:04","2015-06-09 17:51:04",,"0","http://localhost/folha/?p=159","3","nav_menu_item",,"0"
+"160","1","2015-06-09 17:19:49","2015-06-09 17:19:49"," ",,,"publish","open","open",,"160",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=160","28","nav_menu_item",,"0"
+"161","1","2015-06-09 17:19:49","2015-06-09 17:19:49"," ",,,"publish","open","open",,"161",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=161","32","nav_menu_item",,"0"
+"162","1","2015-06-09 17:19:49","2015-06-09 17:19:49"," ",,,"publish","open","open",,"162",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=162","33","nav_menu_item",,"0"
+"163","1","2015-06-09 17:19:50","2015-06-09 17:19:50"," ",,,"publish","open","open",,"163",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=163","34","nav_menu_item",,"0"
+"164","1","2015-06-09 17:19:50","2015-06-09 17:19:50",,"Serviços",,"publish","open","open",,"164",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=164","10","nav_menu_item",,"0"
+"165","1","2015-06-09 17:19:50","2015-06-09 17:19:50"," ",,,"publish","open","open",,"165",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=165","4","nav_menu_item",,"0"
+"166","1","2015-06-09 17:19:50","2015-06-09 17:19:50"," ",,,"publish","open","open",,"166",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=166","35","nav_menu_item",,"0"
+"167","1","2015-06-09 17:19:50","2015-06-09 17:19:50"," ",,,"publish","open","open",,"167",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=167","14","nav_menu_item",,"0"
+"168","1","2015-06-09 17:19:50","2015-06-09 17:19:50"," ",,,"publish","open","open",,"168",,,"2015-06-09 17:51:06","2015-06-09 17:51:06",,"0","http://localhost/folha/?p=168","23","nav_menu_item",,"0"
+"169","1","2015-06-09 17:19:51","2015-06-09 17:19:51"," ",,,"publish","open","open",,"169",,,"2015-06-09 17:51:05","2015-06-09 17:51:05",,"0","http://localhost/folha/?p=169","5","nav_menu_item",,"0"
+"170","1","2015-06-09 17:19:51","2015-06-09 17:19:51"," ",,,"publish","open","open",,"170",,,"2015-06-09 17:51:07","2015-06-09 17:51:07",,"0","http://localhost/folha/?p=170","39","nav_menu_item",,"0"
+"174","1","2015-06-09 19:59:39","2015-06-09 19:59:39"," ",,,"publish","open","open",,"174",,,"2015-06-09 19:59:39","2015-06-09 19:59:39",,"0","http://localhost/folha/?p=174","1","nav_menu_item",,"0"
+"175","1","2015-06-09 19:59:39","2015-06-09 19:59:39"," ",,,"publish","open","open",,"175",,,"2015-06-09 19:59:39","2015-06-09 19:59:39",,"0","http://localhost/folha/?p=175","2","nav_menu_item",,"0"
+"176","1","2015-06-09 19:59:40","2015-06-09 19:59:40"," ",,,"publish","open","open",,"176",,,"2015-06-09 19:59:40","2015-06-09 19:59:40",,"0","http://localhost/folha/?p=176","3","nav_menu_item",,"0"
+"177","1","2015-06-09 19:59:40","2015-06-09 19:59:40"," ",,,"publish","open","open",,"177",,,"2015-06-09 19:59:40","2015-06-09 19:59:40",,"0","http://localhost/folha/?p=177","4","nav_menu_item",,"0"
+"178","1","2015-06-09 20:00:38","2015-06-09 20:00:38"," ",,,"publish","open","open",,"178",,,"2015-06-09 20:00:38","2015-06-09 20:00:38",,"0","http://localhost/folha/?p=178","1","nav_menu_item",,"0"
+"179","1","2015-06-09 20:00:38","2015-06-09 20:00:38"," ",,,"publish","open","open",,"179",,,"2015-06-09 20:00:38","2015-06-09 20:00:38",,"0","http://localhost/folha/?p=179","2","nav_menu_item",,"0"
+"180","1","2015-06-09 20:00:38","2015-06-09 20:00:38"," ",,,"publish","open","open",,"180",,,"2015-06-09 20:00:38","2015-06-09 20:00:38",,"0","http://localhost/folha/?p=180","3","nav_menu_item",,"0"
+"181","1","2015-06-09 20:01:49","2015-06-09 20:01:49"," ",,,"publish","open","open",,"181",,,"2015-06-09 20:01:49","2015-06-09 20:01:49",,"0","http://localhost/folha/?p=181","1","nav_menu_item",,"0"
+"182","1","2015-06-09 20:01:50","2015-06-09 20:01:50"," ",,,"publish","open","open",,"182",,,"2015-06-09 20:01:50","2015-06-09 20:01:50",,"0","http://localhost/folha/?p=182","2","nav_menu_item",,"0"
+"183","1","2015-06-09 20:01:50","2015-06-09 20:01:50"," ",,,"publish","open","open",,"183",,,"2015-06-09 20:01:50","2015-06-09 20:01:50",,"0","http://localhost/folha/?p=183","3","nav_menu_item",,"0"
+"184","1","2015-06-09 20:01:50","2015-06-09 20:01:50"," ",,,"publish","open","open",,"184",,,"2015-06-09 20:01:50","2015-06-09 20:01:50",,"0","http://localhost/folha/?p=184","4","nav_menu_item",,"0"
+"185","1","2015-06-09 20:01:50","2015-06-09 20:01:50"," ",,,"publish","open","open",,"185",,,"2015-06-09 20:01:50","2015-06-09 20:01:50",,"0","http://localhost/folha/?p=185","5","nav_menu_item",,"0"
+"186","1","2015-06-09 20:01:50","2015-06-09 20:01:50"," ",,,"publish","open","open",,"186",,,"2015-06-09 20:01:50","2015-06-09 20:01:50",,"0","http://localhost/folha/?p=186","6","nav_menu_item",,"0"
+"187","1","2015-06-09 20:02:35","2015-06-09 20:02:35"," ",,,"publish","open","open",,"187",,,"2015-06-09 20:02:35","2015-06-09 20:02:35",,"0","http://localhost/folha/?p=187","1","nav_menu_item",,"0"
+"188","1","2015-06-09 20:02:35","2015-06-09 20:02:35"," ",,,"publish","open","open",,"188",,,"2015-06-09 20:02:35","2015-06-09 20:02:35",,"0","http://localhost/folha/?p=188","2","nav_menu_item",,"0"
+"189","1","2015-06-09 20:02:35","2015-06-09 20:02:35"," ",,,"publish","open","open",,"189",,,"2015-06-09 20:02:35","2015-06-09 20:02:35",,"0","http://localhost/folha/?p=189","3","nav_menu_item",,"0"
+"190","1","2015-06-09 20:04:05","2015-06-09 20:04:05"," ",,,"publish","open","open",,"190",,,"2015-06-09 20:04:05","2015-06-09 20:04:05",,"0","http://localhost/folha/?p=190","1","nav_menu_item",,"0"
+"191","1","2015-06-09 20:04:05","2015-06-09 20:04:05"," ",,,"publish","open","open",,"191",,,"2015-06-09 20:04:05","2015-06-09 20:04:05",,"0","http://localhost/folha/?p=191","2","nav_menu_item",,"0"
+"192","1","2015-06-09 20:13:08","2015-06-09 20:13:08"," ",,,"publish","open","open",,"192",,,"2015-06-09 20:13:08","2015-06-09 20:13:08",,"0","http://localhost/folha/?p=192","1","nav_menu_item",,"0"
+"193","1","2015-06-09 20:13:09","2015-06-09 20:13:09"," ",,,"publish","open","open",,"193",,,"2015-06-09 20:13:09","2015-06-09 20:13:09",,"0","http://localhost/folha/?p=193","2","nav_menu_item",,"0"
+"194","1","2015-06-09 20:13:09","2015-06-09 20:13:09"," ",,,"publish","open","open",,"194",,,"2015-06-09 20:13:09","2015-06-09 20:13:09",,"0","http://localhost/folha/?p=194","3","nav_menu_item",,"0"
+"195","1","2015-06-09 20:13:39","2015-06-09 20:13:39"," ",,,"publish","open","open",,"195",,,"2015-06-09 20:13:39","2015-06-09 20:13:39",,"0","http://localhost/folha/?p=195","1","nav_menu_item",,"0"
+"196","1","2015-06-09 20:13:39","2015-06-09 20:13:39"," ",,,"publish","open","open",,"196",,,"2015-06-09 20:13:39","2015-06-09 20:13:39",,"0","http://localhost/folha/?p=196","2","nav_menu_item",,"0"
+"197","1","2015-06-09 20:13:39","2015-06-09 20:13:39"," ",,,"publish","open","open",,"197",,,"2015-06-09 20:13:39","2015-06-09 20:13:39",,"0","http://localhost/folha/?p=197","3","nav_menu_item",,"0"
+"198","1","2015-06-09 20:13:39","2015-06-09 20:13:39"," ",,,"publish","open","open",,"198",,,"2015-06-09 20:13:39","2015-06-09 20:13:39",,"0","http://localhost/folha/?p=198","4","nav_menu_item",,"0"
+"199","1","2015-06-09 20:13:57","2015-06-09 20:13:57"," ",,,"publish","open","open",,"199",,,"2015-06-09 20:13:57","2015-06-09 20:13:57",,"0","http://localhost/folha/?p=199","1","nav_menu_item",,"0"
+"200","1","2015-06-09 20:14:23","2015-06-09 20:14:23"," ",,,"publish","open","open",,"200",,,"2015-06-09 20:14:23","2015-06-09 20:14:23",,"0","http://localhost/folha/?p=200","1","nav_menu_item",,"0"
+"201","1","2015-06-09 20:14:23","2015-06-09 20:14:23"," ",,,"publish","open","open",,"201",,,"2015-06-09 20:14:23","2015-06-09 20:14:23",,"0","http://localhost/folha/?p=201","2","nav_menu_item",,"0"
+"202","1","2015-06-09 20:14:23","2015-06-09 20:14:23"," ",,,"publish","open","open",,"202",,,"2015-06-09 20:14:23","2015-06-09 20:14:23",,"0","http://localhost/folha/?p=202","3","nav_menu_item",,"0"
+"1","Sem categoria","sem-categoria","0"
+"4","Cidade","cidade","0"
+"5","Cultura","cultura","0"
+"7","Economia","economia","0"
+"9","Esporte","esporte","0"
+"10","Politica","politica","0"
+"12","Saude","saude","0"
+"13","Sociedade Ativa","sociedade-ativa","0"
+"14","Turismo","turismo","0"
+"15","Serviços","servicos","0"
+"16","Educação","educacao","0"
+"17","Meio Ambiente","meio-ambiente","0"
+"18","Obras","obras","0"
+"19","Trânsito","transito","0"
+"20","Gastronomia","gastronomia","0"
+"21","Literatura","literatura","0"
+"22","Musica","musica","0"
+"23","Agenda","agenda","0"
+"24","DiverShow","divershow","0"
+"25","Gratis","gratis","0"
+"26","Teatro","teatro","0"
+"27","Cinema","cinema","0"
+"28","Espetaculos","espetaculos","0"
+"29","Comercio","comercio","0"
+"30","Economia Solidaria","economia-solidaria","0"
+"31","Industria","industria","0"
+"32","CIencia","ciencia","0"
+"33","Tecnologia","tecnologia","0"
+"34","Amadores","amadores","0"
+"35","Campeonato Estadual","campeonato-estadual","0"
+"36","Copa Rio","copa-rio","0"
+"37","Câmara","camara","0"
+"38","ALERJ","alerj","0"
+"39","Eleições","eleicoes","0"
+"40","Projetos","projetos","0"
+"41","Saúde Animal","saude-animal","0"
+"42","Autoridades","autoridades","0"
+"43","Comunidade","comunidade","0"
+"44","Comportamento","comportamento","0"
+"45","Home","home","0"
+"65","rodapé1","rodape1","0"
+"66","rodape2","rodape2","0"
+"67","rodape3","rodape3","0"
+"68","rodape4","rodape4","0"
+"69","rodape5","rodape5","0"
+"70","rodape6","rodape6","0"
+"71","rodape7","rodape7","0"
+"72","rodape8","rodape8","0"
+"73","rodape9","rodape9","0"
+"74","rodape10","rodape10","0"
+"12","23","0"
+"14","23","0"
+"84","23","0"
+"86","23","0"
+"132","45","0"
+"133","45","0"
+"134","45","0"
+"135","45","0"
+"136","45","0"
+"137","45","0"
+"138","45","0"
+"139","45","0"
+"140","45","0"
+"141","45","0"
+"142","45","0"
+"143","45","0"
+"144","45","0"
+"145","45","0"
+"146","45","0"
+"147","45","0"
+"148","45","0"
+"149","45","0"
+"150","45","0"
+"151","45","0"
+"152","45","0"
+"153","45","0"
+"154","45","0"
+"155","45","0"
+"156","45","0"
+"157","45","0"
+"158","45","0"
+"159","45","0"
+"160","45","0"
+"161","45","0"
+"162","45","0"
+"163","45","0"
+"164","45","0"
+"165","45","0"
+"166","45","0"
+"167","45","0"
+"168","45","0"
+"169","45","0"
+"170","45","0"
+"174","65","0"
+"175","65","0"
+"176","65","0"
+"177","65","0"
+"178","66","0"
+"179","66","0"
+"180","66","0"
+"181","67","0"
+"182","67","0"
+"183","67","0"
+"184","67","0"
+"185","67","0"
+"186","67","0"
+"187","68","0"
+"188","68","0"
+"189","68","0"
+"190","69","0"
+"191","69","0"
+"192","70","0"
+"193","70","0"
+"194","70","0"
+"195","71","0"
+"196","71","0"
+"197","71","0"
+"198","71","0"
+"199","72","0"
+"200","73","0"
+"201","73","0"
+"202","73","0"
+"1","1","category",,"0","0"
+"4","4","category",,"0","0"
+"5","5","category",,"0","0"
+"7","7","category",,"0","0"
+"9","9","category",,"0","0"
+"10","10","category",,"0","0"
+"12","12","category",,"0","0"
+"13","13","category",,"0","0"
+"14","14","category",,"0","0"
+"15","15","category",,"0","0"
+"16","16","category",,"0","0"
+"17","17","category",,"0","0"
+"18","18","category",,"0","0"
+"19","19","category",,"0","0"
+"20","20","category",,"0","0"
+"21","21","category",,"0","0"
+"22","22","category",,"0","0"
+"23","23","category",,"0","4"
+"24","24","category",,"0","0"
+"25","25","category",,"0","0"
+"26","26","category",,"0","0"
+"27","27","category",,"0","0"
+"28","28","category",,"0","0"
+"29","29","category",,"0","0"
+"30","30","category",,"0","0"
+"31","31","category",,"0","0"
+"32","32","category",,"0","0"
+"33","33","category",,"0","0"
+"34","34","category",,"0","0"
+"35","35","category",,"0","0"
+"36","36","category",,"0","0"
+"37","37","category",,"0","0"
+"38","38","category",,"0","0"
+"39","39","category",,"0","0"
+"40","40","category",,"0","0"
+"41","41","category",,"0","0"
+"42","42","category",,"0","0"
+"43","43","category",,"0","0"
+"44","44","category",,"0","0"
+"45","45","nav_menu",,"0","39"
+"65","65","nav_menu",,"0","4"
+"66","66","nav_menu",,"0","3"
+"67","67","nav_menu",,"0","6"
+"68","68","nav_menu",,"0","3"
+"69","69","nav_menu",,"0","2"
+"70","70","nav_menu",,"0","3"
+"71","71","nav_menu",,"0","4"
+"72","72","nav_menu",,"0","1"
+"73","73","nav_menu",,"0","3"
+"74","74","nav_menu",,"0","0"
+"1","1","nickname","admin"
+"2","1","first_name",
+"3","1","last_name",
+"4","1","description",
+"5","1","rich_editing","true"
+"6","1","comment_shortcuts","false"
+"7","1","admin_color","fresh"
+"8","1","use_ssl","0"
+"9","1","show_admin_bar_front","true"
+"10","1","wp_capabilities","a:1:{s:13:""administrator"";b:1;}"
+"11","1","wp_user_level","10"
+"12","1","dismissed_wp_pointers","wp360_locks,wp390_widgets,wp410_dfw"
+"13","1","show_welcome_panel","1"
+"15","1","wp_dashboard_quick_press_last_post_id","203"
+"16","1","session_tokens","a:1:{s:64:""0b4b6c1bcaebf4e5945081a5464210aace0322fe7e13d2892e819f2130412a29"";a:4:{s:10:""expiration"";i:1436051138;s:2:""ip"";s:9:""127.0.0.1"";s:2:""ua"";s:76:""Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"";s:5:""login"";i:1435878338;}}"
+"17","1","wp_user-settings","libraryContent=browse&editor=tinymce&hidetb=0&mfold=o"
+"18","1","wp_user-settings-time","1433867503"
+"19","1","closedpostboxes_post","a:0:{}"
+"20","1","metaboxhidden_post","a:7:{i:0;s:11:""postexcerpt"";i:1;s:13:""trackbacksdiv"";i:2;s:10:""postcustom"";i:3;s:16:""commentstatusdiv"";i:4;s:11:""commentsdiv"";i:5;s:7:""slugdiv"";i:6;s:9:""authordiv"";}"
+"21","1","managenav-menuscolumnshidden","a:4:{i:0;s:11:""link-target"";i:1;s:11:""css-classes"";i:2;s:3:""xfn"";i:3;s:11:""description"";}"
+"22","1","metaboxhidden_nav-menus","a:2:{i:0;s:8:""add-post"";i:1;s:12:""add-post_tag"";}"
+"23","1","nav_menu_recently_edited","74"
+"1","admin","$P$BY18/qq16H0iR9rJ8jq6q5EGODtf0q0","admin","luizbweb@gmail.com",,"2015-05-27 13:37:11",,"0","admin"
