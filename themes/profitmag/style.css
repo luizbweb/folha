@@ -1873,3 +1873,8 @@ article.post .read-more {
 .single article.post .entry-content{
 	width: 100%;
 }
+
+#form-allowed-tags {
+	display:none;
+}
+
