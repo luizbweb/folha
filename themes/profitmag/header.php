@@ -49,6 +49,8 @@
                         <?php                    
                            endif; 
                         ?>
+
+	
                         
                         <div class="right-header f-right">
                             <?php
@@ -101,7 +103,15 @@
         </div><!-- header-wrapper-->
         
 	</header><!-- #masthead -->
-    
+
+
+<div class="wrapper header-wrapper clearfix">
+    <div class="header-container" style="padding:0px; text-align:center">
+	<br>
+	 <?php if ( dynamic_sidebar('rodape_widgets') ) : else : endif; ?>
+   </div>
+</div>
+
 
     <div class="wrapper content-wrapper clearfix">
 
