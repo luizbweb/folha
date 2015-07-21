@@ -1,8 +1,10 @@
+"1","1","2015-07-20 15:41:56","2015-07-20 15:41:56","Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!","Hello world!",,"publish","open","open",,"hello-world",,,"2015-07-20 15:41:56","2015-07-20 15:41:56",,"0","http://localhost/folha/?p=1","0","post",,"1"
 "2","1","2015-05-27 13:37:12","2015-05-27 13:37:12","Esta é uma página de exemplo. É diferente de um post porque ela ficará em um local e será exibida na navegação do seu site (na maioria dos temas). A maioria das pessoas começa com uma página de introdução aos potenciais visitantes do site. Ela pode ser assim:
 <blockquote>Olá! Eu sou um bike courrier de dia, ator amador à noite e este é meu blog. Eu moro em São Paulo, tenho um cachorro chamado Tonico e eu gosto de caipirinhas. (E de ser pego pela chuva.)</blockquote>
 ou assim:
 <blockquote>A XYZ foi fundada em 1971 e desde então vem proporcionando produtos de qualidade a seus clientes. Localizada em Valinhos, XYZ emprega mais de 2.000 pessoas e faz várias contribuições para a comunidade local.</blockquote>
 Como um novo usuário do WordPress, você deve ir até o <a href=""http://localhost/folha/wp-admin/"">seu painel</a> para excluir essa página e criar novas páginas com seu próprio conteúdo. Divirta-se!","Página de Exemplo",,"publish","open","open",,"pagina-exemplo",,,"2015-06-08 18:11:13","2015-06-08 18:11:13",,"0","http://localhost/folha/?page_id=2","0","page",,"0"
+"3","1","2015-07-20 15:42:36","0000-00-00 00:00:00",,"Auto Draft",,"auto-draft","open","open",,,,,"2015-07-20 15:42:36","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=3","0","post",,"0"
 "4","1","2015-05-28 17:51:19","2015-05-28 17:51:19",,"profitmag",,"inherit","open","open",,"profitmag",,,"2015-05-28 17:51:19","2015-05-28 17:51:19",,"0","http://localhost/folha/wp-content/uploads/2015/05/profitmag.png","0","attachment","image/png","0"
 "5","1","2015-05-28 17:52:12","2015-05-28 17:52:12","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag.png","cropped-profitmag.png",,"inherit","open","open",,"cropped-profitmag-png",,,"2015-05-28 17:52:12","2015-05-28 17:52:12",,"0","http://localhost/folha/wp-content/uploads/2015/05/cropped-profitmag.png","0","attachment","image/png","0"
 "6","1","2015-05-28 18:01:56","2015-05-28 18:01:56",,"profitmag1",,"inherit","open","open",,"profitmag1",,,"2015-05-28 18:01:56","2015-05-28 18:01:56",,"0","http://localhost/folha/wp-content/uploads/2015/05/profitmag1.png","0","attachment","image/png","0"
@@ -248,3 +250,208 @@ Duis at tortor accumsan, varius nisi ut, imperdiet velit. In tempus, sem sed lob
 "201","1","2015-06-09 20:14:23","2015-06-09 20:14:23"," ",,,"publish","open","open",,"201",,,"2015-06-09 20:14:23","2015-06-09 20:14:23",,"0","http://localhost/folha/?p=201","2","nav_menu_item",,"0"
 "202","1","2015-06-09 20:14:23","2015-06-09 20:14:23"," ",,,"publish","open","open",,"202",,,"2015-06-09 20:14:23","2015-06-09 20:14:23",,"0","http://localhost/folha/?p=202","3","nav_menu_item",,"0"
 "203","1","2015-07-20 14:48:40","0000-00-00 00:00:00",,"Rascunho automático",,"auto-draft","open","open",,,,,"2015-07-20 14:48:40","0000-00-00 00:00:00",,"0","http://localhost/folha/?p=203","0","post",,"0"
+"204","1","2015-07-21 15:00:15","2015-07-21 15:00:15","A presidente Dilma Rousseff, o governador Luiz Fernando Pezão e o prefeito do Rio de Janeiro, Eduardo Paes, entregaram nesta terça-feira (12/05) as chaves de 1.484 moradias do Programa Minha Casa Minha Vida para famílias com renda de até R$ 1.600, no bairro de Cosmos, na Zona Oeste do Rio. Os novos moradores dos empreendimentos Recanto do Paçuaré I (500 unidades), Recanto do Paçuaré II (499 unidades) e Vivenda das Gaivotas (485) vão morar em apartamentos com dois quartos, sala, cozinha, banheiro e área de serviço. Os condomínios fechados contam com redes de água, luz e gás e são equipados com guaritas, áreas de lazer, quadras poliesportivas, churrasqueiras e <em>playgrounds</em>.
+- Talvez a mais importante conquista de uma família seja um lar, um lugar onde as pessoas possam se estabelecer para poder sonhar com um futuro. E aqui no Rio isso ocorreu com o nosso programa e a parceria com os governos estadual e municipal – afirmou Dilma.
+Os recursos aplicados no programa em Cosmos, no valor de R$ 87,5 milhões, foram financiados pelo Fundo de Arrendamento Residencial (FAR), da Caixa Econômica Federal (CEF). Cada família pagará, por mês, 5% do valor de sua renda mensal pelos imóveis. Os condomínios são uma parceria entre o Governo Federal e a Prefeitura do Rio.
+- Este programa já proporcionou uma vida melhor para muita gente. Não vamos parar de perseverar. Isso é fruto de uma grande parceria – disse o governador Pezão.
+De acordo com a prefeitura do Rio, o programa Minha Casa Minha Vida registra 71.925 unidades contratadas (entregues e em construção), sendo 35.023 destinadas a famílias de baixa renda.
+- O Brasil passou décadas sem uma política habitacional. Já chegamos a mais de 70 mil casas através do Minha Casa Minha Vida no Rio de Janeiro – afirmou o prefeito.
+<strong>Moradores comemoram</strong>
+
+A dona de casa, Adriana Joaquim dos Santos, de 42 anos, não escondia sua alegria pela nova residência, onde vai morar com o filho, de 13 anos, e o marido.
+- Estou muito feliz, teremos uma moradia melhor e a localização é muito boa - disse.
+A diarista Viviane Aparecida Ezídio, de 37 anos, reconheceu os ganhos com a mudança de casa, onde vai morar com o marido e quatro filhos.
+- Vamos poder viver melhor e isso faz toda a diferença - afirmou.","PRESIDENTE DILMA ENTREGA MINHA CASA MINHA VIDA EM COSMOS",,"publish","open","open",,"presidente-dilma-entrega-minha-casa-minha-vida-em-cosmos",,,"2015-07-21 15:00:15","2015-07-21 15:00:15",,"0","http://localhost/folha/?p=204","0","post",,"0"
+"205","1","2015-07-21 14:59:53","2015-07-21 14:59:53",,"dilma-casa-cosmos2",,"inherit","open","open",,"dilma-casa-cosmos2",,,"2015-07-21 14:59:53","2015-07-21 14:59:53",,"204","http://localhost/folha/wp-content/uploads/2015/07/dilma-casa-cosmos2.jpg","0","attachment","image/jpeg","0"
+"206","1","2015-07-21 15:00:15","2015-07-21 15:00:15","A presidente Dilma Rousseff, o governador Luiz Fernando Pezão e o prefeito do Rio de Janeiro, Eduardo Paes, entregaram nesta terça-feira (12/05) as chaves de 1.484 moradias do Programa Minha Casa Minha Vida para famílias com renda de até R$ 1.600, no bairro de Cosmos, na Zona Oeste do Rio. Os novos moradores dos empreendimentos Recanto do Paçuaré I (500 unidades), Recanto do Paçuaré II (499 unidades) e Vivenda das Gaivotas (485) vão morar em apartamentos com dois quartos, sala, cozinha, banheiro e área de serviço. Os condomínios fechados contam com redes de água, luz e gás e são equipados com guaritas, áreas de lazer, quadras poliesportivas, churrasqueiras e <em>playgrounds</em>.
+- Talvez a mais importante conquista de uma família seja um lar, um lugar onde as pessoas possam se estabelecer para poder sonhar com um futuro. E aqui no Rio isso ocorreu com o nosso programa e a parceria com os governos estadual e municipal – afirmou Dilma.
+Os recursos aplicados no programa em Cosmos, no valor de R$ 87,5 milhões, foram financiados pelo Fundo de Arrendamento Residencial (FAR), da Caixa Econômica Federal (CEF). Cada família pagará, por mês, 5% do valor de sua renda mensal pelos imóveis. Os condomínios são uma parceria entre o Governo Federal e a Prefeitura do Rio.
+- Este programa já proporcionou uma vida melhor para muita gente. Não vamos parar de perseverar. Isso é fruto de uma grande parceria – disse o governador Pezão.
+De acordo com a prefeitura do Rio, o programa Minha Casa Minha Vida registra 71.925 unidades contratadas (entregues e em construção), sendo 35.023 destinadas a famílias de baixa renda.
+- O Brasil passou décadas sem uma política habitacional. Já chegamos a mais de 70 mil casas através do Minha Casa Minha Vida no Rio de Janeiro – afirmou o prefeito.
+<strong>Moradores comemoram</strong>
+
+A dona de casa, Adriana Joaquim dos Santos, de 42 anos, não escondia sua alegria pela nova residência, onde vai morar com o filho, de 13 anos, e o marido.
+- Estou muito feliz, teremos uma moradia melhor e a localização é muito boa - disse.
+A diarista Viviane Aparecida Ezídio, de 37 anos, reconheceu os ganhos com a mudança de casa, onde vai morar com o marido e quatro filhos.
+- Vamos poder viver melhor e isso faz toda a diferença - afirmou.","PRESIDENTE DILMA ENTREGA MINHA CASA MINHA VIDA EM COSMOS",,"inherit","open","open",,"204-revision-v1",,,"2015-07-21 15:00:15","2015-07-21 15:00:15",,"204","http://localhost/folha/index.php/2015/07/21/204-revision-v1/","0","revision",,"0"
+"207","1","2015-07-21 15:08:42","2015-07-21 15:08:42","O Procon Estadual, ligado à Secretaria de Estado de Proteção e Defesa do Consumidor, fiscalizou nesta quarta-feira (08/07), a Engemar, um ponto de abastecimento de água de Santa Cruz na Zona Oeste do Rio. O objetivo da Operação Àscaris foi checar a informação de que a água do local, fornecida a restaurantes por meio de caminhões pipa, seria imprópria para o consumo. A ação contou com o apoio da Assessoria de Segurança e do Centro de Qualidade de Água da Cedae, além da Delegacia de Proteção ao Meio Ambiente (DPMA) que comprovaram que a água da empresa não era potável. O estabelecimento foi interditado.
+
+A água estocada nas caixas d'água da empresa de transportes Engemar, localizada na Av. João XXIII, 7.000, era proveniente de furto e, por isso, ilegal. Além disso, a empresa não tinha alvará e seus caminhões pipa exibiam propaganda enganosa, informando que transportavam água potável. Os resultados dos testes realizados por agentes da Cedae e do DPMA, porém, comprovavam que a água não era apropriada para consumo.
+
+Além de interditar a empresa, o Procon Estadual determinou que ela cesse a retirada e comercialização de água. Seu responsável foi encaminhado à delegacia para prestar depoimentos e as formalidades criminais envolvidas. Os três caminhões pipa com água armazenada foram apreendidos pela DPMA. Também foi proibida a comercialização da água que estava armazenada em seis caixas de água contendo 20 mil litros cada e outra contendo 5 mil litros.
+
+Foram encontradas notas de venda de água da empresa para filial da lanchonete Burger King do Recreio dos Bandeirantes. Os fiscais foram até o estabelecimento, mas a água de lá analisada pela DPMA aparentemente era potável. Foi colhida amostra no local para análise futura que confirme a sua potabilidade.
+
+O nome da operação é referente ao vermeáscaris lumbricóides que pode ser encontrado em água contaminada.","Procon Estadual interdita empresa distribuidora de água em Santa Cruz",,"publish","open","open",,"procon-estadual-interdita-empresa-distribuidora-de-agua-em-santa-cruz",,,"2015-07-21 15:08:42","2015-07-21 15:08:42",,"0","http://localhost/folha/?p=207","0","post",,"0"
+"208","1","2015-07-21 15:03:34","2015-07-21 15:03:34",,"agua-stacruz",,"inherit","open","open",,"agua-stacruz",,,"2015-07-21 15:03:34","2015-07-21 15:03:34",,"207","http://localhost/folha/wp-content/uploads/2015/07/agua-stacruz.jpg","0","attachment","image/jpeg","0"
+"209","1","2015-07-21 15:08:42","2015-07-21 15:08:42","O Procon Estadual, ligado à Secretaria de Estado de Proteção e Defesa do Consumidor, fiscalizou nesta quarta-feira (08/07), a Engemar, um ponto de abastecimento de água de Santa Cruz na Zona Oeste do Rio. O objetivo da Operação Àscaris foi checar a informação de que a água do local, fornecida a restaurantes por meio de caminhões pipa, seria imprópria para o consumo. A ação contou com o apoio da Assessoria de Segurança e do Centro de Qualidade de Água da Cedae, além da Delegacia de Proteção ao Meio Ambiente (DPMA) que comprovaram que a água da empresa não era potável. O estabelecimento foi interditado.
+
+A água estocada nas caixas d'água da empresa de transportes Engemar, localizada na Av. João XXIII, 7.000, era proveniente de furto e, por isso, ilegal. Além disso, a empresa não tinha alvará e seus caminhões pipa exibiam propaganda enganosa, informando que transportavam água potável. Os resultados dos testes realizados por agentes da Cedae e do DPMA, porém, comprovavam que a água não era apropriada para consumo.
+
+Além de interditar a empresa, o Procon Estadual determinou que ela cesse a retirada e comercialização de água. Seu responsável foi encaminhado à delegacia para prestar depoimentos e as formalidades criminais envolvidas. Os três caminhões pipa com água armazenada foram apreendidos pela DPMA. Também foi proibida a comercialização da água que estava armazenada em seis caixas de água contendo 20 mil litros cada e outra contendo 5 mil litros.
+
+Foram encontradas notas de venda de água da empresa para filial da lanchonete Burger King do Recreio dos Bandeirantes. Os fiscais foram até o estabelecimento, mas a água de lá analisada pela DPMA aparentemente era potável. Foi colhida amostra no local para análise futura que confirme a sua potabilidade.
+
+O nome da operação é referente ao vermeáscaris lumbricóides que pode ser encontrado em água contaminada.","Procon Estadual interdita empresa distribuidora de água em Santa Cruz",,"inherit","open","open",,"207-revision-v1",,,"2015-07-21 15:08:42","2015-07-21 15:08:42",,"207","http://localhost/folha/index.php/2015/07/21/207-revision-v1/","0","revision",,"0"
+"210","1","2015-07-21 15:15:25","2015-07-21 15:15:25","O prefeito Eduardo Paes deu início, no sábado (04/07), às obras de urbanização do programa Aceleração do Crescimento (PAC2) em Sepetiba.  Segundo Paes, a intervenção garante mais qualidade de vida e resgata a autoestima dos moradores da localiddade:
+
+— É nossa obrigação dar o mesmo tratamento a todas as regiões da cidade, para torná-las mais justas. As melhorias valorizam os imóveis e resgatam o carinho que os moradores têm pelo lugar onde moram.
+
+O prefeito anunciou intervenções em 37 ruas nas comunidades Jerusalém e Bela Vista, em Sepetiba, nesta segunda fase do Programa de Aceleração do Crescimento 2 (PAC2).  Na primeira etapa, em março, 60 vias começaram a receber os serviços de pavimentação e saneamento.  Até o final do programa, a expectativa é atender 119 ruas do bairro.
+
+Nas localidades Balneário Globo, Cajueiros, Canal 1, Canal 3, Cavan, Jerusalém, Triunfo e Rio Capoeira serão construídos 5.268 de redes de esgoto, 2.723 metros de redes de drenagem, 34.697 metros quadrados de pavimentação e 14.860 metros quadrados de calçadas.
+
+Moradora da Rua Jerusalém há quase 50 anos, a dona de casa Selma Martins, 60 anos, comemorou as novas obras:
+
+— Esperei 47 anos por essas mudanças. Pensei que não estaria viva para ver. Estava cansada de viver com a lama invadindo a minha casa em dias de chuva. Agora estou feliz, enfim chegaram as obras.","Prefeitura lança obras de Aceleração do Crescimento em Sepetiba",,"publish","open","open",,"prefeitura-lanca-obras-de-aceleracao-do-crescimento-em-sepetiba",,,"2015-07-21 15:15:25","2015-07-21 15:15:25",,"0","http://localhost/folha/?p=210","0","post",,"0"
+"211","1","2015-07-21 15:11:29","2015-07-21 15:11:29",,"moradora_sepetiba_obras_09-07",,"inherit","open","open",,"moradora_sepetiba_obras_09-07",,,"2015-07-21 15:11:29","2015-07-21 15:11:29",,"210","http://localhost/folha/wp-content/uploads/2015/07/moradora_sepetiba_obras_09-07.jpg","0","attachment","image/jpeg","0"
+"212","1","2015-07-21 15:12:17","2015-07-21 15:12:17",,"moradora_sepetiba_obras_09-07",,"inherit","open","open",,"moradora_sepetiba_obras_09-07-2",,,"2015-07-21 15:12:17","2015-07-21 15:12:17",,"210","http://localhost/folha/wp-content/uploads/2015/07/moradora_sepetiba_obras_09-071.jpg","0","attachment","image/jpeg","0"
+"213","1","2015-07-21 15:15:25","2015-07-21 15:15:25","O prefeito Eduardo Paes deu início, no sábado (04/07), às obras de urbanização do programa Aceleração do Crescimento (PAC2) em Sepetiba.  Segundo Paes, a intervenção garante mais qualidade de vida e resgata a autoestima dos moradores da localiddade:
+
+— É nossa obrigação dar o mesmo tratamento a todas as regiões da cidade, para torná-las mais justas. As melhorias valorizam os imóveis e resgatam o carinho que os moradores têm pelo lugar onde moram.
+
+O prefeito anunciou intervenções em 37 ruas nas comunidades Jerusalém e Bela Vista, em Sepetiba, nesta segunda fase do Programa de Aceleração do Crescimento 2 (PAC2).  Na primeira etapa, em março, 60 vias começaram a receber os serviços de pavimentação e saneamento.  Até o final do programa, a expectativa é atender 119 ruas do bairro.
+
+Nas localidades Balneário Globo, Cajueiros, Canal 1, Canal 3, Cavan, Jerusalém, Triunfo e Rio Capoeira serão construídos 5.268 de redes de esgoto, 2.723 metros de redes de drenagem, 34.697 metros quadrados de pavimentação e 14.860 metros quadrados de calçadas.
+
+Moradora da Rua Jerusalém há quase 50 anos, a dona de casa Selma Martins, 60 anos, comemorou as novas obras:
+
+— Esperei 47 anos por essas mudanças. Pensei que não estaria viva para ver. Estava cansada de viver com a lama invadindo a minha casa em dias de chuva. Agora estou feliz, enfim chegaram as obras.","Prefeitura lança obras de Aceleração do Crescimento em Sepetiba",,"inherit","open","open",,"210-revision-v1",,,"2015-07-21 15:15:25","2015-07-21 15:15:25",,"210","http://localhost/folha/index.php/2015/07/21/210-revision-v1/","0","revision",,"0"
+"214","1","2015-07-21 15:16:50","2015-07-21 15:16:50","Um morador da Taquara viveu um dia de guarda municipal. Ao demorar mais de trinta minutos para passar pelo local por conta de um engarrafamento provocado por uma carreta mal estacionada na Rua André Rocha, o cidadão ligou para o Serviço 1746 da prefeitura e denunciou o abuso do motorista. Meia hora mais tarde ele foi multado pela guarda municipal. “ Eu multei o abusado, a carreta placa MDC 4154 ocupava meia pista causando um grande engarrafamento. Resolvi  ligar para as autoridades porque perdi um compromisso importante”, comemorava o cidadão que acrescentou: “Ele ainda vai perder pontos na carteira e pagar multa”.","Cidadão multa veículo estacionado irregularmente na Rua André Rocha",,"publish","open","open",,"cidadao-multa-veiculo-estacionado-irregularmente-na-rua-andre-rocha",,,"2015-07-21 15:16:50","2015-07-21 15:16:50",,"0","http://localhost/folha/?p=214","0","post",,"0"
+"215","1","2015-07-21 15:16:50","2015-07-21 15:16:50","Um morador da Taquara viveu um dia de guarda municipal. Ao demorar mais de trinta minutos para passar pelo local por conta de um engarrafamento provocado por uma carreta mal estacionada na Rua André Rocha, o cidadão ligou para o Serviço 1746 da prefeitura e denunciou o abuso do motorista. Meia hora mais tarde ele foi multado pela guarda municipal. “ Eu multei o abusado, a carreta placa MDC 4154 ocupava meia pista causando um grande engarrafamento. Resolvi  ligar para as autoridades porque perdi um compromisso importante”, comemorava o cidadão que acrescentou: “Ele ainda vai perder pontos na carteira e pagar multa”.","Cidadão multa veículo estacionado irregularmente na Rua André Rocha",,"inherit","open","open",,"214-revision-v1",,,"2015-07-21 15:16:50","2015-07-21 15:16:50",,"214","http://localhost/folha/index.php/2015/07/21/214-revision-v1/","0","revision",,"0"
+"216","1","2015-07-21 15:22:18","2015-07-21 15:22:18","A organização não governamental dirigida pela produtora cultural Ieda Thomé tem se destacado na promoção, divulgação e produção da cultura regional. Poetas, músicos, compositores, escritores e artistas plásticos participam com entusiasmo das atividades atraindo um público interessado e disposto.
+
+“No próximo domingo será apresentado o tradicional ""Bom dia, Poesia!”“, sarau de poesias, onde o/a poeta faz a inscrição para apresentar a sua poesia, de acordo com a ordem de chegada.
+
+Em cada evento, um poeta é o apresentador, sendo escolhido por sorteio, entre os poetas presentes, no evento anterior. Nesse evento escolhemos não só quem será o próximo apresentador, como também qual será o almoço.
+
+O evento é sempre realizado no primeiro domingo do mês, salvo exceções (quando o primeiro domingo é carnaval, por exemplo). Inicia, sempre às 10 horas da manhã, e, ao meio dia é servido o almoço. Após o almoço realizamos sempre alguma brincadeira, como: Qual é a palavra? ou apresentamos um ""Momento Especial"" com um artista (músico, humorista, documentarista ou outro convidado).
+
+O próximo será dia 05 de julho de 2015 na Av. Gaspar de Lemos, 12 fundos, Ilha de Guaratiba. Mais informações pelo telefone (21) 3427-3487. O almoço será carne seca com abóbora a R$ 12,00 e bebidas à parte. A entrada é franca”, anunciou Ieda Thomé.","Vida Feliz promove cultura em Guaratiba nesse domingo",,"publish","open","open",,"vida-feliz-promove-cultura-em-guaratiba-nesse-domingo",,,"2015-07-21 15:22:18","2015-07-21 15:22:18",,"0","http://localhost/folha/?p=216","0","post",,"0"
+"217","1","2015-07-21 15:21:41","2015-07-21 15:21:41",,"vida-feliz","O publico entusiasmado.","inherit","open","open",,"vida-feliz",,,"2015-07-21 15:22:02","2015-07-21 15:22:02",,"216","http://localhost/folha/wp-content/uploads/2015/07/vida-feliz.jpg","0","attachment","image/jpeg","0"
+"218","1","2015-07-21 15:22:18","2015-07-21 15:22:18","A organização não governamental dirigida pela produtora cultural Ieda Thomé tem se destacado na promoção, divulgação e produção da cultura regional. Poetas, músicos, compositores, escritores e artistas plásticos participam com entusiasmo das atividades atraindo um público interessado e disposto.
+
+“No próximo domingo será apresentado o tradicional ""Bom dia, Poesia!”“, sarau de poesias, onde o/a poeta faz a inscrição para apresentar a sua poesia, de acordo com a ordem de chegada.
+
+Em cada evento, um poeta é o apresentador, sendo escolhido por sorteio, entre os poetas presentes, no evento anterior. Nesse evento escolhemos não só quem será o próximo apresentador, como também qual será o almoço.
+
+O evento é sempre realizado no primeiro domingo do mês, salvo exceções (quando o primeiro domingo é carnaval, por exemplo). Inicia, sempre às 10 horas da manhã, e, ao meio dia é servido o almoço. Após o almoço realizamos sempre alguma brincadeira, como: Qual é a palavra? ou apresentamos um ""Momento Especial"" com um artista (músico, humorista, documentarista ou outro convidado).
+
+O próximo será dia 05 de julho de 2015 na Av. Gaspar de Lemos, 12 fundos, Ilha de Guaratiba. Mais informações pelo telefone (21) 3427-3487. O almoço será carne seca com abóbora a R$ 12,00 e bebidas à parte. A entrada é franca”, anunciou Ieda Thomé.","Vida Feliz promove cultura em Guaratiba nesse domingo",,"inherit","open","open",,"216-revision-v1",,,"2015-07-21 15:22:18","2015-07-21 15:22:18",,"216","http://localhost/folha/index.php/2015/07/21/216-revision-v1/","0","revision",,"0"
+"219","1","2015-07-21 15:28:02","2015-07-21 15:28:02","Localizada em Senador Camará, a mil metros da Avenida Santa Cruz, a Fazenda dos Viegas agoniza mas não morre. A mesma já teve parte da sua área invadida por comunitários, já abrigou a sub-prefeitura da Zona Oeste e hoje aguarda por projetos que lhe permita cumprir seu único papel possível: resgatar e preservar a cultura negra na cidade do Rio de Janeiro.
+
+O líder comunitário Cesar Barros esta gerindo a fazenda e anunciou que recebeu proposta de parceria para desenvolver um projeto que resgataria e preservaria a culinária escrava.Os recursos viriam de programas culturais da secretaria municipal, estadual e do governo federal, a fundo perdido. As cosinheiras da região comentaram: "" Seria muito bom se pudessemos ser capacitadas para a cosinha negra, garantiríamos nossa renda e serviríamos a cultura do país"" sonharam. Segundo as mesmas parte das instalações da fazenda abrigariam um restaurante escola.  Mais tarde outros projetos identificados com a cultura negra poderiam ser integrados e capacitar os classes de trabalhadores.","Fazenda dos Viegas espera por projetos",,"publish","open","open",,"fazenda-dos-viegas-espera-por-projetos",,,"2015-07-21 15:28:02","2015-07-21 15:28:02",,"0","http://localhost/folha/?p=219","0","post",,"0"
+"220","1","2015-07-21 15:25:22","2015-07-21 15:25:22",,"AG Rio de Janeiro (RJ) 12/09/2012 Fazenda do ViegasFoto: Ivo Korytowski","AG Rio de Janeiro (RJ) 12/09/2012 Fazenda do Viegas
+Foto: Ivo Korytowski","inherit","open","open",,"ag-rio-de-janeiro-rj-12092012-fazenda-do-viegasfoto-ivo-korytowski",,,"2015-07-21 15:26:14","2015-07-21 15:26:14",,"219","http://localhost/folha/wp-content/uploads/2015/07/Cultura_fazenda_dos_viegas.jpg","0","attachment","image/jpeg","0"
+"221","1","2015-07-21 15:28:02","2015-07-21 15:28:02","Localizada em Senador Camará, a mil metros da Avenida Santa Cruz, a Fazenda dos Viegas agoniza mas não morre. A mesma já teve parte da sua área invadida por comunitários, já abrigou a sub-prefeitura da Zona Oeste e hoje aguarda por projetos que lhe permita cumprir seu único papel possível: resgatar e preservar a cultura negra na cidade do Rio de Janeiro.
+
+O líder comunitário Cesar Barros esta gerindo a fazenda e anunciou que recebeu proposta de parceria para desenvolver um projeto que resgataria e preservaria a culinária escrava.Os recursos viriam de programas culturais da secretaria municipal, estadual e do governo federal, a fundo perdido. As cosinheiras da região comentaram: "" Seria muito bom se pudessemos ser capacitadas para a cosinha negra, garantiríamos nossa renda e serviríamos a cultura do país"" sonharam. Segundo as mesmas parte das instalações da fazenda abrigariam um restaurante escola.  Mais tarde outros projetos identificados com a cultura negra poderiam ser integrados e capacitar os classes de trabalhadores.","Fazenda dos Viegas espera por projetos",,"inherit","open","open",,"219-revision-v1",,,"2015-07-21 15:28:02","2015-07-21 15:28:02",,"219","http://localhost/folha/index.php/2015/07/21/219-revision-v1/","0","revision",,"0"
+"222","1","2015-07-21 15:31:47","2015-07-21 15:31:47","No próximo dia 24 a poetisa, escritora e artista plástica Margot Carvalho inaugurará sua exposição Razão &amp; Sensibilidade na Livraria Leitura, no Parkshopping Campo Grande.
+
+O público amante das artes terá até o dia 24 de agosto para visitar o espaço que abrirá de segunda a sábado, de 11 às 23hs, e aos domingos e feriados, de 13 às 21hs.
+
+Experimentada e com fama internacional Margot Carvalho inova combinando literatura e arte.
+
+<a href=""http://localhost/folha/wp-content/uploads/2015/07/obra_prima.gif""><img class="" size-full wp-image-223 aligncenter"" src=""http://localhost/folha/wp-content/uploads/2015/07/obra_prima.gif"" alt=""obra_prima"" width=""150"" height=""230"" /></a>
+
+Na abertura da Mostra que acontecerá às 18hs do dia 24/07, ela vai relançar seu livro intitulado “A obra prima”, um romance policial repleto de tramas e fora das regras convencionais.","Margot Carvalho expõe Razão & Sensibilidade",,"publish","open","open",,"margot-carvalho-expoe-razao-sensibilidade",,,"2015-07-21 15:31:47","2015-07-21 15:31:47",,"0","http://localhost/folha/?p=222","0","post",,"0"
+"223","1","2015-07-21 15:30:26","2015-07-21 15:30:26",,"obra_prima",,"inherit","open","open",,"obra_prima",,,"2015-07-21 15:30:26","2015-07-21 15:30:26",,"222","http://localhost/folha/wp-content/uploads/2015/07/obra_prima.gif","0","attachment","image/gif","0"
+"224","1","2015-07-21 15:31:00","2015-07-21 15:31:00",,"quadro_margot",,"inherit","open","open",,"quadro_margot",,,"2015-07-21 15:31:00","2015-07-21 15:31:00",,"222","http://localhost/folha/wp-content/uploads/2015/07/quadro_margot.jpg","0","attachment","image/jpeg","0"
+"225","1","2015-07-21 15:31:47","2015-07-21 15:31:47","No próximo dia 24 a poetisa, escritora e artista plástica Margot Carvalho inaugurará sua exposição Razão &amp; Sensibilidade na Livraria Leitura, no Parkshopping Campo Grande.
+
+O público amante das artes terá até o dia 24 de agosto para visitar o espaço que abrirá de segunda a sábado, de 11 às 23hs, e aos domingos e feriados, de 13 às 21hs.
+
+Experimentada e com fama internacional Margot Carvalho inova combinando literatura e arte.
+
+<a href=""http://localhost/folha/wp-content/uploads/2015/07/obra_prima.gif""><img class="" size-full wp-image-223 aligncenter"" src=""http://localhost/folha/wp-content/uploads/2015/07/obra_prima.gif"" alt=""obra_prima"" width=""150"" height=""230"" /></a>
+
+Na abertura da Mostra que acontecerá às 18hs do dia 24/07, ela vai relançar seu livro intitulado “A obra prima”, um romance policial repleto de tramas e fora das regras convencionais.","Margot Carvalho expõe Razão & Sensibilidade",,"inherit","open","open",,"222-revision-v1",,,"2015-07-21 15:31:47","2015-07-21 15:31:47",,"222","http://localhost/folha/index.php/2015/07/21/222-revision-v1/","0","revision",,"0"
+"226","1","2015-07-21 15:38:36","2015-07-21 15:38:36","<a href=""http://localhost/folha/wp-content/uploads/2015/07/Marcos_Damasceno.jpg""><img class=""alignnone size-full wp-image-227"" src=""http://localhost/folha/wp-content/uploads/2015/07/Marcos_Damasceno.jpg"" alt=""Marcos_Damasceno"" width=""254"" height=""232"" /></a>
+
+Amigos, fãs e parceiros do músico, cantor e compositor prestaram suas últimas homenagens a Marcos Damascenoou então Marquinho Bossa-Nova como também era conhecido nas noites do Rio de Janeiro, principalmente na Zona Oeste.
+Marcos Damasceno faleceu segunda feira (02-03) no Hospital de Bonsucesso, vítima de câncer.
+
+“A importância da Música Popular Brasileira no cenário da cultura universal é inegável. Apresenta-se como uma das mais poderosas formas de preservação da memória coletiva e como um espaço social privilegiado para as leituras e interpretações deste Brasil musical.
+Marcos Damasceno tem (teve) um carisma e uma força mística sem igual e é fruto de uma cultura popular rica, que gera artista de seu porte. Compositores de autêntica e invulnerável altivez. Damasceno é (foi) um violonista e cantor extremamente talentoso e o seu cd, ""Momentos Felizes” é puramente intimista, como foi na maioria das vezes a carreira deste poeta. Damasceno destila toda sua ternura e lirismo exaltando os bons valores do homem, que, diga-se de passagem, deve ter nascido provavelmente de um inconsciente coletivo que exibia canções para registrar o seu cotidiano na mãe áfrica, berço da humanidade e de toda manifestação musical, somado à busca de forças em seu interior. A canção de Marcos Damasceno é a canção de todas as manhãs”,
+escreveu seu amigo e também compositor, Antonio Siqueira – Blog Arte Vital). Dalberto Gomes, entre dezenas de parceiros também se pronunciaram.","Zona Oeste dá adeus ao músico Marco Damasceno",,"publish","open","open",,"zona-oeste-da-adeus-ao-musico-marco-damasceno",,,"2015-07-21 15:40:34","2015-07-21 15:40:34",,"0","http://localhost/folha/?p=226","0","post",,"0"
+"227","1","2015-07-21 15:33:57","2015-07-21 15:33:57",,"Marcos_Damasceno",,"inherit","open","open",,"marcos_damasceno",,,"2015-07-21 15:33:57","2015-07-21 15:33:57",,"226","http://localhost/folha/wp-content/uploads/2015/07/Marcos_Damasceno.jpg","0","attachment","image/jpeg","0"
+"228","1","2015-07-21 15:38:36","2015-07-21 15:38:36","<a href=""http://localhost/folha/wp-content/uploads/2015/07/Marcos_Damasceno.jpg""><img class=""alignnone size-full wp-image-227"" src=""http://localhost/folha/wp-content/uploads/2015/07/Marcos_Damasceno.jpg"" alt=""Marcos_Damasceno"" width=""254"" height=""232"" /></a>
+
+Amigos, fãs e parceiros do músico, cantor e compositor prestaram suas últimas homenagens a Marcos Damascenoou então Marquinho Bossa-Nova como também era conhecido nas noites do Rio de Janeiro, principalmente na Zona Oeste.
+Marcos Damasceno faleceu segunda feira (02-03) no Hospital de Bonsucesso, vítima de câncer.
+
+“A importância da Música Popular Brasileira no cenário da cultura universal é inegável. Apresenta-se como uma das mais poderosas formas de preservação da memória coletiva e como um espaço social privilegiado para as leituras e interpretações deste Brasil musical.
+Marcos Damasceno tem (teve) um carisma e uma força mística sem igual e é fruto de uma cultura popular rica, que gera artista de seu porte. Compositores de autêntica e invulnerável altivez. Damasceno é (foi) um violonista e cantor extremamente talentoso e o seu cd, ""Momentos Felizes” é puramente intimista, como foi na maioria das vezes a carreira deste poeta. Damasceno destila toda sua ternura e lirismo exaltando os bons valores do homem, que, diga-se de passagem, deve ter nascido provavelmente de um inconsciente coletivo que exibia canções para registrar o seu cotidiano na mãe áfrica, berço da humanidade e de toda manifestação musical, somado à busca de forças em seu interior. A canção de Marcos Damasceno é a canção de todas as manhãs”,
+escreveu seu amigo e também compositor, Antonio Siqueira – Blog Arte Vital). Dalberto Gomes, entre dezenas de parceiros também se pronunciaram.","Zona Oeste dá adeus ao músico Marco Damasceno",,"inherit","open","open",,"226-revision-v1",,,"2015-07-21 15:38:36","2015-07-21 15:38:36",,"226","http://localhost/folha/index.php/2015/07/21/226-revision-v1/","0","revision",,"0"
+"229","1","2015-07-21 17:50:49","2015-07-21 17:50:49","Neste domingo, dia 24 de agosto, tem a apresentação no Bangu Shopping de um dos contos infantis mais clássicos: ‘Os três porquinhos’. A atração é gratuita e será encenada às 17h, na Praça de Alimentação da Expansão.
+<div>A fábula conta a história de Bolão, Bolinha e Prático, os três porquinhos, que tomam uma importante decisão na vida: construir suas próprias casas, para que pudessem ter sua independência e também resistir ao temido Lobo Mau. Por terem personalidades diferentes, cada um construiu a casa a sua maneira. Daí em diante, muitas aventuras acontecerão na vida desses porquinhos.</div>
+<div>SERVIÇO</div>
+<div>Evento: Bangu Shopping apresenta a peça infantil ‘Os três porquinhos’</div>
+<div></div>
+<div>Data: 24 de agosto (domingo)</div>
+<div></div>
+<div>Horário: 17h</div>
+<div></div>
+<div>Local: Praça de Alimentação da Expansão</div>
+<div></div>
+<div>Classificação: Livre</div>
+<div></div>
+<div>Duração: 55 minutos</div>
+<div></div>
+<div>Capacidade: Aproximadamente 400 pessoas</div>
+<div></div>
+<div>Entrada: Gratuita</div>
+<div></div>
+<div>Realização: Bangu Shopping</div>
+<div></div>
+<div></div>
+<div></div>
+<div>FICHA TÉCNICA</div>
+<div></div>
+<div>Produção: Cia Artistando</div>
+<div></div>
+<div>Adaptação: Cia Artistando</div>
+<div></div>
+<div>Direção: Cia Artistando</div>
+<div></div>
+<div>Produção Geral e Coordenação: Cia Artistando</div>
+<div></div>
+<div>O Bangu Shopping fica na Rua Fonseca, 240, Bangu. O telefone de contato é <a href=""tel:(21) 2430-5130"">(21) 2430-5130</a>.</div>","Bangu Shopping apresenta a peça infantil ‘Os três porquinhos’",,"publish","open","open",,"bangu-shopping-apresenta-a-peca-infantil-os-tres-porquinhos",,,"2015-07-21 18:04:49","2015-07-21 18:04:49",,"0","http://localhost/folha/?p=229","0","post",,"0"
+"230","1","2015-07-21 17:50:05","2015-07-21 17:50:05",,"tres-porquinhos",,"inherit","open","open",,"tres-porquinhos",,,"2015-07-21 17:50:05","2015-07-21 17:50:05",,"229","http://localhost/folha/wp-content/uploads/2015/07/tres-porquinhos.jpg","0","attachment","image/jpeg","0"
+"231","1","2015-07-21 17:50:49","2015-07-21 17:50:49","Neste domingo, dia 24 de agosto, tem a apresentação no Bangu Shopping de um dos contos infantis mais clássicos: ‘Os três porquinhos’. A atração é gratuita e será encenada às 17h, na Praça de Alimentação da Expansão.
+<div>A fábula conta a história de Bolão, Bolinha e Prático, os três porquinhos, que tomam uma importante decisão na vida: construir suas próprias casas, para que pudessem ter sua independência e também resistir ao temido Lobo Mau. Por terem personalidades diferentes, cada um construiu a casa a sua maneira. Daí em diante, muitas aventuras acontecerão na vida desses porquinhos.</div>
+<div>SERVIÇO</div>
+<div>Evento: Bangu Shopping apresenta a peça infantil ‘Os três porquinhos’</div>
+<div></div>
+<div>Data: 24 de agosto (domingo)</div>
+<div></div>
+<div>Horário: 17h</div>
+<div></div>
+<div>Local: Praça de Alimentação da Expansão</div>
+<div></div>
+<div>Classificação: Livre</div>
+<div></div>
+<div>Duração: 55 minutos</div>
+<div></div>
+<div>Capacidade: Aproximadamente 400 pessoas</div>
+<div></div>
+<div>Entrada: Gratuita</div>
+<div></div>
+<div>Realização: Bangu Shopping</div>
+<div></div>
+<div></div>
+<div></div>
+<div>FICHA TÉCNICA</div>
+<div></div>
+<div>Produção: Cia Artistando</div>
+<div></div>
+<div>Adaptação: Cia Artistando</div>
+<div></div>
+<div>Direção: Cia Artistando</div>
+<div></div>
+<div>Produção Geral e Coordenação: Cia Artistando</div>
+<div></div>
+<div>O Bangu Shopping fica na Rua Fonseca, 240, Bangu. O telefone de contato é <a href=""tel:(21) 2430-5130"">(21) 2430-5130</a>.</div>","Bangu Shopping apresenta a peça infantil ‘Os três porquinhos’",,"inherit","open","open",,"229-revision-v1",,,"2015-07-21 17:50:49","2015-07-21 17:50:49",,"229","http://localhost/folha/index.php/2015/07/21/229-revision-v1/","0","revision",,"0"
+"232","1","2015-07-21 18:06:21","2015-07-21 18:06:21","Nesta sexta-feira (19/12), será realizada na Central do Brasil a última edição do ano do projeto “Samba nos Trilhos”. Ícone do samba autoral do subúrbio carioca, o cantor e compositor Diogo Nogueira será a atração principal do evento e se apresentará pela primeira vez na principal estação de trem do Rio. A abertura do “Samba Nos Trilhos” fica por conta do grupo Samba Permanente e o encerramento com o grupo Pegada Brasileira. O evento, que já reuniu mais de 20 mil pessoas, é gratuito e faz parte do calendário de atividades culturais da SuperVia – desde seu lançamento Velha Guarda da Portela, Almir Guineto, Leci Brandão, o presidente da Portela, Serginho Procópio e o cantor e sambista Neguinho da Beija-Flor já subiram ao palco do projeto. Com patrocínio da Rio de Prêmios/Loterj, Oi, Casa &amp; Vídeo e Nextel,  haverá sorteio de brindes nos intervalos dos shows e entrega de um carro a um ganhador.","SuperVia recebe Diogo Nogueira no projeto ""Samba nos Trilhos""",,"publish","open","open",,"supervia-recebe-diogo-nogueira-no-projeto-samba-nos-trilhos",,,"2015-07-21 18:11:24","2015-07-21 18:11:24",,"0","http://localhost/folha/?p=232","0","post",,"0"
+"233","1","2015-07-21 18:06:21","2015-07-21 18:06:21","Nesta sexta-feira (19/12), será realizada na Central do Brasil a última edição do ano do projeto “Samba nos Trilhos”. Ícone do samba autoral do subúrbio carioca, o cantor e compositor Diogo Nogueira será a atração principal do evento e se apresentará pela primeira vez na principal estação de trem do Rio. A abertura do “Samba Nos Trilhos” fica por conta do grupo Samba Permanente e o encerramento com o grupo Pegada Brasileira. O evento, que já reuniu mais de 20 mil pessoas, é gratuito e faz parte do calendário de atividades culturais da SuperVia – desde seu lançamento Velha Guarda da Portela, Almir Guineto, Leci Brandão, o presidente da Portela, Serginho Procópio e o cantor e sambista Neguinho da Beija-Flor já subiram ao palco do projeto. Com patrocínio da Rio de Prêmios/Loterj, Oi, Casa &amp; Vídeo e Nextel,  haverá sorteio de brindes nos intervalos dos shows e entrega de um carro a um ganhador.","SuperVia recebe Diogo Nogueira no projeto ""Samba nos Trilhos""",,"inherit","open","open",,"232-revision-v1",,,"2015-07-21 18:06:21","2015-07-21 18:06:21",,"232","http://localhost/folha/index.php/2015/07/21/232-revision-v1/","0","revision",,"0"
