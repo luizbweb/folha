@@ -457,7 +457,7 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
 
 
 .f-left{
-	float: left;
+	//float: left;
 }
 
 .f-right{
@@ -598,11 +598,13 @@ i.fa{
 }
 
 .site-logo.f-left {
-    width: 32%;
+    width:325px;
+    left:50%;
+    margin-left:-162.5px;
+    position:relative;
 }
 
 .site-logo.f-left img {
-    width: 100%;
     //margin-left: 360px;
 }
 
