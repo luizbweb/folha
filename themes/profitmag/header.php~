@@ -106,7 +106,7 @@
 
 
 <div class="wrapper header-wrapper clearfix">
-    <div class="header-container" style="padding:0px 50px; text-align:center">
+    <div class="header-container" style="padding:0px; text-align:center">
 	<br>
 	 <?php if ( dynamic_sidebar('rodape_widgets') ) : else : endif; ?>
    </div>
