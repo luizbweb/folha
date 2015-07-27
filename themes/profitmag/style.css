@@ -603,11 +603,11 @@ i.fa{
 
 .site-logo.f-left img {
     width: 100%;
-    margin-left: 360px;
+    //margin-left: 360px;
 }
 
 .header-ads.f-right {
-    text-align: right;
+    //text-align: right;
     width: 67.5%;
 }
 
