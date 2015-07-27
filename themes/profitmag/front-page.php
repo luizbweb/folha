@@ -39,7 +39,7 @@ if( 'page' == get_option( 'show_on_front' ) ) {
                                 
                                 <div class="post-desc clearfix">
                                     <h3 class="feature-main-title"><a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" ><?php the_title(); ?></a></h3>
-                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i><?php echo get_the_date( 'F d, Y') ; ?></div>
+                                    <!-- <div class="post-date feature-main-date"><i class="fa fa-calendar"></i><?php echo get_the_date( 'F d, Y') ; ?></div> -->
                                 </div>
                             </div>
                 <?php
@@ -172,7 +172,7 @@ if( 'page' == get_option( 'show_on_front' ) ) {
                                 
                                 <div class="post-desc clearfix">
                                     <h3 class="feature-main-title"><a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" ><?php the_title(); ?></a></h3>
-                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i><?php echo get_the_date( 'F d, Y') ; ?></div>
+                                    <!-- <div class="post-date feature-main-date"><i class="fa fa-calendar"></i><?php echo get_the_date( 'F d, Y') ; ?></div> -->
                                 </div>
                             </div>
                 <?php
