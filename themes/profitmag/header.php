@@ -67,7 +67,7 @@
                 
                     
                     
-                    <div class="site-branding clearfix">
+                    <div class="site-branding clearfix" style="text-align:center">
             			<div class="site-logo f-left">
                             <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
                                 <?php if( get_header_image() ): ?>
