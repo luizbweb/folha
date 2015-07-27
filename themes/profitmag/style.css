@@ -1061,6 +1061,10 @@ zoom: 1;
 	margin-right: 9px;
 }
 
+.post-date {
+	display:none;
+}
+
 /************** END SLIDER ********************/
 
 /***** HOME-CONTENT *****/
